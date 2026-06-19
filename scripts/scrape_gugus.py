@@ -135,8 +135,18 @@ def classify(o):
     def has(*words):
         return any(w in name for w in words)
 
-    size_m = re.search(r"(?<!\d)(25|28|30|32|35|40)(?!\d)", name)
+    size_m = re.search(r"(?<!\\d)(25|28|30|32|35|40)(?!\\d)", name)
     size = size_m.group(1) if size_m else None
+
+    # Wallet on Chain - check first: "클래식"/"보이" also appear in WOC names.
+    # gugus spells it 월렛 (not 월릿).
+    if has("woc", "월렛 온 체인", "월릿 온 체인", "지갑 온 체인", "wallet on chain"):
+        return "woc"
+
+    # Small leather goods (wallets, coin purses, card holders) often carry the
+    # model word but are not bags we track - drop them.
+    if has("지갑", "동전", "카드", "wallet", "card holder"):
+        return None
 
     if has("벌킨", "birkin"):
         if size == "25":
@@ -152,17 +162,14 @@ def classify(o):
         return None
     if has("보이", "boy"):
         return "boy_med"
-    if has("woc", "지갑 온 체인", "월릿 온 체인",
-           "wallet on chain", "체인 지갑"):
-        return "woc"
     if has("클래식", "classic"):
         if has("스몰", "small"):
             return "cdf_small"
-        if has("점보", "jumbo", "맥시", "maxi"):
+        if has("점보", "jumbo", "맥시", "maxi", "라지", "large"):
             return "cdf_jumbo"
         if has("미디움", "미듐", "medium", "미디엄"):
             return "cdf_medium"
-        return "cdf_medium"
+        return None  # unknown size - do not guess
     return None
 
 
