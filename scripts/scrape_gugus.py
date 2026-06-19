@@ -82,6 +82,34 @@ STORE_MAP = {
     "광주상무점": "Gwangju Sangmu",
 }
 
+
+# Leather/material keywords -> display name. Hermès leather appears in the
+# product description (often English: TOGO, EPSOM...); Chanel leather is usually
+# in the title (캐비어 / 램스킨).
+LEATHER_MAP = {
+    "TOGO": "Togo", "토고": "Togo",
+    "EPSOM": "Epsom", "엡송": "Epsom",
+    "SWIFT": "Swift", "스위프트": "Swift",
+    "CLEMENCE": "Clémence", "클레망스": "Clémence", "클레멘스": "Clémence",
+    "CHEVRE": "Chèvre", "샤브르": "Chèvre", "셰브르": "Chèvre",
+    "BARENIA": "Barénia", "바레니아": "Barénia",
+    "EVERCOLOR": "Evercolor", "에버컬러": "Evercolor",
+    "NOVILLO": "Novillo", "노빌로": "Novillo",
+    "FJORD": "Fjord", "피요르드": "Fjord",
+    "TADELAKT": "Tadelakt", "타델락": "Tadelakt",
+    "MYSORE": "Mysore", "마이소르": "Mysore",
+    "OSTRICH": "Ostrich", "오스트리치": "Ostrich",
+    "ALLIGATOR": "Alligator", "알리게이터": "Alligator",
+    "CAVIAR": "Caviar", "캐비어": "Caviar", "캐비아": "Caviar",
+    "LAMBSKIN": "Lambskin", "램스킨": "Lambskin",
+    "CALFSKIN": "Calfskin", "카프스킨": "Calfskin", "카프": "Calfskin",
+    "TWEED": "Tweed", "트위드": "Tweed",
+    "PATENT": "Patent", "파텐트": "Patent", "에나멜": "Patent",
+}
+
+DETAIL_URL = BASE + "/goods/viewGoods?goodsNo="
+CACHE_FILE = "detail_cache.json"
+
 HEADERS = {
     "Content-Type": "application/json",
     "X-Requested-With": "XMLHttpRequest",
@@ -211,7 +239,69 @@ def to_listing(o, model_key):
         "store": map_store(o.get("invtPssnShpNm") or o.get("shpRgnSprtNm")),
         "resalePHP": None,
         "image": img,
+        "stamp": extract_stamp(
+            "Hermès" if (o.get("brndEngNm") == "Hermes") else (o.get("brndEngNm") or ""),
+            o.get("gdsNm")) or "—",
+        "leather": extract_leather(o.get("gdsNm") or ""),  # may be None -> enriched later
     }
+
+
+def extract_leather(*texts):
+    blob = " ".join(t for t in texts if t)
+    up = blob.upper()
+    for k, v in LEATHER_MAP.items():
+        if k.isascii():
+            if k in up:
+                return v
+        elif k in blob:
+            return v
+    return None
+
+
+def extract_stamp(brand, name):
+    """Hermès engraved stamp letter, or Chanel series number, from the title."""
+    if brand == "Hermès":
+        m = re.search(r"\(([A-Z])\)", name or "")
+        if m:
+            return "Stamp " + m.group(1)
+    else:
+        m = re.search(r"(\d+)\s*번대", name or "")
+        if m:
+            return "Series " + m.group(1)
+    return None
+
+
+def fetch_detail_desc(goods_no, retries=2):
+    """Return the free-text product description (holds Hermès leather)."""
+    for attempt in range(retries):
+        try:
+            req = Request(DETAIL_URL + str(goods_no),
+                          headers={"User-Agent": HEADERS["User-Agent"],
+                                   "Accept-Language": "ko-KR,ko;q=0.9"})
+            with urlopen(req, timeout=20) as r:
+                html = r.read().decode("utf-8", "replace")
+            m = re.search(r'gdsDtlDsct\s*=\s*"((?:[^"\\]|\\.)*)"', html)
+            if m:
+                try:
+                    return json.loads('"' + m.group(1) + '"')
+                except Exception:
+                    return m.group(1)
+        except (URLError, HTTPError):
+            time.sleep(1.5 * (attempt + 1))
+    return ""
+
+
+def load_cache():
+    try:
+        with open(CACHE_FILE, encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return {}
+
+
+def save_cache(cache):
+    with open(CACHE_FILE, "w", encoding="utf-8") as f:
+        json.dump(cache, f, ensure_ascii=False, sort_keys=True, indent=0)
 
 
 def fetch_fx_rate(default=0.0398):
@@ -244,6 +334,30 @@ def main():
                 continue
             seen[gid] = to_listing(o, key)
         time.sleep(1)
+
+    # Enrich leather: Chanel usually has it in the title already; Hermès needs
+    # the detail page. Cache by goodsNo so only new items are ever fetched.
+    cache = load_cache()
+    fetched = 0
+    for gid, listing in seen.items():
+        if listing.get("leather"):
+            continue
+        if gid in cache:
+            listing["leather"] = cache[gid] or "—"
+            continue
+        lea = extract_leather(fetch_detail_desc(gid)) or ""
+        cache[gid] = lea
+        listing["leather"] = lea or "—"
+        fetched += 1
+        time.sleep(0.4)
+    # normalise any remaining None
+    for listing in seen.values():
+        if not listing.get("leather"):
+            listing["leather"] = "—"
+    # prune cache to goodsNo we still see (keep it from growing forever)
+    cache = {k: v for k, v in cache.items() if k in seen}
+    save_cache(cache)
+    print("Detail pages fetched this run: %d" % fetched)
 
     listings = list(seen.values())
     listings.sort(key=lambda x: x.get("postedAt") or "", reverse=True)
