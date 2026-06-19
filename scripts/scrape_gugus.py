@@ -33,12 +33,13 @@ IMG_BASE = "https://image.gugus.co.kr"
 # Each search term is fetched once; results are then classified into the
 # specific watchlist model keys below. Fewer searches, full coverage.
 SEARCH_TERMS = [
-    "에르메스 벌킨",        # Hermes Birkin -> birkin25, birkin30
-    "에르메스 켈리",        # Hermes Kelly  -> kelly25, mini_kelly
-    "샤넬 클래식",              # Chanel Classic -> cdf_small/medium/jumbo
-    "샤넬 보이",                    # Chanel Boy    -> boy_med
-    "샤넬 WOC",                              # Chanel WOC    -> woc
-    "샤넬 지갑 온 체인",  # wallet on chain -> woc
+    "에르메스 벌킨",        # Hermes Birkin     -> birkin25, birkin30
+    "에르메스 켈리 25",     # Hermes Kelly 25   -> kelly25
+    "에르메스 미니켈리",    # Hermes Mini Kelly -> mini_kelly
+    "샤넬 클래식",          # Chanel Classic    -> cdf_small/medium/jumbo
+    "샤넬 보이",            # Chanel Boy        -> boy_med
+    "샤넬 WOC",             # Chanel WOC        -> woc
+    "샤넬 지갑 온 체인",    # wallet on chain   -> woc
 ]
 
 # Human-readable label for each watchlist key (must match index.html's defs).
@@ -145,7 +146,9 @@ def classify(o):
 
     # Small leather goods (wallets, coin purses, card holders) often carry the
     # model word but are not bags we track - drop them.
-    if has("지갑", "동전", "카드", "wallet", "card holder"):
+    if has("지갑", "동전", "카드", "wallet", "card holder",
+           "뮬", "벨트", "샌들", "슬리퍼", "스카프", "트윌리",
+           "참", "스트랩", "키링", "브로치", "팔찌", "귀걸이"):
         return None
 
     if has("벌킨", "birkin"):
