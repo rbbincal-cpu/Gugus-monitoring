@@ -69,7 +69,7 @@ COLOR_MAP = {
 
 # Common store romanisation (cosmetic; falls back to the Korean name).
 STORE_MAP = {
-    "청維블랙점": "Cheongdam Black", "압구정점": "Apgujeong",
+    "청담블랙점": "Cheongdam Black", "압구정점": "Apgujeong",
     "한남점": "Hannam", "반포신세계점": "Banpo Shinsegae",
     "대치점": "Daechi", "선릉점": "Seolleung", "명동점": "Myeongdong",
     "잠실석촌호수점": "Jamsil", "일산점": "Ilsan",
