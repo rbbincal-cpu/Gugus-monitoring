@@ -1,0 +1,3066 @@
+{
+  "generatedAt": "2026-06-19T17:58:09+00:00",
+  "fxRate": 0.03945,
+  "listings": [
+    {
+      "goodsNo": "10507217",
+      "brand": "Hermès",
+      "model": "Birkin 25",
+      "modelKey": "birkin25",
+      "krw": 22000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Burgundy",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-18T12:14:08",
+      "store": "Apgujeong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10507217/10507217_1_20260618134418.jpg"
+    },
+    {
+      "goodsNo": "10505361",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 4500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-16T14:25:41",
+      "store": "Cheongdam Black",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10505361/10505361_1_20260616185721.jpg"
+    },
+    {
+      "goodsNo": "10504813",
+      "brand": "Chanel",
+      "model": "Classic Flap · Small",
+      "modelKey": "cdf_small",
+      "krw": 12000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-15T18:34:41",
+      "store": "Apgujeong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10504813/10504813_1_20260617134725.jpg"
+    },
+    {
+      "goodsNo": "10504669",
+      "brand": "Hermès",
+      "model": "Birkin 25",
+      "modelKey": "birkin25",
+      "krw": 26000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Grey",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-15T17:09:48",
+      "store": "Apgujeong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10504669/10504669_1_20260616194058.jpg"
+    },
+    {
+      "goodsNo": "10504321",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 6100000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-15T13:47:33",
+      "store": "본사센터1",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10504321/10504321_1_20260616194040.jpg"
+    },
+    {
+      "goodsNo": "10502856",
+      "brand": "Hermès",
+      "model": "Birkin 25",
+      "modelKey": "birkin25",
+      "krw": 45000000,
+      "condition": "New",
+      "year": "—",
+      "color": "#FFFFFF|기타컬러",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-12T17:14:15",
+      "store": "Daechi",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10502856/10502856_1_20260616102427.jpg"
+    },
+    {
+      "goodsNo": "10502786",
+      "brand": "Hermès",
+      "model": "Birkin 25",
+      "modelKey": "birkin25",
+      "krw": 40000000,
+      "condition": "New",
+      "year": "—",
+      "color": "Brown",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-12T16:25:37",
+      "store": "Ilsan",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10502786/10502786_1_20260616170848.jpg"
+    },
+    {
+      "goodsNo": "10502629",
+      "brand": "Hermès",
+      "model": "Birkin 25",
+      "modelKey": "birkin25",
+      "krw": 36000000,
+      "condition": "Like New",
+      "year": "—",
+      "color": "Grey",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-12T15:14:37",
+      "store": "Apgujeong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10502629/10502629_1_20260616170344.jpg"
+    },
+    {
+      "goodsNo": "10502595",
+      "brand": "Hermès",
+      "model": "Birkin 25",
+      "modelKey": "birkin25",
+      "krw": 25900000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "#ECE6CC|아이보리",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-12T14:57:57",
+      "store": "Busan Centum",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/03/10418941/IMG_9167_20260310151019.JPG"
+    },
+    {
+      "goodsNo": "10502497",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 2500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Red",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-12T14:14:37",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10502497/KakaoTalk_20260612_115324203_20260612141434.jpg"
+    },
+    {
+      "goodsNo": "10502277",
+      "brand": "Chanel",
+      "model": "Classic Flap · Small",
+      "modelKey": "cdf_small",
+      "krw": 8000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Purple",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-12T11:53:30",
+      "store": "Cheongdam Black",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10494044/10494044_1_20260608093900.jpg"
+    },
+    {
+      "goodsNo": "10501619",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 10500000,
+      "condition": "New",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-11T15:24:46",
+      "store": "Cheongdam Black",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10501619/10501619_1_20260611174343.jpg"
+    },
+    {
+      "goodsNo": "10501414",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 2500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-11T13:36:07",
+      "store": "Bundang Jeongja",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10501414/10501414_1_20260615132742.jpg"
+    },
+    {
+      "goodsNo": "10501406",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 7000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-11T13:32:54",
+      "store": "Banpo Shinsegae",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10501406/10501406_1_20260612111714.jpg"
+    },
+    {
+      "goodsNo": "10501386",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 4800000,
+      "condition": "Very Good",
+      "year": "—",
+      "color": "Khaki",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-11T13:18:54",
+      "store": "Daejeon Time World",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10501386/10501386_1_20260615103906.jpg"
+    },
+    {
+      "goodsNo": "10501222",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 5500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-11T11:19:43",
+      "store": "Daegu Suseong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10501222/10501222_1_20260615113218.jpg"
+    },
+    {
+      "goodsNo": "10501113",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 3000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "—",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-10T23:08:10",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10501113/KakaoTalk_20260609_003207111_10_20260610230718.jpg"
+    },
+    {
+      "goodsNo": "10500766",
+      "brand": "Hermès",
+      "model": "Birkin 25",
+      "modelKey": "birkin25",
+      "krw": 33000000,
+      "condition": "Like New",
+      "year": "—",
+      "color": "#FFFFFF|기타컬러",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-10T16:57:55",
+      "store": "Cheongdam Black",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10500766/10500766_1_20260612151954.jpg"
+    },
+    {
+      "goodsNo": "10500513",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 6600000,
+      "condition": "Like New",
+      "year": "—",
+      "color": "Beige",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-10T15:48:28",
+      "store": "Ilsan",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10500513/10500513_1_20260612173557.jpg"
+    },
+    {
+      "goodsNo": "10500498",
+      "brand": "Chanel",
+      "model": "Classic Flap · Small",
+      "modelKey": "cdf_small",
+      "krw": 11500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-10T15:37:35",
+      "store": "Apgujeong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10500498/10500498_1_20260611154720.jpg"
+    },
+    {
+      "goodsNo": "10500436",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 5200000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-10T15:15:25",
+      "store": "대구현대점",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10500436/10500436_1_20260615101451.jpg"
+    },
+    {
+      "goodsNo": "10500362",
+      "brand": "Hermès",
+      "model": "Birkin 30",
+      "modelKey": "birkin30",
+      "krw": 27000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Grey",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-10T14:28:11",
+      "store": "대구현대점",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10500362/IMG_5606-1_20260615144744.JPG"
+    },
+    {
+      "goodsNo": "10499785",
+      "brand": "Hermès",
+      "model": "Birkin 25",
+      "modelKey": "birkin25",
+      "krw": 30000000,
+      "condition": "Like New",
+      "year": "—",
+      "color": "Beige",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-09T19:24:10",
+      "store": "Hannam",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10499785/10499785_1_20260611141900.jpg"
+    },
+    {
+      "goodsNo": "10499725",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 3500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-09T18:47:34",
+      "store": "대구센터점",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10499725/10499725_1_20260611115634.jpg"
+    },
+    {
+      "goodsNo": "10499210",
+      "brand": "Hermès",
+      "model": "Birkin 30",
+      "modelKey": "birkin30",
+      "krw": 23000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Green",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-09T14:48:52",
+      "store": "Busan Seomyeon",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10499210/IMG_5554_20260611165935.JPG"
+    },
+    {
+      "goodsNo": "10498999",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 5800000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-09T12:55:08",
+      "store": "Apgujeong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10498999/10498999_1_20260611101112.jpg"
+    },
+    {
+      "goodsNo": "10498306",
+      "brand": "Hermès",
+      "model": "Birkin 30",
+      "modelKey": "birkin30",
+      "krw": 23000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Burgundy",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-08T16:19:51",
+      "store": "대구신세계",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10498306/IMG_0002_20260610154053.JPG"
+    },
+    {
+      "goodsNo": "10497365",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 7000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-06T15:30:55",
+      "store": "Jamsil",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10497365/10497365_1_20260611143138.jpg"
+    },
+    {
+      "goodsNo": "10497095",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 1100000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Red",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-06T12:02:30",
+      "store": "대구센터점",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10497095/10497095_1_20260610092252.jpg"
+    },
+    {
+      "goodsNo": "10496910",
+      "brand": "Chanel",
+      "model": "Classic Flap · Small",
+      "modelKey": "cdf_small",
+      "krw": 9800000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-05T17:54:29",
+      "store": "대구현대점",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10496910/10496910_1_20260610094707.jpg"
+    },
+    {
+      "goodsNo": "10496209",
+      "brand": "Hermès",
+      "model": "Birkin 25",
+      "modelKey": "birkin25",
+      "krw": 32000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Navy",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-05T12:34:32",
+      "store": "Haeundae Marine",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10496209/IMG_9951_20260608165629.JPG"
+    },
+    {
+      "goodsNo": "10495325",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 10000000,
+      "condition": "New",
+      "year": "—",
+      "color": "Grey",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-04T12:10:30",
+      "store": "Bundang Jeongja",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10495325/10495325_1_20260604164931.jpg"
+    },
+    {
+      "goodsNo": "10495191",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 5900000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-04T11:12:18",
+      "store": "Daechi",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10495191/10495191_1_20260609114454.jpg"
+    },
+    {
+      "goodsNo": "10495072",
+      "brand": "Hermès",
+      "model": "Birkin 25",
+      "modelKey": "birkin25",
+      "krw": 40000000,
+      "condition": "New",
+      "year": "—",
+      "color": "Camel",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-03T19:28:58",
+      "store": "Daegu Suseong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10495072/IMG_9935_20260608151549.JPG"
+    },
+    {
+      "goodsNo": "10494756",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 6500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-03T14:24:25",
+      "store": "Bundang Jeongja",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10494756/10494756_1_20260609110502.jpg"
+    },
+    {
+      "goodsNo": "10494677",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 6500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-03T13:06:27",
+      "store": "Busan Seomyeon",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10494677/10494677_1_20260608174342.jpg"
+    },
+    {
+      "goodsNo": "10494673",
+      "brand": "Chanel",
+      "model": "Classic Flap · Small",
+      "modelKey": "cdf_small",
+      "krw": 11000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-03T13:03:24",
+      "store": "Daegu",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10494673/10494673_1_20260609104834.jpg"
+    },
+    {
+      "goodsNo": "10494500",
+      "brand": "Hermès",
+      "model": "Birkin 25",
+      "modelKey": "birkin25",
+      "krw": 37000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "#FFFFFF|기타컬러",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-02T18:53:31",
+      "store": "Daechi",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10494500/10494500_1_20260608095755.jpg"
+    },
+    {
+      "goodsNo": "10493213",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 2500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "#ECE6CC|아이보리",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-01T16:50:21",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10493213/1_20260601165014.png"
+    },
+    {
+      "goodsNo": "10493051",
+      "brand": "Hermès",
+      "model": "Birkin 30",
+      "modelKey": "birkin30",
+      "krw": 27500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Grey",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-01T16:13:51",
+      "store": "Daegu Suseong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/05/10489581/IMG_9767_20260528162102.JPG"
+    },
+    {
+      "goodsNo": "10492119",
+      "brand": "Hermès",
+      "model": "Birkin 25",
+      "modelKey": "birkin25",
+      "krw": 45500000,
+      "condition": "New",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-30T16:46:48",
+      "store": "Busan Centum",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10492119/IMG_9811_20260602105445.JPG"
+    },
+    {
+      "goodsNo": "10491777",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 8500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-30T12:00:20",
+      "store": "Seolleung",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10491777/10491777_1_20260602165525.jpg"
+    },
+    {
+      "goodsNo": "10491336",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 550000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Burgundy",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-29T15:57:29",
+      "store": "Ilsan",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10491336/10491336_1_20260604170026.jpg"
+    },
+    {
+      "goodsNo": "10491243",
+      "brand": "Hermès",
+      "model": "Birkin 25",
+      "modelKey": "birkin25",
+      "krw": 39600000,
+      "condition": "New",
+      "year": "—",
+      "color": "#FFFFFF|기타컬러",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-29T14:37:34",
+      "store": "Myeongdong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10491243/10491243_1_20260605163756.jpg"
+    },
+    {
+      "goodsNo": "10491138",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 6900000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-29T12:53:28",
+      "store": "Busan Centum",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10491138/10491138_1_20260604094854.jpg"
+    },
+    {
+      "goodsNo": "10490634",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 2800000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Burgundy",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-28T18:32:33",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/05/10490634/1_20260528183227.png"
+    },
+    {
+      "goodsNo": "10490577",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 4000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Pink",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-28T18:14:05",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/05/10490577/1_20260528181358.png"
+    },
+    {
+      "goodsNo": "10490522",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 2800000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "—",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-28T17:49:46",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/05/10490522/KakaoTalk_20260528_012533386_20260528174939.jpg"
+    },
+    {
+      "goodsNo": "10490285",
+      "brand": "Hermès",
+      "model": "Birkin 25",
+      "modelKey": "birkin25",
+      "krw": 47000000,
+      "condition": "New",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-28T16:01:38",
+      "store": "Haeundae Marine",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10490285/IMG_9916_20260608150852.JPG"
+    },
+    {
+      "goodsNo": "10490199",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 6200000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-28T15:16:28",
+      "store": "영등포신세계점",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10490199/10490199_1_20260601144355.jpg"
+    },
+    {
+      "goodsNo": "10489592",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 600000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Navy",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-27T19:15:55",
+      "store": "Seolleung",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10489592/10489592_1_20260601094304.jpg"
+    },
+    {
+      "goodsNo": "10488668",
+      "brand": "Hermès",
+      "model": "Birkin 25",
+      "modelKey": "birkin25",
+      "krw": 29000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Grey",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-27T11:15:08",
+      "store": "대구현대점",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/05/10488668/IMG_9784_20260529135929.JPG"
+    },
+    {
+      "goodsNo": "10487915",
+      "brand": "Chanel",
+      "model": "Classic Flap · Medium",
+      "modelKey": "cdf_medium",
+      "krw": 7200000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-26T13:49:15",
+      "store": "Daechi",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/05/10487915/10487915_1_20260529102923.jpg"
+    },
+    {
+      "goodsNo": "10486637",
+      "brand": "Hermès",
+      "model": "Birkin 30",
+      "modelKey": "birkin30",
+      "krw": 25000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Green",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-23T16:17:28",
+      "store": "Ilsan",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/05/10486637/10486637_1_20260527161121.jpg"
+    },
+    {
+      "goodsNo": "10486525",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 6700000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-23T14:56:52",
+      "store": "Bundang Jeongja",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/05/10486525/10486525_1_20260527155748.jpg"
+    },
+    {
+      "goodsNo": "10486153",
+      "brand": "Hermès",
+      "model": "Birkin 25",
+      "modelKey": "birkin25",
+      "krw": 48000000,
+      "condition": "New",
+      "year": "—",
+      "color": "#FFFFFF|기타컬러",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-22T18:43:23",
+      "store": "Apgujeong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/05/10486153/10486153_1_20260527094552.jpg"
+    },
+    {
+      "goodsNo": "10484511",
+      "brand": "Hermès",
+      "model": "Birkin 30",
+      "modelKey": "birkin30",
+      "krw": 16500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Pink",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-21T16:05:14",
+      "store": "Myeongdong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/05/10484511/10484511_1_20260526113548.jpg"
+    },
+    {
+      "goodsNo": "10484439",
+      "brand": "Hermès",
+      "model": "Birkin 25",
+      "modelKey": "birkin25",
+      "krw": 33000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Beige",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-21T15:28:23",
+      "store": "Haeundae Marine",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/05/10484439/IMG_9670_20260526131431.JPG"
+    },
+    {
+      "goodsNo": "10484296",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 6500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Beige",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-21T13:37:46",
+      "store": "Bundang Jeongja",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/05/10484296/10484296_1_20260526142708.jpg"
+    },
+    {
+      "goodsNo": "10483695",
+      "brand": "Chanel",
+      "model": "Classic Flap · Medium",
+      "modelKey": "cdf_medium",
+      "krw": 4800000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-20T18:00:53",
+      "store": "Jamsil",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/05/10483695/10483695_1_20260522113703.jpg"
+    },
+    {
+      "goodsNo": "10483677",
+      "brand": "Hermès",
+      "model": "Birkin 30",
+      "modelKey": "birkin30",
+      "krw": 14500000,
+      "condition": "Very Good",
+      "year": "—",
+      "color": "Khaki",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-20T17:53:39",
+      "store": "Haeundae Marine",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10483677/IMG_9942_20260608152944.JPG"
+    },
+    {
+      "goodsNo": "10483583",
+      "brand": "Chanel",
+      "model": "Classic Flap · Small",
+      "modelKey": "cdf_small",
+      "krw": 7000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "White",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-20T17:11:21",
+      "store": "Gwangju Sangmu",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/05/10483583/10483583_1_20260522165058.jpg"
+    },
+    {
+      "goodsNo": "10483580",
+      "brand": "Hermès",
+      "model": "Birkin 30",
+      "modelKey": "birkin30",
+      "krw": 30500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Camel",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-20T17:09:49",
+      "store": "Apgujeong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/05/10483580/IMG_9622_20260521135612.JPG"
+    },
+    {
+      "goodsNo": "10483578",
+      "brand": "Chanel",
+      "model": "Classic Flap · Small",
+      "modelKey": "cdf_small",
+      "krw": 8200000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "#FFFFFF|기타컬러",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-20T17:09:22",
+      "store": "대구현대점",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/05/10483578/10483578_1_20260522165251.jpg"
+    },
+    {
+      "goodsNo": "10483001",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 600000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Green",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-20T12:35:26",
+      "store": "Busan Seomyeon",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/05/10483001/10483001_1_20260521093535.jpg"
+    },
+    {
+      "goodsNo": "10482702",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 6000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Beige",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-19T19:08:38",
+      "store": "Daegu Suseong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/05/10482702/10482702_1_20260521103508.jpg"
+    },
+    {
+      "goodsNo": "10482425",
+      "brand": "Hermès",
+      "model": "Birkin 25",
+      "modelKey": "birkin25",
+      "krw": 27500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-19T16:50:03",
+      "store": "Daechi",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/05/10482425/10482425_1_20260521144939.jpg"
+    },
+    {
+      "goodsNo": "10482344",
+      "brand": "Hermès",
+      "model": "Birkin 25",
+      "modelKey": "birkin25",
+      "krw": 47000000,
+      "condition": "New",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-19T16:30:26",
+      "store": "Daegu Suseong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/05/10482344/IMG_8973_20260520150648.JPG"
+    },
+    {
+      "goodsNo": "10481058",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 6800000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-18T14:16:03",
+      "store": "Bundang Jeongja",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/05/10481058/10481058_1_20260520105805.jpg"
+    },
+    {
+      "goodsNo": "10480774",
+      "brand": "Hermès",
+      "model": "Birkin 25",
+      "modelKey": "birkin25",
+      "krw": 35000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Gold",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-18T11:09:03",
+      "store": "Cheongdam Black",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/05/10480774/10480774_1_20260518160501.jpg"
+    },
+    {
+      "goodsNo": "10479284",
+      "brand": "Chanel",
+      "model": "Classic Flap · Small",
+      "modelKey": "cdf_small",
+      "krw": 8200000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Red",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-15T13:39:09",
+      "store": "Jamsil",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/05/10479284/10479284_1_20260518162204.jpg"
+    },
+    {
+      "goodsNo": "10474834",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 4500000,
+      "condition": "Very Good",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-09T18:14:57",
+      "store": "Seolleung",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/05/10474834/10474834_1_20260513141053.jpg"
+    },
+    {
+      "goodsNo": "10471828",
+      "brand": "Chanel",
+      "model": "Classic Flap · Small",
+      "modelKey": "cdf_small",
+      "krw": 7500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Pink",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-06T13:47:10",
+      "store": "영등포신세계점",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/05/10471828/10471828_1_20260511110103.jpg"
+    },
+    {
+      "goodsNo": "10466634",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 2800000,
+      "condition": "Very Good",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-04-28T17:10:59",
+      "store": "Bundang Jeongja",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/04/10466634/10466634_1_20260430143839.jpg"
+    },
+    {
+      "goodsNo": "10466633",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 2800000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Red",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-04-28T17:10:59",
+      "store": "Bundang Jeongja",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/04/10466633/10466633_1_20260430145755.jpg"
+    },
+    {
+      "goodsNo": "10465931",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 4000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-04-28T11:14:28",
+      "store": "Daejeon Time World",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/04/10465931/10465931_1_20260429133931.jpg"
+    },
+    {
+      "goodsNo": "10465192",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 4200000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "White",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-04-27T14:29:01",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/04/10465192/1_20260427142855.png"
+    },
+    {
+      "goodsNo": "10464843",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 2800000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "—",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-04-27T11:05:11",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/04/10464843/KakaoTalk_20260427_105056423_20260427110506.jpg"
+    },
+    {
+      "goodsNo": "10460670",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 2420000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Navy",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-04-22T12:51:04",
+      "store": "Songdo",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/04/10460670/10460670_1_20260424160841.jpg"
+    },
+    {
+      "goodsNo": "10455866",
+      "brand": "Chanel",
+      "model": "Classic Flap · Medium",
+      "modelKey": "cdf_medium",
+      "krw": 3500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "White",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-04-16T15:24:36",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/04/10455866/KakaoTalk_20260416_151320743_20260416152412.jpg"
+    },
+    {
+      "goodsNo": "10454232",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 3800000,
+      "condition": "Very Good",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-04-14T18:55:29",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/04/10454232/1_20260414185510.jpg"
+    },
+    {
+      "goodsNo": "10453506",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 2710000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Grey",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-04-14T11:50:09",
+      "store": "AK수원점",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/04/10453506/10453506_1_20260420092152.jpg"
+    },
+    {
+      "goodsNo": "10450852",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 2880000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Beige",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-04-10T14:24:44",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/04/10450852/KakaoTalk_20260326_120402833_19_20260410142402.jpg"
+    },
+    {
+      "goodsNo": "10450069",
+      "brand": "Chanel",
+      "model": "Classic Flap · Medium",
+      "modelKey": "cdf_medium",
+      "krw": 1600000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "—",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-04-09T16:11:12",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/04/10450069/KakaoTalk_20260408_164258468_20260409161023.jpg"
+    },
+    {
+      "goodsNo": "10447204",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 3890000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-04-06T23:05:32",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/04/10447204/1_20260406230527.jpg"
+    },
+    {
+      "goodsNo": "10445005",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 650000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-04-03T14:55:42",
+      "store": "Busan Seomyeon",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/04/10445005/10445005_1_20260407153824.jpg"
+    },
+    {
+      "goodsNo": "10436645",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 7500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-03-26T12:01:19",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/03/10436645/1_20260326120112.jpg"
+    },
+    {
+      "goodsNo": "10434859",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 2700000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Blue",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-03-24T17:09:26",
+      "store": "대구지점",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/03/10434859/10434859_1_20260330134440.jpg"
+    },
+    {
+      "goodsNo": "10434759",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 2200000,
+      "condition": "Very Good",
+      "year": "—",
+      "color": "#FFFFFF|멀티컬러",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-03-24T16:53:01",
+      "store": "Seolleung",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/03/10434759/10434759_1_20260327153013.jpg"
+    },
+    {
+      "goodsNo": "10433763",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 2500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "—",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-03-24T10:49:55",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/03/10433763/IMG_4419_20260324104951.JPG"
+    },
+    {
+      "goodsNo": "10426148",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 5900000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Beige",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-03-14T17:53:48",
+      "store": "Daechi",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/03/10426148/10426148_1_20260316142901.jpg"
+    },
+    {
+      "goodsNo": "10422359",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 1550000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-03-11T15:10:05",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/03/10422359/20260228_125953-Photoroom_20260311150950.png"
+    },
+    {
+      "goodsNo": "10421031",
+      "brand": "Chanel",
+      "model": "Classic Flap · Medium",
+      "modelKey": "cdf_medium",
+      "krw": 7300000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Purple",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-03-10T12:41:01",
+      "store": "Daechi",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/03/10421031/10421031_1_20260311163353.jpg"
+    },
+    {
+      "goodsNo": "10418824",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 4500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "White",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-03-06T18:42:27",
+      "store": "대구현대점",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/03/10418824/10418824_1_20260310142011.jpg"
+    },
+    {
+      "goodsNo": "10416292",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 3000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-03-04T16:29:37",
+      "store": "Ilsan",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/03/10416292/10416292_1_20260305162044.jpg"
+    },
+    {
+      "goodsNo": "10415712",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 5140000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-03-04T12:11:30",
+      "store": "Haeundae Marine",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/01/10380321/10380321_1_20260119161223.jpg"
+    },
+    {
+      "goodsNo": "10403598",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 1200000,
+      "condition": "Very Good",
+      "year": "—",
+      "color": "—",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-02-13T14:52:56",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/02/10403598/외관(1)_20260213145249.jpg"
+    },
+    {
+      "goodsNo": "10397033",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 2500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "—",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-02-05T16:47:43",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/02/10397033/KakaoTalk_20260205_145209765_08_20260205164742.jpg"
+    },
+    {
+      "goodsNo": "10391768",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 3300000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-01-30T13:58:10",
+      "store": "대구센터점",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/02/10391768/10391768_1_20260203165909.jpg"
+    },
+    {
+      "goodsNo": "10375693",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 5700000,
+      "condition": "New",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-01-09T12:40:50",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/01/10375693/1_20260109124016.jpeg"
+    },
+    {
+      "goodsNo": "10375286",
+      "brand": "Chanel",
+      "model": "Classic Flap · Medium",
+      "modelKey": "cdf_medium",
+      "krw": 7800000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Green",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-01-08T18:31:40",
+      "store": "Apgujeong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/01/10375286/10375286_1_20260112105235.jpg"
+    },
+    {
+      "goodsNo": "10375282",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 2500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-01-08T18:31:40",
+      "store": "Myeongdong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/01/10375282/10375282_1_20260109150759.jpg"
+    },
+    {
+      "goodsNo": "10363413",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 3390000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "#FF7F00|오랜지",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-12-23T12:36:49",
+      "store": "Seolleung",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/12/10361853/10361853_1_20251222143054.jpg"
+    },
+    {
+      "goodsNo": "10358111",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 1270000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-12-16T14:44:37",
+      "store": "Busan Centum",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/12/10358111/10358111_1_20251218095741.jpg"
+    },
+    {
+      "goodsNo": "10348038",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 4250000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-12-03T12:38:19",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/12/10348038/KakaoTalk_20251203_122352878_20251203123804.jpg"
+    },
+    {
+      "goodsNo": "10345181",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 400000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "#A3A2A0|메탈릭",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-11-29T17:03:33",
+      "store": "Seolleung",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/12/10345181/10345181_1_20251201163925.jpg"
+    },
+    {
+      "goodsNo": "10341088",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 3290000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-11-25T14:10:07",
+      "store": "Daechi",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/11/10341088/10341088_1_20251127134940.jpg"
+    },
+    {
+      "goodsNo": "10340713",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 2160000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-11-25T11:11:33",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/11/10340713/KakaoTalk_20250527_154627441_20251125111128.jpg"
+    },
+    {
+      "goodsNo": "10340365",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 430000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Red",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-11-24T17:36:26",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/11/10340365/KakaoTalk_20240930_141344007_20251124173624.jpg"
+    },
+    {
+      "goodsNo": "10337298",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 480000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-11-20T17:13:58",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/11/10337298/KakaoTalk_20251120_171058082_20251120171329.jpg"
+    },
+    {
+      "goodsNo": "10334986",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 2675000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Beige",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-11-18T15:54:04",
+      "store": "Hannam",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/11/10334986/10334986_1_20251119145051.jpg"
+    },
+    {
+      "goodsNo": "10333244",
+      "brand": "Hermès",
+      "model": "Birkin 30",
+      "modelKey": "birkin30",
+      "krw": 35000000,
+      "condition": "New",
+      "year": "—",
+      "color": "Navy",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-11-16T16:33:48",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/11/10333244/IMG_6679_20251116163316.JPG"
+    },
+    {
+      "goodsNo": "10328306",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 3200000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-11-10T19:22:15",
+      "store": "Cheongdam Black",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/11/10328306/10328306_1_20251113132115.jpg"
+    },
+    {
+      "goodsNo": "10325853",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 4300000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Beige",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-11-07T14:31:16",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/11/10325853/1_20251107143109.jpg"
+    },
+    {
+      "goodsNo": "10322387",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 2100000,
+      "condition": "New",
+      "year": "—",
+      "color": "#FFFFFF|멀티컬러",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-11-03T20:28:37",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/11/10322387/KakaoTalk_20251103_201401013_20251103202834.jpg"
+    },
+    {
+      "goodsNo": "10318293",
+      "brand": "Chanel",
+      "model": "Classic Flap · Medium",
+      "modelKey": "cdf_medium",
+      "krw": 8130000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Gold",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-10-29T18:46:40",
+      "store": "Cheongdam Black",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/10/10318293/10318293_1_20251031153502.jpg"
+    },
+    {
+      "goodsNo": "10314964",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 3400000,
+      "condition": "Very Good",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-10-27T11:13:17",
+      "store": "Jamsil",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/10/10314964/10314964_1_20251028101034.jpg"
+    },
+    {
+      "goodsNo": "10304193",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 5500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-10-15T11:05:06",
+      "store": "영등포신세계점",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/10/10304193/10304193_1_20251020102455.jpg"
+    },
+    {
+      "goodsNo": "10300069",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 2400000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "#FFFFFF|멀티컬러",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-10-09T16:38:21",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/10/10300069/IMG_4640복사_20251009163819.jpg"
+    },
+    {
+      "goodsNo": "10283486",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 3040000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "#FF7F00|오랜지",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-09-16T11:29:36",
+      "store": "Apgujeong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/09/10283486/10283486_1_20250917161608.jpg"
+    },
+    {
+      "goodsNo": "10273616",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 2520000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "White",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-09-02T18:34:01",
+      "store": "대구지점",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/09/10273616/10273616_1_20250904144612.jpg"
+    },
+    {
+      "goodsNo": "10250818",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 4050000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-08-01T17:09:13",
+      "store": "Seolleung",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/08/10250818/10250818_1_20250804115536.jpg"
+    },
+    {
+      "goodsNo": "10232969",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 3000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Red",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-07-10T10:43:58",
+      "store": "Cheongdam Black",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/07/10232969/10232969_1_20250710135617.jpg"
+    },
+    {
+      "goodsNo": "10230109",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 2620000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Navy",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-07-07T11:03:23",
+      "store": "대구센터점",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/07/10230109/10230109_1_20250708091757.jpg"
+    },
+    {
+      "goodsNo": "10222714",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 2420000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Green",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-06-27T15:27:30",
+      "store": "Haeundae Marine",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/06/10222714/10222714_1_20250630145214.jpg"
+    },
+    {
+      "goodsNo": "10214025",
+      "brand": "Chanel",
+      "model": "Classic Flap · Small",
+      "modelKey": "cdf_small",
+      "krw": 4500000,
+      "condition": "Very Good",
+      "year": "—",
+      "color": "Purple",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-06-17T16:41:18",
+      "store": "Hannam",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/06/10214025/10214025_1_20250620103817.jpg"
+    },
+    {
+      "goodsNo": "10212554",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 2900000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Beige",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-06-16T11:16:18",
+      "store": "Apgujeong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/06/10212554/10212554_1_20250618134112.jpg"
+    },
+    {
+      "goodsNo": "10205385",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 2950000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-06-07T12:38:01",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/06/10205385/0_20250607123748.jpg"
+    },
+    {
+      "goodsNo": "10188922",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 900000,
+      "condition": "Very Good",
+      "year": "—",
+      "color": "Navy",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-05-17T13:41:00",
+      "store": "Jamsil",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/05/10188922/10188922_1_20250520102535.jpg"
+    },
+    {
+      "goodsNo": "10167823",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 3550000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-04-18T16:51:22",
+      "store": "Jamsil",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/04/10167823/10167823_1_20250421134358.jpg"
+    },
+    {
+      "goodsNo": "10160634",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 3130000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Navy",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-04-09T17:18:51",
+      "store": "Ulsan",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/04/10160634/10160634_1_20250410135701.jpg"
+    },
+    {
+      "goodsNo": "10137389",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 680000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-03-13T15:40:13",
+      "store": "Seolleung",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/03/10137389/10137389_1_20250317140243.jpg"
+    },
+    {
+      "goodsNo": "10116964",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 2160000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Green",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-02-15T15:35:46",
+      "store": "Bundang Jeongja",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/02/10116964/10116964_1_20250218095500.jpg"
+    },
+    {
+      "goodsNo": "10108798",
+      "brand": "Chanel",
+      "model": "Classic Flap · Medium",
+      "modelKey": "cdf_medium",
+      "krw": 8000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "#A3A2A0|메탈릭",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-02-04T18:32:25",
+      "store": "대구현대점",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/02/10108798/1_20250207115220.png"
+    },
+    {
+      "goodsNo": "10086197",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 2800000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Green",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2024-12-31T16:40:56",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2024/12/10086197/20241230_145923복사_20241231164053.jpg"
+    },
+    {
+      "goodsNo": "10083637",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 5100000,
+      "condition": "Like New",
+      "year": "—",
+      "color": "—",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2024-12-27T14:06:30",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2024/12/10083637/1000007474_magnify_38_20241227140542.jpg"
+    },
+    {
+      "goodsNo": "10076841",
+      "brand": "Chanel",
+      "model": "Classic Flap · Medium",
+      "modelKey": "cdf_medium",
+      "krw": 5600000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Purple",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2024-12-16T18:33:16",
+      "store": "Busan Centum",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2024/12/10076841/10076841_1_20241218112055.jpg"
+    },
+    {
+      "goodsNo": "10069942",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 5500000,
+      "condition": "New",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2024-12-06T13:44:52",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2024/12/10069942/1_20241206134336.jpeg"
+    },
+    {
+      "goodsNo": "10064142",
+      "brand": "Chanel",
+      "model": "Classic Flap · Small",
+      "modelKey": "cdf_small",
+      "krw": 14300000,
+      "condition": "New",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2024-11-28T17:46:42",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2024/11/10064142/1_20241128174530.jpeg"
+    },
+    {
+      "goodsNo": "10062915",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 5000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Navy",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2024-11-27T14:44:17",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2024/11/10062915/IMG_8306복사_20241127144415.jpg"
+    },
+    {
+      "goodsNo": "10019070",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 2050000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Grey",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2024-10-07T14:14:21",
+      "store": "Myeongdong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2024/10/10019070/10019070_1_20241010173308.jpg"
+    },
+    {
+      "goodsNo": "10014916",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 3560000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "White",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2024-10-01T15:09:36",
+      "store": "Myeongdong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2024/10/10014916/10014916_1_20241011115211.jpg"
+    },
+    {
+      "goodsNo": "9329809",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 3500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Navy",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2024-09-03T18:20:49",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/goods/updata2/img2024/09/34625260202024099821524557.jpg"
+    },
+    {
+      "goodsNo": "2568592",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 2160000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "#FF7F00|오랜지",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2024-08-29T16:32:09",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/goods/updata2/img2024/08/55632384272024087862730971.jpg"
+    },
+    {
+      "goodsNo": "3208757",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 3400000,
+      "condition": "Like New",
+      "year": "—",
+      "color": "#FFFFFF|기타컬러",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2024-08-09T14:39:37",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/goods/updata2/img2024/08/41524546922024086683277458.jpg"
+    },
+    {
+      "goodsNo": "6199126",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 540000,
+      "condition": "Very Good",
+      "year": "—",
+      "color": "Pink",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2024-08-05T09:39:14",
+      "store": "Seolleung",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/goods/update2/img2024/08/000000000000_6199126_0.jpg"
+    },
+    {
+      "goodsNo": "3991664",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 4380000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Pink",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2024-07-16T12:30:37",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/goods/updata2/img2024/07/42544452452024078336453849.jpg"
+    },
+    {
+      "goodsNo": "8433557",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 1600000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Silver",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2024-06-11T10:56:13",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/goods/updata2/img2024/06/13183773932024060848103372.jpg"
+    },
+    {
+      "goodsNo": "2471526",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 4200000,
+      "condition": "New",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2023-01-11T16:37:52",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/goods/updata2/img2023/01/2471526.jpg"
+    },
+    {
+      "goodsNo": "9810405",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 3950000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Navy",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2022-08-09T11:43:28",
+      "store": "Seolleung",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/goods/update2/img2022/08/000000000000_9810405_0.jpg"
+    },
+    {
+      "goodsNo": "9161744",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 2990000,
+      "condition": "New",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2022-07-20T09:31:21",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/10/9161744/DSC09890_20251017163710.png"
+    },
+    {
+      "goodsNo": "4327776",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 2655000,
+      "condition": "Like New",
+      "year": "—",
+      "color": "#FFFFFF|기타컬러",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2022-01-29T15:37:35",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/goods/updata2/img2022/01/09157826602022017862733971.jpg"
+    },
+    {
+      "goodsNo": "8351345",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 2100000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2019-07-23T14:31:35",
+      "store": "Daejeon Time World",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/goods/updata2/img2019/07/IMG_5463.jpg"
+    }
+  ]
+}
