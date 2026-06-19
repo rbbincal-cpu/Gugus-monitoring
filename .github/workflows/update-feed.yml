@@ -38,8 +38,8 @@ jobs:
         run: |
           git config user.name  "gugus-feed-bot"
           git config user.email "actions@users.noreply.github.com"
-          if git status --porcelain feed.json | grep -q .; then
-            git add feed.json
+          if git status --porcelain feed.json detail_cache.json | grep -q .; then
+            git add feed.json detail_cache.json
             git commit -m "chore: update feed.json [skip ci]"
             git push
             echo "feed.json updated and pushed."
