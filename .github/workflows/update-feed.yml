@@ -4,7 +4,7 @@ on:
   schedule:
     # Every 15 minutes (UTC). GitHub runs scheduled jobs on a best-effort
     # basis and may delay them under load, so treat this as "about every 15 min".
-    - cron: "*/15 * * * *"
+    - cron: "7,22,37,52 * * * *"   # off-peak minutes; external trigger handles 15-min
   workflow_dispatch: {}   # lets you run it manually from the Actions tab
 
 # Allow the job to push the regenerated feed.json back to the repo.
