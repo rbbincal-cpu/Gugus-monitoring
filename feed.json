@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T10:29:43+00:00",
+  "generatedAt": "2026-06-24T17:32:22+00:00",
   "fxRate": 0.03995,
   "listings": [
     {
@@ -1717,6 +1717,28 @@
       "image": "https://image.gugus.co.kr/gd/2026/05/10484511/10484511_1_20260526113548.jpg",
       "stamp": "Stamp O",
       "leather": "—"
+    },
+    {
+      "goodsNo": "10484439",
+      "brand": "Hermès",
+      "model": "Birkin 25",
+      "modelKey": "birkin25",
+      "krw": 33000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Beige",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-21T15:28:23",
+      "store": "Haeundae Marine",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/05/10484439/IMG_9670_20260526131431.JPG",
+      "stamp": "Stamp B",
+      "leather": "Togo"
     },
     {
       "goodsNo": "10484296",
