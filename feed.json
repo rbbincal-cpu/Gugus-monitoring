@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T17:34:29+00:00",
+  "generatedAt": "2026-06-25T22:59:38+00:00",
   "fxRate": 0.03977,
   "listings": [
     {
@@ -2419,28 +2419,6 @@
       "store": "—",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/04/10454232/1_20260414185510.jpg",
-      "stamp": "—",
-      "leather": "—"
-    },
-    {
-      "goodsNo": "10453506",
-      "brand": "Chanel",
-      "model": "Boy · Medium",
-      "modelKey": "boy_med",
-      "krw": 2710000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Grey",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-04-14T11:50:09",
-      "store": "AK수원점",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/04/10453506/10453506_1_20260420092152.jpg",
       "stamp": "—",
       "leather": "—"
     },
