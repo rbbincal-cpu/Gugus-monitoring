@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T05:51:49+00:00",
+  "generatedAt": "2026-06-30T08:57:33+00:00",
   "fxRate": 0.0397,
   "listings": [
     {
@@ -1206,7 +1206,7 @@
         false
       ],
       "postedAt": "2026-06-11T11:19:43",
-      "store": "영등포신세계점",
+      "store": "Daegu Suseong",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/06/10501222/10501222_1_20260615113218.jpg",
       "stamp": "—",
@@ -1609,28 +1609,6 @@
       "leather": "Caviar"
     },
     {
-      "goodsNo": "10495191",
-      "brand": "Chanel",
-      "model": "Classic Flap · Jumbo",
-      "modelKey": "cdf_jumbo",
-      "krw": 5900000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-06-04T11:12:18",
-      "store": "Daechi",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/06/10495191/10495191_1_20260609114454.jpg",
-      "stamp": "—",
-      "leather": "Caviar"
-    },
-    {
       "goodsNo": "10495072",
       "brand": "Hermès",
       "model": "Birkin 25",
@@ -1693,6 +1671,28 @@
       "store": "Busan Seomyeon",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/06/10494677/10494677_1_20260608174342.jpg",
+      "stamp": "—",
+      "leather": "Caviar"
+    },
+    {
+      "goodsNo": "10494673",
+      "brand": "Chanel",
+      "model": "Classic Flap · Small",
+      "modelKey": "cdf_small",
+      "krw": 10670000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-03T13:03:24",
+      "store": "Daegu",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10494673/10494673_1_20260609104834.jpg",
       "stamp": "—",
       "leather": "Caviar"
     },
@@ -2152,7 +2152,7 @@
         false
       ],
       "postedAt": "2026-05-04T12:34:30",
-      "store": "Hannam",
+      "store": "Seolleung",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/05/10470290/10470290_1_20260504152154.jpg",
       "stamp": "Stamp K",
@@ -3065,7 +3065,7 @@
       "brand": "Chanel",
       "model": "Boy · Medium",
       "modelKey": "boy_med",
-      "krw": 3390000,
+      "krw": 3200000,
       "condition": "Excellent",
       "year": "—",
       "color": "#FF7F00|오랜지",
