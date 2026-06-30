@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T08:57:33+00:00",
+  "generatedAt": "2026-06-30T11:49:45+00:00",
   "fxRate": 0.0397,
   "listings": [
     {
@@ -18,7 +18,7 @@
         false
       ],
       "postedAt": "2026-06-29T16:50:18",
-      "store": "Banpo Shinsegae",
+      "store": "Apgujeong",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/06/10512413/10512413_1_20260624154237.jpg",
       "stamp": "Stamp U",
@@ -590,7 +590,7 @@
         false
       ],
       "postedAt": "2026-06-20T16:28:06",
-      "store": "본사센터2",
+      "store": "Haeundae Marine",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/06/10509465/10509465_1_20260623103402.jpg",
       "stamp": "—",
@@ -2042,7 +2042,7 @@
         false
       ],
       "postedAt": "2026-05-18T13:27:18",
-      "store": "타워팰리스점",
+      "store": "Seolleung",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/05/10480998/10480998_1_20260520173832.jpg",
       "stamp": "Stamp K",
@@ -2350,7 +2350,7 @@
         false
       ],
       "postedAt": "2026-04-22T16:00:47",
-      "store": "Apgujeong",
+      "store": "타워팰리스점",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/04/10461032/10461032_1_20260424115446.jpg",
       "stamp": "Stamp G",
