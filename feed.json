@@ -1,7 +1,51 @@
 {
-  "generatedAt": "2026-06-30T22:02:40+00:00",
-  "fxRate": 0.0397,
+  "generatedAt": "2026-07-01T01:54:23+00:00",
+  "fxRate": 0.03965,
   "listings": [
+    {
+      "goodsNo": "10518363",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 4000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Purple",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-07-01T10:19:28",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/07/10518363/1_20260701101920.png",
+      "stamp": "—",
+      "leather": "Lambskin"
+    },
+    {
+      "goodsNo": "10518257",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 3150000,
+      "condition": "Like New",
+      "year": "—",
+      "color": "—",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-07-01T00:43:59",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/07/10518257/KakaoTalk_20260630_215421160_20260701004355.jpg",
+      "stamp": "—",
+      "leather": "—"
+    },
     {
       "goodsNo": "10516940",
       "brand": "Hermès",
@@ -2379,28 +2423,6 @@
       "leather": "—"
     },
     {
-      "goodsNo": "10458928",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 2500000,
-      "condition": "Very Good",
-      "year": "—",
-      "color": "Blue",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-04-20T15:01:25",
-      "store": "Songdo",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/04/10458928/10458928_1_20260422135241.jpg",
-      "stamp": "—",
-      "leather": "—"
-    },
-    {
       "goodsNo": "10457645",
       "brand": "Hermès",
       "model": "Kelly 25",
@@ -2597,28 +2619,6 @@
       "image": "https://image.gugus.co.kr/gd/2026/04/10447204/1_20260406230527.jpg",
       "stamp": "—",
       "leather": "Calfskin"
-    },
-    {
-      "goodsNo": "10439827",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 4000000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-03-30T10:49:23",
-      "store": "Gwangju Sangmu",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/04/10439827/10439827_1_20260402132423.jpg",
-      "stamp": "—",
-      "leather": "—"
     },
     {
       "goodsNo": "10436645",
