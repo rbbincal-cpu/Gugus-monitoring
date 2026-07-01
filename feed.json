@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T06:42:52+00:00",
+  "generatedAt": "2026-07-01T10:35:21+00:00",
   "fxRate": 0.03965,
   "listings": [
     {
@@ -62,7 +62,7 @@
         false
       ],
       "postedAt": "2026-06-30T13:25:29",
-      "store": "본사센터1",
+      "store": "Apgujeong",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/06/10517558/10517558_1_20260630151600.jpg",
       "stamp": "Stamp B",
@@ -249,7 +249,7 @@
       "brand": "Hermès",
       "model": "Birkin 25",
       "modelKey": "birkin25",
-      "krw": 34000000,
+      "krw": 33500000,
       "condition": "Excellent",
       "year": "—",
       "color": "Black",
