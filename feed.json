@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T06:08:07+00:00",
+  "generatedAt": "2026-07-02T09:39:08+00:00",
   "fxRate": 0.03971,
   "listings": [
     {
@@ -265,28 +265,6 @@
       "image": "https://image.gugus.co.kr/gd/2026/06/10513726/10513726_1_20260629102259.jpg",
       "stamp": "—",
       "leather": "Caviar"
-    },
-    {
-      "goodsNo": "10513416",
-      "brand": "Hermès",
-      "model": "Birkin 25",
-      "modelKey": "birkin25",
-      "krw": 33500000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-06-25T13:00:43",
-      "store": "Cheongdam Black",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/06/10513416/10513416_1_20260626101734.jpg",
-      "stamp": "Stamp U",
-      "leather": "Togo"
     },
     {
       "goodsNo": "10513013",
@@ -656,7 +634,7 @@
         false
       ],
       "postedAt": "2026-06-23T14:41:36",
-      "store": "Pangyo",
+      "store": "Bundang Jeongja",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/06/10511245/10511245_1_20260625111349.jpg",
       "stamp": "—",
@@ -1096,7 +1074,7 @@
         false
       ],
       "postedAt": "2026-06-15T17:36:57",
-      "store": "Cheongdam Black",
+      "store": "Apgujeong",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/06/10504723/10486693_1_20260526145639_1000x1000_20260616163521.jpg",
       "stamp": "Stamp G",
@@ -1305,7 +1283,7 @@
       "brand": "Chanel",
       "model": "Classic Flap · Small",
       "modelKey": "cdf_small",
-      "krw": 8000000,
+      "krw": 7900000,
       "condition": "Excellent",
       "year": "—",
       "color": "Purple",
