@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T01:53:14+00:00",
+  "generatedAt": "2026-07-02T06:08:07+00:00",
   "fxRate": 0.03971,
   "listings": [
     {
@@ -154,6 +154,28 @@
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/06/10516647/10516647_1_20260630091857.jpg",
       "stamp": "—",
+      "leather": "—"
+    },
+    {
+      "goodsNo": "10516561",
+      "brand": "Hermès",
+      "model": "Birkin 30",
+      "modelKey": "birkin30",
+      "krw": 25000000,
+      "condition": "Very Good",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-29T12:21:24",
+      "store": "Haeundae Marine",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10516561/IMG_1137_20260630144934.JPG",
+      "stamp": "Stamp P",
       "leather": "—"
     },
     {
@@ -348,7 +370,7 @@
         false
       ],
       "postedAt": "2026-06-24T17:04:04",
-      "store": "Daegu Suseong",
+      "store": "용호W점",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/06/10512841/IMG_9668_20260625174041.JPG",
       "stamp": "Stamp Z",
@@ -788,7 +810,7 @@
         false
       ],
       "postedAt": "2026-06-20T16:23:24",
-      "store": "Seolleung",
+      "store": "Apgujeong",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/06/10509460/10509460_1_20260622161247.jpg",
       "stamp": "—",
@@ -1613,7 +1635,7 @@
       "brand": "Hermès",
       "model": "Kelly 25",
       "modelKey": "kelly25",
-      "krw": 33000000,
+      "krw": 32500000,
       "condition": "Like New",
       "year": "—",
       "color": "Brown",
