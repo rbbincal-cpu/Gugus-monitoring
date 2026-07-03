@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T05:09:06+00:00",
+  "generatedAt": "2026-07-03T08:30:34+00:00",
   "fxRate": 0.03987,
   "listings": [
     {
@@ -837,28 +837,6 @@
       "image": "https://image.gugus.co.kr/gd/2026/06/10508944/10508944_1_20260622091542.jpg",
       "stamp": "—",
       "leather": "—"
-    },
-    {
-      "goodsNo": "10508631",
-      "brand": "Chanel",
-      "model": "Classic Flap · Jumbo",
-      "modelKey": "cdf_jumbo",
-      "krw": 5500000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-06-19T16:25:52",
-      "store": "영등포신세계점",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/06/10508631/10508631_1_20260623103153.jpg",
-      "stamp": "—",
-      "leather": "Caviar"
     },
     {
       "goodsNo": "10508557",
@@ -1781,6 +1759,28 @@
       "store": "Bundang Jeongja",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/06/10495325/10495325_1_20260604164931.jpg",
+      "stamp": "—",
+      "leather": "Caviar"
+    },
+    {
+      "goodsNo": "10494756",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 6500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-03T14:24:25",
+      "store": "Banpo Shinsegae",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10494756/10494756_1_20260609110502.jpg",
       "stamp": "—",
       "leather": "Caviar"
     },
@@ -2812,7 +2812,7 @@
         false
       ],
       "postedAt": "2026-03-16T13:35:03",
-      "store": "Apgujeong",
+      "store": "대구현대점",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/03/10426730/10426730_1_20260317155415.jpg",
       "stamp": "Stamp K",
