@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T01:22:13+00:00",
+  "generatedAt": "2026-07-03T05:09:06+00:00",
   "fxRate": 0.03987,
   "listings": [
     {
@@ -65,6 +65,28 @@
       "store": "Apgujeong",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/06/10517558/10517558_1_20260630151600.jpg",
+      "stamp": "Stamp B",
+      "leather": "Togo"
+    },
+    {
+      "goodsNo": "10517218",
+      "brand": "Hermès",
+      "model": "Birkin 25",
+      "modelKey": "birkin25",
+      "krw": 34500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Camel",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-29T19:40:36",
+      "store": "대구신세계",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/07/10517218/IMG_1163_20260701150227.JPG",
       "stamp": "Stamp B",
       "leather": "Togo"
     },
@@ -221,28 +243,6 @@
       "image": "https://image.gugus.co.kr/gd/2026/06/10515071/1_20260626163959.jpg",
       "stamp": "—",
       "leather": "Lambskin"
-    },
-    {
-      "goodsNo": "10514471",
-      "brand": "Hermès",
-      "model": "Kelly 25",
-      "modelKey": "kelly25",
-      "krw": 30390000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-06-26T12:09:25",
-      "store": "—",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/06/10514471/8-1_20260626120923.jpg",
-      "stamp": "—",
-      "leather": "Epsom"
     },
     {
       "goodsNo": "10513726",
@@ -2596,6 +2596,28 @@
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/04/10450852/KakaoTalk_20260326_120402833_19_20260410142402.jpg",
       "stamp": "—",
+      "leather": "—"
+    },
+    {
+      "goodsNo": "10450816",
+      "brand": "Hermès",
+      "model": "Kelly 25",
+      "modelKey": "kelly25",
+      "krw": 33000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Brown",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-04-10T14:13:24",
+      "store": "Banpo Shinsegae",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/04/10450816/10450816_1_20260414134152.jpg",
+      "stamp": "Stamp W",
       "leather": "—"
     },
     {
