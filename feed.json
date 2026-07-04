@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T05:03:17+00:00",
+  "generatedAt": "2026-07-04T08:01:57+00:00",
   "fxRate": 0.04018,
   "listings": [
     {
@@ -282,7 +282,7 @@
         false
       ],
       "postedAt": "2026-06-29T13:38:37",
-      "store": "본사센터2",
+      "store": "Haeundae Marine",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10516665/10516665_1_20260701100737.jpg",
       "stamp": "—",
@@ -2097,7 +2097,7 @@
       "brand": "Hermès",
       "model": "Kelly 25",
       "modelKey": "kelly25",
-      "krw": 35000000,
+      "krw": 34500000,
       "condition": "Excellent",
       "year": "—",
       "color": "Black",
@@ -2823,7 +2823,7 @@
       "brand": "Hermès",
       "model": "Mini Kelly",
       "modelKey": "mini_kelly",
-      "krw": 32500000,
+      "krw": 32300000,
       "condition": "Excellent",
       "year": "—",
       "color": "—",
