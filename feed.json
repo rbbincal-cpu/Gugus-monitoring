@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T08:01:57+00:00",
+  "generatedAt": "2026-07-04T10:22:20+00:00",
   "fxRate": 0.04018,
   "listings": [
     {
@@ -40,7 +40,7 @@
         false
       ],
       "postedAt": "2026-07-01T17:18:56",
-      "store": "본사센터1",
+      "store": "Banpo Shinsegae",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10519232/10519232_1_20260703112711.jpg",
       "stamp": "—",
@@ -2075,7 +2075,7 @@
       "brand": "Hermès",
       "model": "Kelly 25",
       "modelKey": "kelly25",
-      "krw": 33500000,
+      "krw": 33200000,
       "condition": "Like New",
       "year": "—",
       "color": "#ECE6CC|아이보리",
@@ -2086,7 +2086,7 @@
         false
       ],
       "postedAt": "2026-05-18T14:36:25",
-      "store": "Jamsil",
+      "store": "Cheongdam Black",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/05/10481105/10481105_1_20260519141633.jpg",
       "stamp": "Stamp W",
