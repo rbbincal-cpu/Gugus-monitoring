@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T04:37:44+00:00",
+  "generatedAt": "2026-07-08T07:17:44+00:00",
   "fxRate": 0.04049,
   "listings": [
     {
@@ -18,7 +18,7 @@
         false
       ],
       "postedAt": "2026-07-07T14:00:13",
-      "store": "본사센터1",
+      "store": "Hannam",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10523936/10523936_1_20260707160757.jpg",
       "stamp": "Stamp Y",
@@ -84,7 +84,7 @@
         false
       ],
       "postedAt": "2026-07-06T13:18:04",
-      "store": "본사센터1",
+      "store": "Cheongdam Black",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10522725/10522725_1_20260707111822.jpg",
       "stamp": "Stamp W",
@@ -172,7 +172,7 @@
         false
       ],
       "postedAt": "2026-07-02T18:12:13",
-      "store": "본사센터2",
+      "store": "Haeundae Marine",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10520384/IMG_1224_20260706153434.JPG",
       "stamp": "Stamp U",
@@ -216,7 +216,7 @@
         false
       ],
       "postedAt": "2026-07-02T16:28:46",
-      "store": "본사센터1",
+      "store": "Banpo Shinsegae",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10520176/10520176_1_20260707113452.jpg",
       "stamp": "Stamp Z",
@@ -1250,7 +1250,7 @@
         false
       ],
       "postedAt": "2026-06-18T14:14:38",
-      "store": "Haeundae Marine",
+      "store": "Banpo Shinsegae",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/06/10507378/IMG_9407_20260622160413.JPG",
       "stamp": "Stamp O",
