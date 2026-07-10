@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T01:13:53+00:00",
+  "generatedAt": "2026-07-10T05:12:38+00:00",
   "fxRate": 0.04085,
   "listings": [
     {
@@ -62,7 +62,7 @@
         false
       ],
       "postedAt": "2026-07-07T14:00:13",
-      "store": "Hannam",
+      "store": "Cheongdam Black",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10523936/10523936_1_20260707160757.jpg",
       "stamp": "Stamp Y",
@@ -135,6 +135,28 @@
       "leather": "—"
     },
     {
+      "goodsNo": "10522972",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 2500000,
+      "condition": "Very Good",
+      "year": "—",
+      "color": "Blue",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-07-06T15:34:50",
+      "store": "영등포신세계점",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/07/10522972/10522972_1_20260708133436.jpg",
+      "stamp": "—",
+      "leather": "—"
+    },
+    {
       "goodsNo": "10522725",
       "brand": "Hermès",
       "model": "Birkin 25",
@@ -172,7 +194,7 @@
         false
       ],
       "postedAt": "2026-07-04T17:18:37",
-      "store": "본사센터2",
+      "store": "Gwangju Sangmu",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10522210/IMG_1240_20260707152647.JPG",
       "stamp": "Stamp K",
@@ -238,7 +260,7 @@
         false
       ],
       "postedAt": "2026-07-03T15:19:31",
-      "store": "본사센터2",
+      "store": "Dongnae",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10521216/IMG_1232_20260707152629.JPG",
       "stamp": "Stamp G",
@@ -375,6 +397,28 @@
       "image": "https://image.gugus.co.kr/gd/2026/07/10519983/10519983_1_20260703112114.jpg",
       "stamp": "Stamp X",
       "leather": "—"
+    },
+    {
+      "goodsNo": "10519870",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 6800000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-07-02T13:19:59",
+      "store": "대구현대점",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/07/10519870/10519870_1_20260707103112.jpg",
+      "stamp": "—",
+      "leather": "Caviar"
     },
     {
       "goodsNo": "10519232",
@@ -524,7 +568,7 @@
         false
       ],
       "postedAt": "2026-06-30T13:25:29",
-      "store": "Cheongdam Black",
+      "store": "Jamsil",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/06/10517558/10517558_1_20260630151600.jpg",
       "stamp": "Stamp B",
@@ -1739,28 +1783,6 @@
       "image": "https://image.gugus.co.kr/gd/2026/06/10500436/10500436_1_20260615101451.jpg",
       "stamp": "—",
       "leather": "Lambskin"
-    },
-    {
-      "goodsNo": "10498999",
-      "brand": "Chanel",
-      "model": "Classic Flap · Jumbo",
-      "modelKey": "cdf_jumbo",
-      "krw": 5450000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-06-09T12:55:08",
-      "store": "Apgujeong",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/06/10498999/10498999_1_20260611101112.jpg",
-      "stamp": "—",
-      "leather": "Caviar"
     },
     {
       "goodsNo": "10498954",
@@ -3850,28 +3872,6 @@
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/goods/update2/img2024/04/000000000000_1829494_0.jpg",
       "stamp": "Stamp Z",
-      "leather": "—"
-    },
-    {
-      "goodsNo": "9810405",
-      "brand": "Chanel",
-      "model": "Boy · Medium",
-      "modelKey": "boy_med",
-      "krw": 3950000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Navy",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2022-08-09T11:43:28",
-      "store": "Seolleung",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/goods/update2/img2022/08/000000000000_9810405_0.jpg",
-      "stamp": "—",
       "leather": "—"
     },
     {
