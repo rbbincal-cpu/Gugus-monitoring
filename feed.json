@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-09T23:35:10+00:00",
-  "fxRate": 0.04093,
+  "generatedAt": "2026-07-10T01:13:53+00:00",
+  "fxRate": 0.04085,
   "listings": [
     {
       "goodsNo": "10525841",
@@ -199,6 +199,28 @@
       "image": "https://image.gugus.co.kr/gd/2026/07/10521828/10521828_1_20260707152709.jpg",
       "stamp": "—",
       "leather": "—"
+    },
+    {
+      "goodsNo": "10521716",
+      "brand": "Hermès",
+      "model": "Kelly 25",
+      "modelKey": "kelly25",
+      "krw": 28000000,
+      "condition": "Like New",
+      "year": "—",
+      "color": "#ECE6CC|아이보리",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-07-04T02:11:05",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/07/10521716/IMG_2916_20260704020603.jpeg",
+      "stamp": "—",
+      "leather": "Togo"
     },
     {
       "goodsNo": "10521216",
@@ -579,7 +601,7 @@
       "brand": "Hermès",
       "model": "Kelly 25",
       "modelKey": "kelly25",
-      "krw": 29500000,
+      "krw": 29000000,
       "condition": "Excellent",
       "year": "—",
       "color": "#FFFFFF|기타컬러",
@@ -2471,7 +2493,7 @@
       "brand": "Chanel",
       "model": "Wallet on Chain",
       "modelKey": "woc",
-      "krw": 2050000,
+      "krw": 1950000,
       "condition": "Very Good",
       "year": "—",
       "color": "#FFFFFF|멀티컬러",
@@ -2530,28 +2552,6 @@
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/03/10432531/10432531_1_20260326101805.jpg",
       "stamp": "Stamp B",
-      "leather": "—"
-    },
-    {
-      "goodsNo": "10431680",
-      "brand": "Hermès",
-      "model": "Kelly 25",
-      "modelKey": "kelly25",
-      "krw": 30700000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "#FFFFFF|기타컬러",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-03-20T17:32:25",
-      "store": "—",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/03/10431680/구구스-1_20260320173222.jpg",
-      "stamp": "—",
       "leather": "—"
     },
     {
