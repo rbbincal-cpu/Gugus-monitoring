@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T05:12:38+00:00",
+  "generatedAt": "2026-07-10T08:45:31+00:00",
   "fxRate": 0.04085,
   "listings": [
     {
@@ -656,7 +656,7 @@
         false
       ],
       "postedAt": "2026-06-29T16:50:18",
-      "store": "Apgujeong",
+      "store": "Banpo Shinsegae",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/06/10512413/10512413_1_20260624154237.jpg",
       "stamp": "Stamp U",
@@ -771,28 +771,6 @@
       "image": "https://image.gugus.co.kr/gd/2026/06/10515376/10515376_1_20260630111152.jpg",
       "stamp": "—",
       "leather": "Caviar"
-    },
-    {
-      "goodsNo": "10515071",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 1800000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-06-26T16:40:03",
-      "store": "—",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/06/10515071/1_20260626163959.jpg",
-      "stamp": "—",
-      "leather": "Lambskin"
     },
     {
       "goodsNo": "10513726",
@@ -1167,28 +1145,6 @@
       "image": "https://image.gugus.co.kr/gd/2026/06/10511245/10511245_1_20260625111349.jpg",
       "stamp": "—",
       "leather": "Lambskin"
-    },
-    {
-      "goodsNo": "10510530",
-      "brand": "Hermès",
-      "model": "Birkin 30",
-      "modelKey": "birkin30",
-      "krw": 21700000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "White",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-06-22T17:21:58",
-      "store": "Cheongdam Black",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/06/10510530/10510530_1_20260623154629.jpg",
-      "stamp": "Stamp X",
-      "leather": "—"
     },
     {
       "goodsNo": "10510439",
@@ -1785,6 +1741,28 @@
       "leather": "Lambskin"
     },
     {
+      "goodsNo": "10498999",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 5450000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-09T12:55:08",
+      "store": "Apgujeong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10498999/10498999_1_20260611101112.jpg",
+      "stamp": "—",
+      "leather": "Caviar"
+    },
+    {
       "goodsNo": "10498954",
       "brand": "Hermès",
       "model": "Kelly 25",
@@ -1983,6 +1961,28 @@
       "leather": "Swift"
     },
     {
+      "goodsNo": "10486174",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 2200000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Pink",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-05-22T19:05:12",
+      "store": "Busan Centum",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/03/10435145/10435145_1_20260327133314.jpg",
+      "stamp": "—",
+      "leather": "—"
+    },
+    {
       "goodsNo": "10486057",
       "brand": "Hermès",
       "model": "Kelly 25",
@@ -2003,28 +2003,6 @@
       "image": "https://image.gugus.co.kr/gd/2026/05/10486057/10486057_1_20260526151238.jpg",
       "stamp": "Stamp U",
       "leather": "Swift"
-    },
-    {
-      "goodsNo": "10483695",
-      "brand": "Chanel",
-      "model": "Classic Flap · Medium",
-      "modelKey": "cdf_medium",
-      "krw": 4600000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-05-20T18:00:53",
-      "store": "Myeongdong",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/05/10483695/10483695_1_20260522113703.jpg",
-      "stamp": "—",
-      "leather": "—"
     },
     {
       "goodsNo": "10483001",
