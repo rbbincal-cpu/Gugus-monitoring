@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T06:04:01+00:00",
+  "generatedAt": "2026-07-11T08:10:28+00:00",
   "fxRate": 0.04098,
   "listings": [
     {
@@ -2196,7 +2196,7 @@
         false
       ],
       "postedAt": "2026-04-29T14:56:35",
-      "store": "Cheongdam Black",
+      "store": "Apgujeong",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/04/10467439/10467439_1_20260430162416.jpg",
       "stamp": "Stamp K",
@@ -3307,7 +3307,7 @@
       "brand": "Chanel",
       "model": "Classic Flap · Small",
       "modelKey": "cdf_small",
-      "krw": 4500000,
+      "krw": 4300000,
       "condition": "Very Good",
       "year": "—",
       "color": "Purple",
