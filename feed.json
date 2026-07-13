@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T01:10:39+00:00",
+  "generatedAt": "2026-07-13T04:50:57+00:00",
   "fxRate": 0.04101,
   "listings": [
     {
@@ -414,7 +414,7 @@
         false
       ],
       "postedAt": "2026-07-02T14:57:47",
-      "store": "Cheongdam Black",
+      "store": "Daechi",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10519984/10519984_1_20260703111226.jpg",
       "stamp": "Stamp I",
@@ -661,28 +661,6 @@
       "image": "https://image.gugus.co.kr/gd/2026/07/10517494/10517494_1_20260702094548.jpg",
       "stamp": "—",
       "leather": "Caviar"
-    },
-    {
-      "goodsNo": "10517218",
-      "brand": "Hermès",
-      "model": "Birkin 25",
-      "modelKey": "birkin25",
-      "krw": 34300000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Camel",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-06-29T19:40:36",
-      "store": "용산파크타워점",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/07/10517218/IMG_1163_20260701150227.JPG",
-      "stamp": "Stamp B",
-      "leather": "Togo"
     },
     {
       "goodsNo": "10516940",
@@ -1541,6 +1519,28 @@
       "image": "https://image.gugus.co.kr/gd/2026/06/10504723/10486693_1_20260526145639_1000x1000_20260616163521.jpg",
       "stamp": "Stamp G",
       "leather": "Epsom"
+    },
+    {
+      "goodsNo": "10504669",
+      "brand": "Hermès",
+      "model": "Birkin 25",
+      "modelKey": "birkin25",
+      "krw": 26000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Grey",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-15T17:09:48",
+      "store": "Apgujeong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10504669/10504669_1_20260616194058.jpg",
+      "stamp": "Stamp T",
+      "leather": "—"
     },
     {
       "goodsNo": "10504321",
