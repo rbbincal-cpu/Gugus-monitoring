@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T08:25:18+00:00",
+  "generatedAt": "2026-07-14T10:21:24+00:00",
   "fxRate": 0.04121,
   "listings": [
     {
@@ -527,28 +527,6 @@
       "store": "대구현대점",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10519870/10519870_1_20260707103112.jpg",
-      "stamp": "—",
-      "leather": "Caviar"
-    },
-    {
-      "goodsNo": "10519232",
-      "brand": "Chanel",
-      "model": "Classic Flap · Jumbo",
-      "modelKey": "cdf_jumbo",
-      "krw": 5800000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-07-01T17:18:56",
-      "store": "Daechi",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/07/10519232/10519232_1_20260703112711.jpg",
       "stamp": "—",
       "leather": "Caviar"
     },
@@ -1981,6 +1959,28 @@
       "image": "https://image.gugus.co.kr/gd/2026/06/10495833/10495833_1_20260605144516.jpg",
       "stamp": "Stamp A",
       "leather": "—"
+    },
+    {
+      "goodsNo": "10495325",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 10000000,
+      "condition": "New",
+      "year": "—",
+      "color": "Grey",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-04T12:10:30",
+      "store": "Bundang Jeongja",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10495325/10495325_1_20260604164931.jpg",
+      "stamp": "—",
+      "leather": "Caviar"
     },
     {
       "goodsNo": "10493548",
