@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T01:05:24+00:00",
+  "generatedAt": "2026-07-16T04:22:48+00:00",
   "fxRate": 0.04146,
   "listings": [
     {
@@ -23,6 +23,28 @@
       "image": "https://image.gugus.co.kr/gd/2026/07/10531126/IM637RRTOJML_20260715181357.jpg",
       "stamp": "Series 25",
       "leather": "—"
+    },
+    {
+      "goodsNo": "10530127",
+      "brand": "Hermès",
+      "model": "Birkin 30",
+      "modelKey": "birkin30",
+      "krw": 25000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-07-14T18:49:52",
+      "store": "본사센터1",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/07/10530127/10530127_1_20260715151721.jpg",
+      "stamp": "Stamp A",
+      "leather": "Togo"
     },
     {
       "goodsNo": "10529059",
@@ -69,6 +91,28 @@
       "leather": "—"
     },
     {
+      "goodsNo": "10526735",
+      "brand": "Hermès",
+      "model": "Birkin 30",
+      "modelKey": "birkin30",
+      "krw": 21000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Grey",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-07-10T13:30:10",
+      "store": "Daegu Suseong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/07/10526735/IMG_7082_20260714153742.JPG",
+      "stamp": "Stamp A",
+      "leather": "—"
+    },
+    {
       "goodsNo": "10526241",
       "brand": "Hermès",
       "model": "Birkin 30",
@@ -89,6 +133,28 @@
       "image": "https://image.gugus.co.kr/gd/2026/07/10526241/10526241_1_20260713133111.jpg",
       "stamp": "Stamp Z",
       "leather": "Togo"
+    },
+    {
+      "goodsNo": "10526081",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 1900000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Burgundy",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-07-09T16:06:01",
+      "store": "본사센터1",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/07/10526081/10526081_1_20260715094653.jpg",
+      "stamp": "—",
+      "leather": "—"
     },
     {
       "goodsNo": "10526034",
@@ -529,28 +595,6 @@
       "image": "https://image.gugus.co.kr/gd/2026/07/10520176/10520176_1_20260707113452.jpg",
       "stamp": "Stamp Z",
       "leather": "Epsom"
-    },
-    {
-      "goodsNo": "10519984",
-      "brand": "Hermès",
-      "model": "Birkin 30",
-      "modelKey": "birkin30",
-      "krw": 9800000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "#FFFFFF|기타컬러",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-07-02T14:57:47",
-      "store": "Daechi",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/07/10519984/10519984_1_20260703111226.jpg",
-      "stamp": "Stamp I",
-      "leather": "—"
     },
     {
       "goodsNo": "10519983",
@@ -1477,28 +1521,6 @@
       "leather": "—"
     },
     {
-      "goodsNo": "10507217",
-      "brand": "Hermès",
-      "model": "Birkin 25",
-      "modelKey": "birkin25",
-      "krw": 22000000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Burgundy",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-06-18T12:14:08",
-      "store": "Apgujeong",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/06/10507217/10507217_1_20260618134418.jpg",
-      "stamp": "Stamp X",
-      "leather": "—"
-    },
-    {
       "goodsNo": "10506635",
       "brand": "Chanel",
       "model": "Classic Flap · Medium",
@@ -1695,28 +1717,6 @@
       "image": "https://image.gugus.co.kr/gd/2026/06/10503096/10503096_1_20260616100447.jpg",
       "stamp": "Stamp K",
       "leather": "Togo"
-    },
-    {
-      "goodsNo": "10502497",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 2500000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Red",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-06-12T14:14:37",
-      "store": "—",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/06/10502497/1_20260626010809.jpg",
-      "stamp": "—",
-      "leather": "Lambskin"
     },
     {
       "goodsNo": "10501414",
