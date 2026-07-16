@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T04:22:48+00:00",
+  "generatedAt": "2026-07-16T07:06:14+00:00",
   "fxRate": 0.04146,
   "listings": [
     {
@@ -755,7 +755,7 @@
       "brand": "Hermès",
       "model": "Birkin 25",
       "modelKey": "birkin25",
-      "krw": 38500000,
+      "krw": 38000000,
       "condition": "Like New",
       "year": "—",
       "color": "Black",
@@ -1162,7 +1162,7 @@
         false
       ],
       "postedAt": "2026-06-24T15:21:29",
-      "store": "Ilsan",
+      "store": "Daegu",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/06/10512524/10512524_1_20260625143724.jpg",
       "stamp": "Stamp T",
@@ -1514,7 +1514,7 @@
         false
       ],
       "postedAt": "2026-06-18T14:14:38",
-      "store": "Banpo Shinsegae",
+      "store": "Haeundae Marine",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/06/10507378/IMG_9407_20260622160413.JPG",
       "stamp": "Stamp O",
@@ -1563,28 +1563,6 @@
       "image": "https://image.gugus.co.kr/gd/2026/06/10506578/10506578_1_20260619105638.jpg",
       "stamp": "—",
       "leather": "—"
-    },
-    {
-      "goodsNo": "10505531",
-      "brand": "Chanel",
-      "model": "Classic Flap · Jumbo",
-      "modelKey": "cdf_jumbo",
-      "krw": 6300000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-06-16T15:31:15",
-      "store": "Banpo Shinsegae",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/06/10505531/10505531_1_20260618110858.jpg",
-      "stamp": "—",
-      "leather": "Caviar"
     },
     {
       "goodsNo": "10505361",
@@ -1679,7 +1657,7 @@
       "brand": "Chanel",
       "model": "Wallet on Chain",
       "modelKey": "woc",
-      "krw": 2700000,
+      "krw": 2510000,
       "condition": "Excellent",
       "year": "—",
       "color": "Black",
@@ -1979,6 +1957,28 @@
       "store": "Bundang Jeongja",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/06/10495325/10495325_1_20260604164931.jpg",
+      "stamp": "—",
+      "leather": "Caviar"
+    },
+    {
+      "goodsNo": "10494756",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 6500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-03T14:24:25",
+      "store": "Banpo Shinsegae",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10494756/10494756_1_20260609110502.jpg",
       "stamp": "—",
       "leather": "Caviar"
     },
