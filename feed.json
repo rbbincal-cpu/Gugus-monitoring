@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T01:02:40+00:00",
+  "generatedAt": "2026-07-18T04:10:26+00:00",
   "fxRate": 0.04147,
   "listings": [
     {
@@ -172,7 +172,7 @@
         false
       ],
       "postedAt": "2026-07-11T13:07:02",
-      "store": "본사센터2",
+      "store": "대구현대점",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10527570/IMG_7149_20260715155215.JPG",
       "stamp": "Stamp C",
@@ -260,7 +260,7 @@
         false
       ],
       "postedAt": "2026-07-09T16:06:01",
-      "store": "본사센터1",
+      "store": "Ilsan",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10526081/10526081_1_20260715094653.jpg",
       "stamp": "—",
