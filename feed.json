@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T04:56:12+00:00",
+  "generatedAt": "2026-07-20T08:15:48+00:00",
   "fxRate": 0.04152,
   "listings": [
     {
@@ -40,7 +40,7 @@
         false
       ],
       "postedAt": "2026-07-16T12:09:29",
-      "store": "본사센터1",
+      "store": "Apgujeong",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10531474/10531474_1_20260716142414.jpg",
       "stamp": "Stamp G",
@@ -821,7 +821,7 @@
       "brand": "Chanel",
       "model": "Wallet on Chain",
       "modelKey": "woc",
-      "krw": 2990000,
+      "krw": 2970000,
       "condition": "Like New",
       "year": "—",
       "color": "—",
@@ -2119,7 +2119,7 @@
       "brand": "Hermès",
       "model": "Kelly 25",
       "modelKey": "kelly25",
-      "krw": 28500000,
+      "krw": 28200000,
       "condition": "Excellent",
       "year": "—",
       "color": "#FFFFFF|멀티컬러",
@@ -2999,7 +2999,7 @@
       "brand": "Chanel",
       "model": "Boy · Medium",
       "modelKey": "boy_med",
-      "krw": 2675000,
+      "krw": 2485000,
       "condition": "Excellent",
       "year": "—",
       "color": "Beige",
