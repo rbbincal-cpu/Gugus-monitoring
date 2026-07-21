@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T03:52:18+00:00",
+  "generatedAt": "2026-07-21T06:22:30+00:00",
   "fxRate": 0.04176,
   "listings": [
     {
@@ -40,7 +40,7 @@
         false
       ],
       "postedAt": "2026-07-18T15:15:08",
-      "store": "본사센터1",
+      "store": "Cheongdam Black",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10533317/10533317_1_20260720160331.jpg",
       "stamp": "Stamp G",
@@ -216,7 +216,7 @@
         false
       ],
       "postedAt": "2026-07-14T19:16:11",
-      "store": "본사센터1",
+      "store": "Pangyo",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10530154/10530154_1_20260716094801.jpg",
       "stamp": "—",
@@ -304,7 +304,7 @@
         false
       ],
       "postedAt": "2026-07-14T13:01:04",
-      "store": "본사센터1",
+      "store": "Hannam",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10529488/10529488_1_20260716103120.jpg",
       "stamp": "—",
@@ -326,7 +326,7 @@
         false
       ],
       "postedAt": "2026-07-14T12:58:02",
-      "store": "본사센터1",
+      "store": "Cheongdam Black",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10529481/10529481_1_20260716114501.jpg",
       "stamp": "Stamp K",
@@ -1514,7 +1514,7 @@
         false
       ],
       "postedAt": "2026-06-24T15:21:29",
-      "store": "Daegu",
+      "store": "Ilsan",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/06/10512524/10512524_1_20260625143724.jpg",
       "stamp": "Stamp T",
@@ -2273,7 +2273,7 @@
       "brand": "Hermès",
       "model": "Kelly 25",
       "modelKey": "kelly25",
-      "krw": 36500000,
+      "krw": 36000000,
       "condition": "Excellent",
       "year": "—",
       "color": "Black",
@@ -2284,7 +2284,7 @@
         false
       ],
       "postedAt": "2026-05-04T12:34:30",
-      "store": "Seolleung",
+      "store": "Hannam",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/05/10470290/10470290_1_20260504152154.jpg",
       "stamp": "Stamp K",
