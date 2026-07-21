@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T06:22:30+00:00",
+  "generatedAt": "2026-07-21T09:13:41+00:00",
   "fxRate": 0.04176,
   "listings": [
     {
@@ -84,7 +84,7 @@
         false
       ],
       "postedAt": "2026-07-17T15:36:49",
-      "store": "본사센터2",
+      "store": "Busan Seomyeon",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10532822/IMG_7279_20260720162049.JPG",
       "stamp": "Stamp K",
@@ -150,7 +150,7 @@
         false
       ],
       "postedAt": "2026-07-16T17:40:45",
-      "store": "본사센터1",
+      "store": "Apgujeong",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10532115/10532115_1_20260720141840.jpg",
       "stamp": "Stamp W",
@@ -260,7 +260,7 @@
         false
       ],
       "postedAt": "2026-07-14T18:39:47",
-      "store": "본사센터1",
+      "store": "Hannam",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10530104/10530104_1_20260715170700.jpg",
       "stamp": "—",
@@ -282,7 +282,7 @@
         false
       ],
       "postedAt": "2026-07-14T14:37:53",
-      "store": "본사센터1",
+      "store": "Banpo Shinsegae",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10529636/10529636_1_20260715171512.jpg",
       "stamp": "—",
@@ -414,7 +414,7 @@
         false
       ],
       "postedAt": "2026-07-13T17:00:38",
-      "store": "본사센터1",
+      "store": "아크로삼성점",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10528769/10528769_1_20260715113459.jpg",
       "stamp": "—",
@@ -2465,6 +2465,28 @@
       "image": "https://image.gugus.co.kr/gd/2026/04/10457645/IMG_9910_20260421150531.JPG",
       "stamp": "Stamp Z",
       "leather": "—"
+    },
+    {
+      "goodsNo": "10455866",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 3500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "White",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-04-16T15:24:36",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/04/10455866/KakaoTalk_20260416_151320743_20260416152412.jpg",
+      "stamp": "—",
+      "leather": "Caviar"
     },
     {
       "goodsNo": "10455855",
