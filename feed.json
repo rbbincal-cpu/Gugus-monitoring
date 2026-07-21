@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T12:50:31+00:00",
+  "generatedAt": "2026-07-21T14:52:42+00:00",
   "fxRate": 0.04176,
   "listings": [
     {
@@ -1543,28 +1543,6 @@
       "leather": "Togo"
     },
     {
-      "goodsNo": "10511472",
-      "brand": "Hermès",
-      "model": "Birkin 30",
-      "modelKey": "birkin30",
-      "krw": 16000000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Red",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-06-23T16:18:00",
-      "store": "Apgujeong",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/06/10511472/10511472_1_20260625135620.jpg",
-      "stamp": "Stamp Q",
-      "leather": "—"
-    },
-    {
       "goodsNo": "10511467",
       "brand": "Chanel",
       "model": "Boy · Medium",
@@ -2487,28 +2465,6 @@
       "image": "https://image.gugus.co.kr/gd/2026/04/10457645/IMG_9910_20260421150531.JPG",
       "stamp": "Stamp Z",
       "leather": "—"
-    },
-    {
-      "goodsNo": "10455866",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 3500000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "White",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-04-16T15:24:36",
-      "store": "—",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/04/10455866/KakaoTalk_20260416_151320743_20260416152412.jpg",
-      "stamp": "—",
-      "leather": "Caviar"
     },
     {
       "goodsNo": "10455855",
