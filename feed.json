@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T03:52:16+00:00",
+  "generatedAt": "2026-07-22T06:22:34+00:00",
   "fxRate": 0.04174,
   "listings": [
     {
@@ -40,7 +40,7 @@
         false
       ],
       "postedAt": "2026-07-20T17:55:41",
-      "store": "본사센터1",
+      "store": "Cheongdam Black",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10534945/10534945_1_20260721135622.jpg",
       "stamp": "Stamp D",
@@ -62,7 +62,7 @@
         false
       ],
       "postedAt": "2026-07-20T14:32:36",
-      "store": "본사센터1",
+      "store": "Cheongdam Black",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10534434/10534434_1_20260721151712.jpg",
       "stamp": "Stamp K",
@@ -106,7 +106,7 @@
         false
       ],
       "postedAt": "2026-07-18T17:14:41",
-      "store": "본사센터1",
+      "store": "Songdo",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10533530/10533530_1_20260721092410.jpg",
       "stamp": "—",
@@ -326,7 +326,7 @@
         false
       ],
       "postedAt": "2026-07-15T16:32:08",
-      "store": "본사센터1",
+      "store": "Apgujeong",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10530926/10530926_1_20260720092841.jpg",
       "stamp": "—",
@@ -1565,6 +1565,28 @@
       "leather": "—"
     },
     {
+      "goodsNo": "10512708",
+      "brand": "Hermès",
+      "model": "Birkin 30",
+      "modelKey": "birkin30",
+      "krw": 24000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-24T16:20:17",
+      "store": "Ulsan",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10512708/IMG_9824_20260625174402.JPG",
+      "stamp": "Stamp T",
+      "leather": "—"
+    },
+    {
       "goodsNo": "10512717",
       "brand": "Hermès",
       "model": "Kelly 25",
@@ -2185,7 +2207,7 @@
       "brand": "Chanel",
       "model": "Classic Flap · Medium",
       "modelKey": "cdf_medium",
-      "krw": 7200000,
+      "krw": 7050000,
       "condition": "Excellent",
       "year": "—",
       "color": "Black",
@@ -2757,7 +2779,7 @@
       "brand": "Chanel",
       "model": "Classic Flap · Medium",
       "modelKey": "cdf_medium",
-      "krw": 7300000,
+      "krw": 7000000,
       "condition": "Excellent",
       "year": "—",
       "color": "Purple",
