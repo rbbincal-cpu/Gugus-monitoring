@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T06:22:13+00:00",
+  "generatedAt": "2026-07-23T09:05:39+00:00",
   "fxRate": 0.04184,
   "listings": [
     {
@@ -177,28 +177,6 @@
       "image": "https://image.gugus.co.kr/gd/2026/07/10533317/10533317_1_20260720160331.jpg",
       "stamp": "Stamp G",
       "leather": "Togo"
-    },
-    {
-      "goodsNo": "10532992",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 3300000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "White",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-07-17T17:49:10",
-      "store": "—",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/07/10532992/IMG_0879-Photoroom_20260717174704.JPG",
-      "stamp": "—",
-      "leather": "Lambskin"
     },
     {
       "goodsNo": "10532973",
@@ -843,7 +821,7 @@
       "brand": "Hermès",
       "model": "Birkin 25",
       "modelKey": "birkin25",
-      "krw": 35000000,
+      "krw": 34450000,
       "condition": "Excellent",
       "year": "—",
       "color": "Brown",
@@ -1917,6 +1895,28 @@
       "leather": "—"
     },
     {
+      "goodsNo": "10505361",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 4500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-16T14:25:41",
+      "store": "Cheongdam Black",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10505361/10505361_1_20260616185721.jpg",
+      "stamp": "—",
+      "leather": "—"
+    },
+    {
       "goodsNo": "10504813",
       "brand": "Chanel",
       "model": "Classic Flap · Small",
@@ -2269,28 +2269,6 @@
       "leather": "Swift"
     },
     {
-      "goodsNo": "10486057",
-      "brand": "Hermès",
-      "model": "Kelly 25",
-      "modelKey": "kelly25",
-      "krw": 28200000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "#FFFFFF|멀티컬러",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-05-22T17:44:55",
-      "store": "Myeongdong",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/05/10486057/10486057_1_20260526151238.jpg",
-      "stamp": "Stamp U",
-      "leather": "Swift"
-    },
-    {
       "goodsNo": "10483001",
       "brand": "Chanel",
       "model": "Boy · Medium",
@@ -2533,6 +2511,28 @@
       "leather": "—"
     },
     {
+      "goodsNo": "10455866",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 3500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "White",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-04-16T15:24:36",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/04/10455866/KakaoTalk_20260416_151320743_20260416152412.jpg",
+      "stamp": "—",
+      "leather": "Caviar"
+    },
+    {
       "goodsNo": "10455855",
       "brand": "Hermès",
       "model": "Kelly 25",
@@ -2575,6 +2575,28 @@
       "image": "https://image.gugus.co.kr/gd/2026/04/10454232/1_20260414185510.jpg",
       "stamp": "—",
       "leather": "—"
+    },
+    {
+      "goodsNo": "10452786",
+      "brand": "Hermès",
+      "model": "Kelly 25",
+      "modelKey": "kelly25",
+      "krw": 35000000,
+      "condition": "New",
+      "year": "—",
+      "color": "#FFFFFF|기타컬러",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-04-13T14:25:25",
+      "store": "Cheongdam Black",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/04/10452786/10452786_1_20260414091018.jpg",
+      "stamp": "Stamp Z",
+      "leather": "Epsom"
     },
     {
       "goodsNo": "10450852",
@@ -3538,7 +3560,7 @@
         false
       ],
       "postedAt": "2025-02-15T15:35:46",
-      "store": "Bundang Jeongja",
+      "store": "Seolleung",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2025/02/10116964/10116964_1_20250218095500.jpg",
       "stamp": "—",
