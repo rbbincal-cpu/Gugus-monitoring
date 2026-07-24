@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T07:14:06+00:00",
+  "generatedAt": "2026-07-24T09:39:20+00:00",
   "fxRate": 0.04197,
   "listings": [
     {
@@ -656,7 +656,7 @@
         false
       ],
       "postedAt": "2026-07-13T17:00:38",
-      "store": "아크로삼성점",
+      "store": "Seolleung",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10528769/10528769_1_20260715113459.jpg",
       "stamp": "—",
@@ -1191,28 +1191,6 @@
       "leather": "Togo"
     },
     {
-      "goodsNo": "10519983",
-      "brand": "Hermès",
-      "model": "Birkin 25",
-      "modelKey": "birkin25",
-      "krw": 27500000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-07-02T14:57:47",
-      "store": "Cheongdam Black",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/07/10519983/10519983_1_20260703112114.jpg",
-      "stamp": "Stamp X",
-      "leather": "—"
-    },
-    {
       "goodsNo": "10519870",
       "brand": "Chanel",
       "model": "Classic Flap · Jumbo",
@@ -1459,7 +1437,7 @@
       "brand": "Chanel",
       "model": "Classic Flap · Medium",
       "modelKey": "cdf_medium",
-      "krw": 4500000,
+      "krw": 4270000,
       "condition": "Very Good",
       "year": "—",
       "color": "Beige",
@@ -2735,7 +2713,7 @@
       "brand": "Chanel",
       "model": "Classic Flap · Jumbo",
       "modelKey": "cdf_jumbo",
-      "krw": 5900000,
+      "krw": 5800000,
       "condition": "Excellent",
       "year": "—",
       "color": "Beige",
