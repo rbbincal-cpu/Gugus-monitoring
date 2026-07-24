@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T15:04:02+00:00",
+  "generatedAt": "2026-07-24T16:53:56+00:00",
   "fxRate": 0.04197,
   "listings": [
     {
@@ -1587,6 +1587,28 @@
       "leather": "Caviar"
     },
     {
+      "goodsNo": "10512806",
+      "brand": "Hermès",
+      "model": "Birkin 25",
+      "modelKey": "birkin25",
+      "krw": 37500000,
+      "condition": "Like New",
+      "year": "—",
+      "color": "#FFFFFF|기타컬러",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-24T16:45:40",
+      "store": "Cheongdam Black",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10512806/10512806_1_20260625090520.jpg",
+      "stamp": "Stamp W",
+      "leather": "Togo"
+    },
+    {
       "goodsNo": "10512717",
       "brand": "Hermès",
       "model": "Kelly 25",
@@ -2119,7 +2141,7 @@
       "brand": "Hermès",
       "model": "Kelly 25",
       "modelKey": "kelly25",
-      "krw": 29000000,
+      "krw": 28130000,
       "condition": "New",
       "year": "—",
       "color": "Yellow",
@@ -2509,6 +2531,28 @@
       "image": "https://image.gugus.co.kr/gd/2026/04/10457645/IMG_9910_20260421150531.JPG",
       "stamp": "Stamp Z",
       "leather": "—"
+    },
+    {
+      "goodsNo": "10455866",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 3500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "White",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-04-16T15:24:36",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/04/10455866/KakaoTalk_20260416_151320743_20260416152412.jpg",
+      "stamp": "—",
+      "leather": "Caviar"
     },
     {
       "goodsNo": "10455855",
