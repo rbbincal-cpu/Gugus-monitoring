@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T04:27:08+00:00",
+  "generatedAt": "2026-07-24T07:14:06+00:00",
   "fxRate": 0.04197,
   "listings": [
     {
@@ -18,7 +18,7 @@
         false
       ],
       "postedAt": "2026-07-22T19:16:39",
-      "store": "본사센터1",
+      "store": "Apgujeong",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10537336/10537336_1_20260723170423.jpg",
       "stamp": "Stamp C",
@@ -106,7 +106,7 @@
         false
       ],
       "postedAt": "2026-07-21T15:11:46",
-      "store": "본사센터1",
+      "store": "Cheongdam Black",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10535732/10535732_1_20260722134224.jpg",
       "stamp": "Stamp W",
@@ -150,7 +150,7 @@
         false
       ],
       "postedAt": "2026-07-21T13:25:45",
-      "store": "본사센터2",
+      "store": "Haeundae Marine",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10535539/IMG_7326_20260723151522.JPG",
       "stamp": "Stamp W",
@@ -1877,7 +1877,7 @@
       "brand": "Chanel",
       "model": "Classic Flap · Medium",
       "modelKey": "cdf_medium",
-      "krw": 11000000,
+      "krw": 10500000,
       "condition": "Excellent",
       "year": "—",
       "color": "Pink",
