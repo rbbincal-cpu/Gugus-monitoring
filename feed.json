@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-07-27T01:01:57+00:00",
+  "generatedAt": "2026-07-27T04:48:12+00:00",
   "fxRate": 0.04236,
   "listings": [
+    {
+      "goodsNo": "10539949",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 2500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "—",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-07-26T16:56:14",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/07/10539949/KakaoTalk_20260726_164123897_20260726165304.jpg",
+      "stamp": "—",
+      "leather": "Lambskin"
+    },
     {
       "goodsNo": "10537772",
       "brand": "Hermès",
@@ -150,7 +172,7 @@
         false
       ],
       "postedAt": "2026-07-21T15:22:10",
-      "store": "본사센터1",
+      "store": "Bundang Jeongja",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10535753/10535753_1_20260723091914.jpg",
       "stamp": "—",
@@ -1367,28 +1389,6 @@
       "leather": "Togo"
     },
     {
-      "goodsNo": "10517551",
-      "brand": "Chanel",
-      "model": "Boy · Medium",
-      "modelKey": "boy_med",
-      "krw": 3300000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Grey",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-06-30T13:18:49",
-      "store": "Hannam",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/07/10517551/10517551_1_20260702101215.jpg",
-      "stamp": "—",
-      "leather": "—"
-    },
-    {
       "goodsNo": "10517494",
       "brand": "Chanel",
       "model": "Classic Flap · Jumbo",
@@ -1629,28 +1629,6 @@
       "image": "https://image.gugus.co.kr/gd/2026/06/10512940/1(16)_20260624173121.jpg",
       "stamp": "—",
       "leather": "Caviar"
-    },
-    {
-      "goodsNo": "10512806",
-      "brand": "Hermès",
-      "model": "Birkin 25",
-      "modelKey": "birkin25",
-      "krw": 37500000,
-      "condition": "Like New",
-      "year": "—",
-      "color": "#FFFFFF|기타컬러",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-06-24T16:45:40",
-      "store": "Cheongdam Black",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/06/10512806/10512806_1_20260625090520.jpg",
-      "stamp": "Stamp W",
-      "leather": "Togo"
     },
     {
       "goodsNo": "10512717",
@@ -1957,28 +1935,6 @@
       "store": "Busan Seomyeon",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/06/10506578/10506578_1_20260619105638.jpg",
-      "stamp": "—",
-      "leather": "—"
-    },
-    {
-      "goodsNo": "10505361",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 4500000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-06-16T14:25:41",
-      "store": "Cheongdam Black",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/06/10505361/10505361_1_20260616185721.jpg",
       "stamp": "—",
       "leather": "—"
     },
@@ -3783,6 +3739,28 @@
       "store": "Myeongdong",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2024/10/10019070/10019070_1_20241010173308.jpg",
+      "stamp": "—",
+      "leather": "—"
+    },
+    {
+      "goodsNo": "10014916",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 3560000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "White",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2024-10-01T15:09:36",
+      "store": "Myeongdong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2024/10/10014916/10014916_1_20241011115211.jpg",
       "stamp": "—",
       "leather": "—"
     },
