@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T10:02:07+00:00",
+  "generatedAt": "2026-07-28T12:07:17+00:00",
   "fxRate": 0.04206,
   "listings": [
     {
@@ -1580,7 +1580,7 @@
         false
       ],
       "postedAt": "2026-06-29T14:27:00",
-      "store": "Busan Seomyeon",
+      "store": "Pangyo",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/06/10516715/10516715_1_20260629165138.jpg",
       "stamp": "Stamp B",
@@ -1939,6 +1939,28 @@
       "leather": "—"
     },
     {
+      "goodsNo": "10509308",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 6500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-20T15:03:58",
+      "store": "Busan Centum",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10509308/10509308_1_20260623112139.jpg",
+      "stamp": "—",
+      "leather": "Caviar"
+    },
+    {
       "goodsNo": "10508944",
       "brand": "Chanel",
       "model": "Boy · Medium",
@@ -2243,28 +2265,6 @@
       "store": "—",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/05/10490380/구구스01_20260528164940.jpg",
-      "stamp": "—",
-      "leather": "—"
-    },
-    {
-      "goodsNo": "10487915",
-      "brand": "Chanel",
-      "model": "Classic Flap · Medium",
-      "modelKey": "cdf_medium",
-      "krw": 7050000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-05-26T13:49:15",
-      "store": "Banpo Shinsegae",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/05/10487915/10487915_1_20260529102923.jpg",
       "stamp": "—",
       "leather": "—"
     },
