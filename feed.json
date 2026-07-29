@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T04:37:20+00:00",
+  "generatedAt": "2026-07-29T07:29:45+00:00",
   "fxRate": 0.0423,
   "listings": [
     {
@@ -62,7 +62,7 @@
         false
       ],
       "postedAt": "2026-07-27T19:04:05",
-      "store": "본사센터1",
+      "store": "Cheongdam Black",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10540789/10540789_1_20260728160330.jpg",
       "stamp": "Stamp W",
@@ -106,7 +106,7 @@
         false
       ],
       "postedAt": "2026-07-27T12:47:50",
-      "store": "본사센터1",
+      "store": "Apgujeong",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10540215/10540215_1_20260728103120.jpg",
       "stamp": "—",
@@ -128,7 +128,7 @@
         false
       ],
       "postedAt": "2026-07-27T11:47:18",
-      "store": "본사센터1",
+      "store": "Songdo",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10540141/10540141_1_20260728131435.jpg",
       "stamp": "—",
@@ -238,7 +238,7 @@
         false
       ],
       "postedAt": "2026-07-25T14:33:01",
-      "store": "본사센터1",
+      "store": "Jamsil",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10539577/10539577_1_20260728095742.jpg",
       "stamp": "Stamp W",
@@ -1107,7 +1107,7 @@
       "brand": "Hermès",
       "model": "Birkin 30",
       "modelKey": "birkin30",
-      "krw": 33000000,
+      "krw": 31800000,
       "condition": "Excellent",
       "year": "—",
       "color": "#FFFFFF|기타컬러",
@@ -1228,7 +1228,7 @@
         false
       ],
       "postedAt": "2026-07-07T18:46:51",
-      "store": "Hannam",
+      "store": "Seolleung",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10524526/10524526_1_20260709155747.jpg",
       "stamp": "Stamp B",
