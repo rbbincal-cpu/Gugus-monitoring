@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T07:29:45+00:00",
+  "generatedAt": "2026-07-29T10:15:05+00:00",
   "fxRate": 0.0423,
   "listings": [
     {
@@ -1481,7 +1481,7 @@
       "brand": "Hermès",
       "model": "Birkin 25",
       "modelKey": "birkin25",
-      "krw": 32500000,
+      "krw": 32000000,
       "condition": "Excellent",
       "year": "—",
       "color": "Navy",
@@ -1607,28 +1607,6 @@
       "image": "https://image.gugus.co.kr/gd/2026/07/10518257/KakaoTalk_20260630_215421160_20260701004355.jpg",
       "stamp": "—",
       "leather": "—"
-    },
-    {
-      "goodsNo": "10517558",
-      "brand": "Hermès",
-      "model": "Birkin 25",
-      "modelKey": "birkin25",
-      "krw": 38000000,
-      "condition": "Like New",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-06-30T13:25:29",
-      "store": "Jamsil",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/06/10517558/10517558_1_20260630151600.jpg",
-      "stamp": "Stamp B",
-      "leather": "Togo"
     },
     {
       "goodsNo": "10517494",
@@ -1888,7 +1866,7 @@
         false
       ],
       "postedAt": "2026-06-24T16:20:17",
-      "store": "Daechi",
+      "store": "Gwangju Sangmu",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/06/10512717/IMG_9707_20260625174132.JPG",
       "stamp": "Stamp C",
