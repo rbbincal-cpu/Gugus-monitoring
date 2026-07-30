@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T04:16:52+00:00",
+  "generatedAt": "2026-07-30T06:46:22+00:00",
   "fxRate": 0.04243,
   "listings": [
     {
@@ -198,7 +198,7 @@
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10539873/10539873_1_20260729132752.jpg",
       "stamp": "—",
-      "leather": "Lambskin"
+      "leather": "—"
     },
     {
       "goodsNo": "10539796",
@@ -282,7 +282,7 @@
         false
       ],
       "postedAt": "2026-07-24T17:53:21",
-      "store": "본사센터1",
+      "store": "Hannam",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10539198/10539198_1_20260728150324.jpg",
       "stamp": "Stamp C",
@@ -1877,7 +1877,7 @@
       "brand": "Hermès",
       "model": "Kelly 25",
       "modelKey": "kelly25",
-      "krw": 26000000,
+      "krw": 25500000,
       "condition": "Excellent",
       "year": "—",
       "color": "Black",
@@ -2944,7 +2944,7 @@
         false
       ],
       "postedAt": "2026-01-30T13:58:10",
-      "store": "대구센터점",
+      "store": "Hannam",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/02/10391768/10391768_1_20260203165909.jpg",
       "stamp": "—",
