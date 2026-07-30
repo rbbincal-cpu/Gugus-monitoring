@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T06:46:22+00:00",
+  "generatedAt": "2026-07-30T09:22:18+00:00",
   "fxRate": 0.04243,
   "listings": [
     {
@@ -348,7 +348,7 @@
         false
       ],
       "postedAt": "2026-07-24T11:30:21",
-      "store": "본사센터2",
+      "store": "Apgujeong",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10538377/IMG_7500_20260728154923.JPG",
       "stamp": "Stamp U",
@@ -2005,6 +2005,28 @@
       "leather": "Caviar"
     },
     {
+      "goodsNo": "10509980",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 3000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-22T12:54:41",
+      "store": "Pangyo",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10509980/10509980_1_20260623162721.jpg",
+      "stamp": "—",
+      "leather": "—"
+    },
+    {
       "goodsNo": "10509460",
       "brand": "Chanel",
       "model": "Classic Flap · Medium",
@@ -2111,6 +2133,28 @@
       "store": "Busan Seomyeon",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/06/10506578/10506578_1_20260619105638.jpg",
+      "stamp": "—",
+      "leather": "—"
+    },
+    {
+      "goodsNo": "10505361",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 4500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-16T14:25:41",
+      "store": "Cheongdam Black",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10505361/10505361_1_20260616185721.jpg",
       "stamp": "—",
       "leather": "—"
     },
@@ -2489,28 +2533,6 @@
       "leather": "—"
     },
     {
-      "goodsNo": "10465931",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 4000000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-04-28T11:14:28",
-      "store": "대구지점",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/04/10465931/10465931_1_20260429133931.jpg",
-      "stamp": "—",
-      "leather": "Caviar"
-    },
-    {
       "goodsNo": "10464843",
       "brand": "Chanel",
       "model": "Wallet on Chain",
@@ -2530,28 +2552,6 @@
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/04/10464843/KakaoTalk_20260427_105056423_20260427110506.jpg",
       "stamp": "Series 29",
-      "leather": "—"
-    },
-    {
-      "goodsNo": "10460670",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 2420000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Navy",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-04-22T12:51:04",
-      "store": "대구지점",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/04/10460670/10460670_1_20260424160841.jpg",
-      "stamp": "—",
       "leather": "—"
     },
     {
@@ -2575,28 +2575,6 @@
       "image": "https://image.gugus.co.kr/gd/2026/04/10457645/IMG_9910_20260421150531.JPG",
       "stamp": "Stamp Z",
       "leather": "—"
-    },
-    {
-      "goodsNo": "10455866",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 3500000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "White",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-04-16T15:24:36",
-      "store": "—",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/04/10455866/KakaoTalk_20260416_151320743_20260416152412.jpg",
-      "stamp": "—",
-      "leather": "Caviar"
     },
     {
       "goodsNo": "10454232",
@@ -3740,6 +3718,28 @@
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2024/10/10019981/10019981_1_20241010165839.jpg",
       "stamp": "Stamp Z",
+      "leather": "—"
+    },
+    {
+      "goodsNo": "10019070",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 2050000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Grey",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2024-10-07T14:14:21",
+      "store": "Myeongdong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2024/10/10019070/10019070_1_20241010173308.jpg",
+      "stamp": "—",
       "leather": "—"
     },
     {
