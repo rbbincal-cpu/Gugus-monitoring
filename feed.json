@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-07-31T07:40:58+00:00",
+  "generatedAt": "2026-07-31T10:23:07+00:00",
   "fxRate": 0.04305,
   "listings": [
+    {
+      "goodsNo": "10544519",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 4000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "—",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-07-31T16:29:34",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/07/10544519/샤넬19WOC체인백램스킨(1)_20260731162930.jpg",
+      "stamp": "—",
+      "leather": "Lambskin"
+    },
     {
       "goodsNo": "10542662",
       "brand": "Chanel",
@@ -40,7 +62,7 @@
         false
       ],
       "postedAt": "2026-07-29T14:27:13",
-      "store": "본사센터1",
+      "store": "Banpo Shinsegae",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10542398/10542398_1_20260730093409.jpg",
       "stamp": "Stamp X",
@@ -62,7 +84,7 @@
         false
       ],
       "postedAt": "2026-07-28T15:54:39",
-      "store": "본사센터1",
+      "store": "Banpo Shinsegae",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10541491/10541491_1_20260730102029.jpg",
       "stamp": "Stamp U",
@@ -2159,28 +2181,6 @@
       "leather": "—"
     },
     {
-      "goodsNo": "10505361",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 4500000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-06-16T14:25:41",
-      "store": "Cheongdam Black",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/06/10505361/10505361_1_20260616185721.jpg",
-      "stamp": "—",
-      "leather": "—"
-    },
-    {
       "goodsNo": "10504723",
       "brand": "Hermès",
       "model": "Kelly 25",
@@ -3175,7 +3175,7 @@
       "brand": "Chanel",
       "model": "Boy · Medium",
       "modelKey": "boy_med",
-      "krw": 3200000,
+      "krw": 2950000,
       "condition": "Excellent",
       "year": "—",
       "color": "Black",
