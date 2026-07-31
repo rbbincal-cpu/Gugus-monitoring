@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T04:48:41+00:00",
+  "generatedAt": "2026-07-31T07:40:58+00:00",
   "fxRate": 0.04305,
   "listings": [
     {
@@ -106,7 +106,7 @@
         false
       ],
       "postedAt": "2026-07-28T13:15:32",
-      "store": "본사센터1",
+      "store": "영등포신세계점",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10541143/10541143_1_20260729150251.jpg",
       "stamp": "Stamp A",
@@ -529,28 +529,6 @@
       "image": "https://image.gugus.co.kr/gd/2026/07/10537638/10537638_1_20260724163906.jpg",
       "stamp": "—",
       "leather": "Caviar"
-    },
-    {
-      "goodsNo": "10537336",
-      "brand": "Hermès",
-      "model": "Birkin 30",
-      "modelKey": "birkin30",
-      "krw": 23000000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Brown",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-07-22T19:16:39",
-      "store": "Daechi",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/07/10537336/10537336_1_20260723170423.jpg",
-      "stamp": "Stamp C",
-      "leather": "—"
     },
     {
       "goodsNo": "10537335",
@@ -2619,6 +2597,28 @@
       "image": "https://image.gugus.co.kr/gd/2026/04/10457645/IMG_9910_20260421150531.JPG",
       "stamp": "Stamp Z",
       "leather": "—"
+    },
+    {
+      "goodsNo": "10455866",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 3500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "White",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-04-16T15:24:36",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/04/10455866/KakaoTalk_20260416_151320743_20260416152412.jpg",
+      "stamp": "—",
+      "leather": "Caviar"
     },
     {
       "goodsNo": "10454232",
