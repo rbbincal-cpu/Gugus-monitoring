@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T11:03:59+00:00",
+  "generatedAt": "2026-08-01T12:10:01+00:00",
   "fxRate": 0.04246,
   "listings": [
     {
@@ -1804,28 +1804,6 @@
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10520384/IMG_1224_20260706153434.JPG",
       "stamp": "Stamp U",
-      "leather": "Togo"
-    },
-    {
-      "goodsNo": "10520276",
-      "brand": "Hermès",
-      "model": "Birkin 30",
-      "modelKey": "birkin30",
-      "krw": 31000000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Brown",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-07-02T17:17:33",
-      "store": "Hannam",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/07/10520276/10520276_1_20260703152116.jpg",
-      "stamp": "Stamp B",
       "leather": "Togo"
     },
     {
