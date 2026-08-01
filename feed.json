@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T09:28:41+00:00",
+  "generatedAt": "2026-08-01T11:03:59+00:00",
   "fxRate": 0.04246,
   "listings": [
     {
@@ -1807,6 +1807,28 @@
       "leather": "Togo"
     },
     {
+      "goodsNo": "10520276",
+      "brand": "Hermès",
+      "model": "Birkin 30",
+      "modelKey": "birkin30",
+      "krw": 31000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Brown",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-07-02T17:17:33",
+      "store": "Hannam",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/07/10520276/10520276_1_20260703152116.jpg",
+      "stamp": "Stamp B",
+      "leather": "Togo"
+    },
+    {
       "goodsNo": "10519870",
       "brand": "Chanel",
       "model": "Classic Flap · Jumbo",
@@ -2619,28 +2641,6 @@
       "image": "https://image.gugus.co.kr/gd/2026/04/10457645/IMG_9910_20260421150531.JPG",
       "stamp": "Stamp Z",
       "leather": "—"
-    },
-    {
-      "goodsNo": "10455866",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 3500000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "White",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-04-16T15:24:36",
-      "store": "—",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/04/10455866/KakaoTalk_20260416_151320743_20260416152412.jpg",
-      "stamp": "—",
-      "leather": "Caviar"
     },
     {
       "goodsNo": "10454232",
