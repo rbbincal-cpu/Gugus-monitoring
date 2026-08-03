@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T04:40:23+00:00",
+  "generatedAt": "2026-08-03T08:16:18+00:00",
   "fxRate": 0.0425,
   "listings": [
     {
@@ -84,7 +84,7 @@
         false
       ],
       "postedAt": "2026-07-29T17:34:24",
-      "store": "Hannam",
+      "store": "Daechi",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10542662/10542662_1_20260730144706.jpg",
       "stamp": "—",
@@ -700,7 +700,7 @@
         false
       ],
       "postedAt": "2026-07-22T19:16:39",
-      "store": "Apgujeong",
+      "store": "본사",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10537335/10537335_1_20260723170712.jpg",
       "stamp": "Stamp N",
@@ -931,7 +931,7 @@
       "brand": "Hermès",
       "model": "Birkin 25",
       "modelKey": "birkin25",
-      "krw": 48500000,
+      "krw": 47500000,
       "condition": "New",
       "year": "—",
       "color": "Black",
@@ -1063,7 +1063,7 @@
       "brand": "Hermès",
       "model": "Birkin 25",
       "modelKey": "birkin25",
-      "krw": 37500000,
+      "krw": 35500000,
       "condition": "New",
       "year": "—",
       "color": "Grey",
@@ -1829,6 +1829,28 @@
       "leather": "Togo"
     },
     {
+      "goodsNo": "10520276",
+      "brand": "Hermès",
+      "model": "Birkin 30",
+      "modelKey": "birkin30",
+      "krw": 31000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Brown",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-07-02T17:17:33",
+      "store": "Hannam",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/07/10520276/10520276_1_20260703152116.jpg",
+      "stamp": "Stamp B",
+      "leather": "Togo"
+    },
+    {
       "goodsNo": "10519870",
       "brand": "Chanel",
       "model": "Classic Flap · Jumbo",
@@ -2269,6 +2291,28 @@
       "leather": "—"
     },
     {
+      "goodsNo": "10505361",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 4500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-16T14:25:41",
+      "store": "Cheongdam Black",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10505361/10505361_1_20260616185721.jpg",
+      "stamp": "—",
+      "leather": "—"
+    },
+    {
       "goodsNo": "10504723",
       "brand": "Hermès",
       "model": "Kelly 25",
@@ -2621,6 +2665,28 @@
       "leather": "—"
     },
     {
+      "goodsNo": "10455866",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 3500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "White",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-04-16T15:24:36",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/04/10455866/KakaoTalk_20260416_151320743_20260416152412.jpg",
+      "stamp": "—",
+      "leather": "Caviar"
+    },
+    {
       "goodsNo": "10454232",
       "brand": "Chanel",
       "model": "Wallet on Chain",
@@ -2768,7 +2834,7 @@
         false
       ],
       "postedAt": "2026-03-21T18:43:35",
-      "store": "Seolleung",
+      "store": "Apgujeong",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/03/10432531/10432531_1_20260326101805.jpg",
       "stamp": "Stamp B",
@@ -3651,28 +3717,6 @@
       "store": "—",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2024/12/10086197/20241230_145923복사_20241231164053.jpg",
-      "stamp": "—",
-      "leather": "Lambskin"
-    },
-    {
-      "goodsNo": "10083637",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 5100000,
-      "condition": "Like New",
-      "year": "—",
-      "color": "—",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2024-12-27T14:06:30",
-      "store": "—",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2024/12/10083637/1000007474_magnify_38_20241227140542.jpg",
       "stamp": "—",
       "leather": "Lambskin"
     },
