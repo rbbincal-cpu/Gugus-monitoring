@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-02T23:16:05+00:00",
-  "fxRate": 0.04246,
+  "generatedAt": "2026-08-03T00:59:48+00:00",
+  "fxRate": 0.0425,
   "listings": [
     {
       "goodsNo": "10544519",
@@ -1789,7 +1789,7 @@
       "brand": "Hermès",
       "model": "Birkin 25",
       "modelKey": "birkin25",
-      "krw": 32000000,
+      "krw": 31800000,
       "condition": "Excellent",
       "year": "—",
       "color": "Navy",
@@ -1804,28 +1804,6 @@
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10520384/IMG_1224_20260706153434.JPG",
       "stamp": "Stamp U",
-      "leather": "Togo"
-    },
-    {
-      "goodsNo": "10520276",
-      "brand": "Hermès",
-      "model": "Birkin 30",
-      "modelKey": "birkin30",
-      "krw": 31000000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Brown",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-07-02T17:17:33",
-      "store": "Hannam",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/07/10520276/10520276_1_20260703152116.jpg",
-      "stamp": "Stamp B",
       "leather": "Togo"
     },
     {
@@ -2641,28 +2619,6 @@
       "image": "https://image.gugus.co.kr/gd/2026/04/10457645/IMG_9910_20260421150531.JPG",
       "stamp": "Stamp Z",
       "leather": "—"
-    },
-    {
-      "goodsNo": "10455866",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 3500000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "White",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-04-16T15:24:36",
-      "store": "—",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/04/10455866/KakaoTalk_20260416_151320743_20260416152412.jpg",
-      "stamp": "—",
-      "leather": "Caviar"
     },
     {
       "goodsNo": "10454232",
