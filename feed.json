@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-08-03T00:59:48+00:00",
+  "generatedAt": "2026-08-03T04:40:23+00:00",
   "fxRate": 0.0425,
   "listings": [
+    {
+      "goodsNo": "10545495",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 6300000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-08-01T17:09:22",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/08/10545495/20260801_164259_20260801170900.jpg",
+      "stamp": "—",
+      "leather": "Lambskin"
+    },
     {
       "goodsNo": "10544519",
       "brand": "Chanel",
@@ -2093,28 +2115,6 @@
       "leather": "—"
     },
     {
-      "goodsNo": "10512380",
-      "brand": "Chanel",
-      "model": "Classic Flap · Jumbo",
-      "modelKey": "cdf_jumbo",
-      "krw": 8500000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-06-24T13:55:03",
-      "store": "Apgujeong",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/06/10512380/10512380_1_20260624165659.jpg",
-      "stamp": "—",
-      "leather": "Caviar"
-    },
-    {
       "goodsNo": "10511467",
       "brand": "Chanel",
       "model": "Boy · Medium",
@@ -2185,7 +2185,7 @@
       "brand": "Chanel",
       "model": "Boy · Medium",
       "modelKey": "boy_med",
-      "krw": 2700000,
+      "krw": 2510000,
       "condition": "Very Good",
       "year": "—",
       "color": "Blue",
