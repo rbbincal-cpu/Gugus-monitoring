@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T01:10:38+00:00",
+  "generatedAt": "2026-08-04T04:34:24+00:00",
   "fxRate": 0.04262,
   "listings": [
     {
@@ -47,6 +47,50 @@
       "leather": "Lambskin"
     },
     {
+      "goodsNo": "10545019",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 7500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-08-01T11:40:57",
+      "store": "본사센터1",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/08/10545019/10545019_1_20260803100627.jpg",
+      "stamp": "—",
+      "leather": "Caviar"
+    },
+    {
+      "goodsNo": "10544666",
+      "brand": "Hermès",
+      "model": "Kelly 25",
+      "modelKey": "kelly25",
+      "krw": 33000000,
+      "condition": "New",
+      "year": "—",
+      "color": "#FFFFFF|기타컬러",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-07-31T17:43:56",
+      "store": "본사센터1",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/08/10544666/10544666_1_20260803171333.jpg",
+      "stamp": "Stamp K",
+      "leather": "Togo"
+    },
+    {
       "goodsNo": "10544519",
       "brand": "Chanel",
       "model": "Wallet on Chain",
@@ -89,6 +133,50 @@
       "image": "https://image.gugus.co.kr/gd/2026/07/10544274/10544274_1_20260731170006.jpg",
       "stamp": "Stamp Z",
       "leather": "Epsom"
+    },
+    {
+      "goodsNo": "10543481",
+      "brand": "Hermès",
+      "model": "Kelly 25",
+      "modelKey": "kelly25",
+      "krw": 31700000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "#ECE6CC|아이보리",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-07-30T16:05:38",
+      "store": "Pangyo",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/07/10543481/10543481_1_20260731165602.jpg",
+      "stamp": "Stamp W",
+      "leather": "—"
+    },
+    {
+      "goodsNo": "10543437",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 5500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-07-30T15:46:21",
+      "store": "본사센터2",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/08/10543437/10543437_1_20260803102940.jpg",
+      "stamp": "—",
+      "leather": "Lambskin"
     },
     {
       "goodsNo": "10542662",
@@ -307,28 +395,6 @@
       "store": "대구센터점",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10541101/10541101_1_20260729141516.jpg",
-      "stamp": "—",
-      "leather": "Caviar"
-    },
-    {
-      "goodsNo": "10541020",
-      "brand": "Chanel",
-      "model": "Classic Flap · Jumbo",
-      "modelKey": "cdf_jumbo",
-      "krw": 7000000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-07-28T11:40:40",
-      "store": "—",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/07/10541020/20260727_155736_20260728114013.jpg",
       "stamp": "—",
       "leather": "Caviar"
     },
@@ -1763,28 +1829,6 @@
       "leather": "Togo"
     },
     {
-      "goodsNo": "10521216",
-      "brand": "Hermès",
-      "model": "Kelly 25",
-      "modelKey": "kelly25",
-      "krw": 34000000,
-      "condition": "New",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-07-03T15:19:31",
-      "store": "Dongnae",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/07/10521216/IMG_1232_20260707152629.JPG",
-      "stamp": "Stamp G",
-      "leather": "Togo"
-    },
-    {
       "goodsNo": "10520673",
       "brand": "Chanel",
       "model": "Classic Flap · Small",
@@ -2093,28 +2137,6 @@
       "leather": "Caviar"
     },
     {
-      "goodsNo": "10512940",
-      "brand": "Chanel",
-      "model": "Classic Flap · Jumbo",
-      "modelKey": "cdf_jumbo",
-      "krw": 5900000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-06-24T18:02:31",
-      "store": "—",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/06/10512940/1(16)_20260624173121.jpg",
-      "stamp": "—",
-      "leather": "Caviar"
-    },
-    {
       "goodsNo": "10512717",
       "brand": "Hermès",
       "model": "Kelly 25",
@@ -2155,28 +2177,6 @@
       "store": "Bundang Jeongja",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/06/10511467/10511467_1_20260625133857.jpg",
-      "stamp": "—",
-      "leather": "—"
-    },
-    {
-      "goodsNo": "10509980",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 3000000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-06-22T12:54:41",
-      "store": "Pangyo",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/06/10509980/10509980_1_20260623162721.jpg",
       "stamp": "—",
       "leather": "—"
     },
@@ -2335,6 +2335,28 @@
       "leather": "Epsom"
     },
     {
+      "goodsNo": "10504076",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 2330000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-15T11:37:03",
+      "store": "대구센터점",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10504076/10504076_1_20260617131918.jpg",
+      "stamp": "—",
+      "leather": "—"
+    },
+    {
       "goodsNo": "10503096",
       "brand": "Hermès",
       "model": "Kelly 25",
@@ -2421,28 +2443,6 @@
       "image": "https://image.gugus.co.kr/gd/2026/06/10496867/IMG_9992_20260610114749.JPG",
       "stamp": "Stamp W",
       "leather": "Swift"
-    },
-    {
-      "goodsNo": "10495833",
-      "brand": "Hermès",
-      "model": "Kelly 25",
-      "modelKey": "kelly25",
-      "krw": 17800000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Red",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-06-04T18:11:13",
-      "store": "Cheongdam Black",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/06/10495833/10495833_1_20260605144516.jpg",
-      "stamp": "Stamp A",
-      "leather": "—"
     },
     {
       "goodsNo": "10493548",
