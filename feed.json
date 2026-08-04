@@ -1,29 +1,7 @@
 {
-  "generatedAt": "2026-08-04T04:34:24+00:00",
+  "generatedAt": "2026-08-04T07:20:11+00:00",
   "fxRate": 0.04262,
   "listings": [
-    {
-      "goodsNo": "10546625",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 3250000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-08-03T17:33:09",
-      "store": "—",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/08/10546625/1_20260803173300.jpg",
-      "stamp": "—",
-      "leather": "Caviar"
-    },
     {
       "goodsNo": "10545495",
       "brand": "Chanel",
@@ -172,7 +150,7 @@
         false
       ],
       "postedAt": "2026-07-30T15:46:21",
-      "store": "본사센터2",
+      "store": "Busan Seomyeon",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10543437/10543437_1_20260803102940.jpg",
       "stamp": "—",
@@ -1943,7 +1921,7 @@
       "brand": "Chanel",
       "model": "Wallet on Chain",
       "modelKey": "woc",
-      "krw": 3010000,
+      "krw": 3000000,
       "condition": "Like New",
       "year": "—",
       "color": "—",
@@ -2665,28 +2643,6 @@
       "leather": "—"
     },
     {
-      "goodsNo": "10455866",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 3500000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "White",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-04-16T15:24:36",
-      "store": "—",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/04/10455866/KakaoTalk_20260416_151320743_20260416152412.jpg",
-      "stamp": "—",
-      "leather": "Caviar"
-    },
-    {
       "goodsNo": "10454232",
       "brand": "Chanel",
       "model": "Wallet on Chain",
@@ -3032,7 +2988,7 @@
         false
       ],
       "postedAt": "2026-01-30T13:58:10",
-      "store": "Hannam",
+      "store": "대구센터점",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/02/10391768/10391768_1_20260203165909.jpg",
       "stamp": "—",
