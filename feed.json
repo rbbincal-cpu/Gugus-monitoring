@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T04:32:30+00:00",
+  "generatedAt": "2026-08-05T07:20:32+00:00",
   "fxRate": 0.04274,
   "listings": [
     {
@@ -84,7 +84,7 @@
         false
       ],
       "postedAt": "2026-08-01T11:40:57",
-      "store": "영등포신세계점",
+      "store": "Daechi",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10545019/10545019_1_20260803100627.jpg",
       "stamp": "—",
@@ -265,28 +265,6 @@
       "image": "https://image.gugus.co.kr/gd/2026/07/10542662/10542662_1_20260730144706.jpg",
       "stamp": "—",
       "leather": "Caviar"
-    },
-    {
-      "goodsNo": "10542638",
-      "brand": "Hermès",
-      "model": "Birkin 25",
-      "modelKey": "birkin25",
-      "krw": 13500000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Blue",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-07-29T17:26:00",
-      "store": "Daechi",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/07/10542638/10542638_1_20260730113218.jpg",
-      "stamp": "Stamp T",
-      "leather": "—"
     },
     {
       "goodsNo": "10542423",
@@ -766,7 +744,7 @@
         false
       ],
       "postedAt": "2026-07-24T11:30:21",
-      "store": "Apgujeong",
+      "store": "Daegu Suseong",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10538377/IMG_7500_20260728154923.JPG",
       "stamp": "Stamp U",
@@ -1613,7 +1591,7 @@
       "brand": "Hermès",
       "model": "Kelly 25",
       "modelKey": "kelly25",
-      "krw": 27500000,
+      "krw": 27000000,
       "condition": "Excellent",
       "year": "—",
       "color": "Blue",
@@ -2097,7 +2075,7 @@
       "brand": "Chanel",
       "model": "Classic Flap · Jumbo",
       "modelKey": "cdf_jumbo",
-      "krw": 6500000,
+      "krw": 6400000,
       "condition": "Excellent",
       "year": "—",
       "color": "Black",
@@ -2273,7 +2251,7 @@
       "brand": "Hermès",
       "model": "Kelly 25",
       "modelKey": "kelly25",
-      "krw": 33700000,
+      "krw": 33000000,
       "condition": "New",
       "year": "—",
       "color": "Navy",
