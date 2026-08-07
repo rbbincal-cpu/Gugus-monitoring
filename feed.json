@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T05:10:50+00:00",
+  "generatedAt": "2026-08-07T06:37:15+00:00",
   "fxRate": 0.04274,
   "listings": [
     {
@@ -491,7 +491,7 @@
       "brand": "Hermès",
       "model": "Birkin 30",
       "modelKey": "birkin30",
-      "krw": 18000000,
+      "krw": 16000000,
       "condition": "Excellent",
       "year": "—",
       "color": "Purple",
@@ -749,28 +749,6 @@
       "image": "https://image.gugus.co.kr/gd/2026/07/10539634/10539220_1_20260728143747_1000x1000_20260728144840.jpg",
       "stamp": "Stamp G",
       "leather": "Togo"
-    },
-    {
-      "goodsNo": "10539577",
-      "brand": "Hermès",
-      "model": "Birkin 30",
-      "modelKey": "birkin30",
-      "krw": 32000000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Brown",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-07-25T14:33:01",
-      "store": "Daegu",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/07/10539577/10539577_1_20260728095742.jpg",
-      "stamp": "Stamp W",
-      "leather": "—"
     },
     {
       "goodsNo": "10539198",
@@ -1958,6 +1936,28 @@
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10520384/IMG_1224_20260706153434.JPG",
       "stamp": "Stamp U",
+      "leather": "Togo"
+    },
+    {
+      "goodsNo": "10520276",
+      "brand": "Hermès",
+      "model": "Birkin 30",
+      "modelKey": "birkin30",
+      "krw": 31000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Brown",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-07-02T17:17:33",
+      "store": "Haeundae Marine",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/07/10520276/10520276_1_20260703152116.jpg",
+      "stamp": "Stamp B",
       "leather": "Togo"
     },
     {
