@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T06:04:15+00:00",
+  "generatedAt": "2026-08-10T08:00:25+00:00",
   "fxRate": 0.04314,
   "listings": [
     {
@@ -458,7 +458,7 @@
         false
       ],
       "postedAt": "2026-07-30T16:05:38",
-      "store": "Pangyo",
+      "store": "Seolleung",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10543481/10543481_1_20260731165602.jpg",
       "stamp": "Stamp W",
@@ -1932,7 +1932,7 @@
         false
       ],
       "postedAt": "2026-07-06T13:18:04",
-      "store": "Bundang Jeongja",
+      "store": "Cheongdam Black",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10522725/10522725_1_20260707111822.jpg",
       "stamp": "Stamp W",
@@ -2046,28 +2046,6 @@
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10520384/IMG_1224_20260706153434.JPG",
       "stamp": "Stamp U",
-      "leather": "Togo"
-    },
-    {
-      "goodsNo": "10520276",
-      "brand": "Hermès",
-      "model": "Birkin 30",
-      "modelKey": "birkin30",
-      "krw": 31000000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Brown",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-07-02T17:17:33",
-      "store": "Haeundae Marine",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/07/10520276/10520276_1_20260703152116.jpg",
-      "stamp": "Stamp B",
       "leather": "Togo"
     },
     {
