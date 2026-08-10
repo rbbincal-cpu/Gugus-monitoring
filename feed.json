@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T08:00:25+00:00",
+  "generatedAt": "2026-08-10T09:43:44+00:00",
   "fxRate": 0.04314,
   "listings": [
     {
@@ -1345,28 +1345,6 @@
       "leather": "Togo"
     },
     {
-      "goodsNo": "10531474",
-      "brand": "Hermès",
-      "model": "Birkin 25",
-      "modelKey": "birkin25",
-      "krw": 47000000,
-      "condition": "New",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-07-16T12:09:29",
-      "store": "Apgujeong",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/07/10531474/10531474_1_20260716142414.jpg",
-      "stamp": "Stamp G",
-      "leather": "Togo"
-    },
-    {
       "goodsNo": "10531126",
       "brand": "Chanel",
       "model": "Wallet on Chain",
@@ -2046,6 +2024,28 @@
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10520384/IMG_1224_20260706153434.JPG",
       "stamp": "Stamp U",
+      "leather": "Togo"
+    },
+    {
+      "goodsNo": "10520276",
+      "brand": "Hermès",
+      "model": "Birkin 30",
+      "modelKey": "birkin30",
+      "krw": 31000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Brown",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-07-02T17:17:33",
+      "store": "Haeundae Marine",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/07/10520276/10520276_1_20260703152116.jpg",
+      "stamp": "Stamp B",
       "leather": "Togo"
     },
     {
@@ -3527,7 +3527,7 @@
       "brand": "Chanel",
       "model": "Boy · Medium",
       "modelKey": "boy_med",
-      "krw": 3130000,
+      "krw": 3050000,
       "condition": "Excellent",
       "year": "—",
       "color": "Navy",
