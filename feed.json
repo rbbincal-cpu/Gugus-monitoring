@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T11:34:06+00:00",
+  "generatedAt": "2026-08-11T12:27:22+00:00",
   "fxRate": 0.0429,
   "listings": [
     {
@@ -351,6 +351,28 @@
       "store": "—",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10547040/Untitled-1_20260804125835.jpg",
+      "stamp": "—",
+      "leather": "Caviar"
+    },
+    {
+      "goodsNo": "10546625",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 3250000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-08-03T17:33:09",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/08/10546625/1_20260803173300.jpg",
       "stamp": "—",
       "leather": "Caviar"
     },
