@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T02:23:40+00:00",
+  "generatedAt": "2026-08-11T04:04:14+00:00",
   "fxRate": 0.0429,
   "listings": [
     {
@@ -84,7 +84,7 @@
         false
       ],
       "postedAt": "2026-08-06T16:43:23",
-      "store": "본사센터1",
+      "store": "영등포신세계점",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10549454/10549454_1_20260810103502.jpg",
       "stamp": "Stamp T",
@@ -355,28 +355,6 @@
       "leather": "Caviar"
     },
     {
-      "goodsNo": "10546625",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 3250000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-08-03T17:33:09",
-      "store": "—",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/08/10546625/1_20260803173300.jpg",
-      "stamp": "—",
-      "leather": "Caviar"
-    },
-    {
       "goodsNo": "10545495",
       "brand": "Chanel",
       "model": "Classic Flap · Jumbo",
@@ -436,7 +414,7 @@
         false
       ],
       "postedAt": "2026-07-31T18:34:45",
-      "store": "Bundang Jeongja",
+      "store": "영등포신세계점",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10544825/10544825_1_20260804101304.jpg",
       "stamp": "—",
@@ -568,7 +546,7 @@
         false
       ],
       "postedAt": "2026-07-31T13:24:25",
-      "store": "본사센터1",
+      "store": "Hannam",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10544136/10544136_1_20260803161907.jpg",
       "stamp": "—",
@@ -634,7 +612,7 @@
         false
       ],
       "postedAt": "2026-07-29T17:34:24",
-      "store": "Daechi",
+      "store": "Hannam",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10542662/10542662_1_20260730144706.jpg",
       "stamp": "—",
@@ -1074,7 +1052,7 @@
         false
       ],
       "postedAt": "2026-07-24T11:30:21",
-      "store": "Daegu Suseong",
+      "store": "Apgujeong",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10538377/IMG_7500_20260806173807.JPG",
       "stamp": "Stamp U",
@@ -1276,28 +1254,6 @@
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10534434/10534434_1_20260721151712.jpg",
       "stamp": "Stamp K",
-      "leather": "—"
-    },
-    {
-      "goodsNo": "10534196",
-      "brand": "Hermès",
-      "model": "Birkin 30",
-      "modelKey": "birkin30",
-      "krw": 27800000,
-      "condition": "Like New",
-      "year": "—",
-      "color": "Camel",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-07-20T13:03:17",
-      "store": "Daegu",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/03/10437376/IMG_9575_20260331155342.JPG",
-      "stamp": "Stamp A",
       "leather": "—"
     },
     {
@@ -2663,28 +2619,6 @@
       "image": "https://image.gugus.co.kr/gd/2026/04/10457645/IMG_9910_20260421150531.JPG",
       "stamp": "Stamp Z",
       "leather": "—"
-    },
-    {
-      "goodsNo": "10455866",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 3500000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "White",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-04-16T15:24:36",
-      "store": "—",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/04/10455866/KakaoTalk_20260416_151320743_20260416152412.jpg",
-      "stamp": "—",
-      "leather": "Caviar"
     },
     {
       "goodsNo": "10454232",
