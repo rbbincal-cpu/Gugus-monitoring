@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T02:39:06+00:00",
+  "generatedAt": "2026-08-12T04:29:30+00:00",
   "fxRate": 0.04336,
   "listings": [
     {
@@ -18,7 +18,7 @@
         false
       ],
       "postedAt": "2026-08-08T14:18:31",
-      "store": "본사센터1",
+      "store": "Apgujeong",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10551061/10551061_1_20260811112715.jpg",
       "stamp": "Stamp K",
@@ -150,7 +150,7 @@
         false
       ],
       "postedAt": "2026-08-07T12:06:29",
-      "store": "본사센터1",
+      "store": "Myeongdong",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10550059/10550059_1_20260810145923.jpg",
       "stamp": "—",
