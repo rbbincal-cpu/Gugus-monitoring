@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T06:08:13+00:00",
+  "generatedAt": "2026-08-13T07:57:59+00:00",
   "fxRate": 0.04322,
   "listings": [
     {
@@ -18,7 +18,7 @@
         false
       ],
       "postedAt": "2026-08-11T12:39:31",
-      "store": "본사센터2",
+      "store": "Ulsan",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10552686/IMG_2698_20260812155451.JPG",
       "stamp": "Stamp B",
@@ -326,7 +326,7 @@
         false
       ],
       "postedAt": "2026-08-06T10:16:33",
-      "store": "본사센터1",
+      "store": "Banpo Shinsegae",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10548922/10548922_1_20260812102401.jpg",
       "stamp": "—",
@@ -3494,7 +3494,7 @@
         false
       ],
       "postedAt": "2025-06-17T16:41:18",
-      "store": "Hannam",
+      "store": "Songdo",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2025/06/10214025/10214025_1_20250620103817.jpg",
       "stamp": "—",
