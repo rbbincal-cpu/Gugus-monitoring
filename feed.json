@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T02:39:19+00:00",
+  "generatedAt": "2026-08-14T04:30:47+00:00",
   "fxRate": 0.04324,
   "listings": [
     {
@@ -84,7 +84,7 @@
         false
       ],
       "postedAt": "2026-08-11T16:22:47",
-      "store": "본사센터1",
+      "store": "영등포신세계점",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10553088/10553088_1_20260812162621.jpg",
       "stamp": "Stamp T",
