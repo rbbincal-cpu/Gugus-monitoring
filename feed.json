@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T04:30:47+00:00",
+  "generatedAt": "2026-08-14T06:03:03+00:00",
   "fxRate": 0.04324,
   "listings": [
     {
@@ -637,28 +637,6 @@
       "store": "—",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10547040/Untitled-1_20260804125835.jpg",
-      "stamp": "—",
-      "leather": "Caviar"
-    },
-    {
-      "goodsNo": "10546625",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 3250000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-08-03T17:33:09",
-      "store": "—",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/08/10546625/1_20260803173300.jpg",
       "stamp": "—",
       "leather": "Caviar"
     },
@@ -1917,28 +1895,6 @@
       "leather": "—"
     },
     {
-      "goodsNo": "10526241",
-      "brand": "Hermès",
-      "model": "Birkin 30",
-      "modelKey": "birkin30",
-      "krw": 31800000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "#FFFFFF|기타컬러",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-07-09T17:43:28",
-      "store": "Banpo Shinsegae",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/07/10526241/10526241_1_20260713133111.jpg",
-      "stamp": "Stamp Z",
-      "leather": "Togo"
-    },
-    {
       "goodsNo": "10526081",
       "brand": "Chanel",
       "model": "Wallet on Chain",
@@ -2229,7 +2185,7 @@
       "brand": "Hermès",
       "model": "Kelly 25",
       "modelKey": "kelly25",
-      "krw": 25500000,
+      "krw": 25000000,
       "condition": "Excellent",
       "year": "—",
       "color": "Black",
@@ -2753,28 +2709,6 @@
       "leather": "—"
     },
     {
-      "goodsNo": "10455866",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 3500000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "White",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-04-16T15:24:36",
-      "store": "—",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/04/10455866/KakaoTalk_20260416_151320743_20260416152412.jpg",
-      "stamp": "—",
-      "leather": "Caviar"
-    },
-    {
       "goodsNo": "10454232",
       "brand": "Chanel",
       "model": "Wallet on Chain",
@@ -3263,7 +3197,7 @@
       "brand": "Chanel",
       "model": "Boy · Medium",
       "modelKey": "boy_med",
-      "krw": 2485000,
+      "krw": 2200000,
       "condition": "Excellent",
       "year": "—",
       "color": "Beige",
