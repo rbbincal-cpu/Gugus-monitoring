@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T03:15:55+00:00",
+  "generatedAt": "2026-08-17T04:07:22+00:00",
   "fxRate": 0.04351,
   "listings": [
     {
@@ -947,28 +947,6 @@
       "image": "https://image.gugus.co.kr/gd/2026/07/10542423/10542423_1_20260730100521.jpg",
       "stamp": "Stamp W",
       "leather": "Togo"
-    },
-    {
-      "goodsNo": "10542223",
-      "brand": "Hermès",
-      "model": "Kelly 25",
-      "modelKey": "kelly25",
-      "krw": 26500000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-07-29T12:40:54",
-      "store": "Busan Seomyeon",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/07/10542223/IMG_7584_20260731142215.JPG",
-      "stamp": "Stamp Z",
-      "leather": "—"
     },
     {
       "goodsNo": "10541491",
@@ -2640,6 +2618,28 @@
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/05/10470290/10470290_1_20260504152154.jpg",
       "stamp": "Stamp K",
+      "leather": "—"
+    },
+    {
+      "goodsNo": "10468528",
+      "brand": "Hermès",
+      "model": "Kelly 25",
+      "modelKey": "kelly25",
+      "krw": 26000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Burgundy",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-04-30T15:08:29",
+      "store": "Banpo Shinsegae",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/05/10468528/10468528_1_20260507095028.jpg",
+      "stamp": "Stamp A",
       "leather": "—"
     },
     {
