@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T09:53:39+00:00",
+  "generatedAt": "2026-08-18T10:40:40+00:00",
   "fxRate": 0.04356,
   "listings": [
     {
@@ -1848,28 +1848,6 @@
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10528958/구구스_01_20260713182608.jpg",
       "stamp": "—",
-      "leather": "—"
-    },
-    {
-      "goodsNo": "10527570",
-      "brand": "Hermès",
-      "model": "Birkin 30",
-      "modelKey": "birkin30",
-      "krw": 24000000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Camel",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-07-11T13:07:02",
-      "store": "대구현대점",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/07/10527570/IMG_7149_20260715155215.JPG",
-      "stamp": "Stamp C",
       "leather": "—"
     },
     {
