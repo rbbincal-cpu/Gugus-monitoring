@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-18T00:23:15+00:00",
-  "fxRate": 0.04351,
+  "generatedAt": "2026-08-18T02:03:04+00:00",
+  "fxRate": 0.04356,
   "listings": [
     {
       "goodsNo": "10555401",
@@ -3567,28 +3567,6 @@
       "leather": "—"
     },
     {
-      "goodsNo": "10212554",
-      "brand": "Chanel",
-      "model": "Boy · Medium",
-      "modelKey": "boy_med",
-      "krw": 2900000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Beige",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2025-06-16T11:16:18",
-      "store": "Apgujeong",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2025/06/10212554/10212554_1_20250618134112.jpg",
-      "stamp": "—",
-      "leather": "—"
-    },
-    {
       "goodsNo": "10205385",
       "brand": "Chanel",
       "model": "Wallet on Chain",
@@ -4026,6 +4004,28 @@
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/goods/update2/img2024/04/000000000000_1829494_0.jpg",
       "stamp": "Stamp Z",
+      "leather": "—"
+    },
+    {
+      "goodsNo": "9810405",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 3550000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Navy",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2022-08-09T11:43:28",
+      "store": "Seolleung",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/goods/update2/img2022/08/000000000000_9810405_0.jpg",
+      "stamp": "—",
       "leather": "—"
     },
     {
