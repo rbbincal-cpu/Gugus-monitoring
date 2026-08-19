@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-08-19T06:18:31+00:00",
+  "generatedAt": "2026-08-19T07:10:56+00:00",
   "fxRate": 0.04381,
   "listings": [
+    {
+      "goodsNo": "10559881",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 3550000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Purple",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-08-19T15:22:22",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/08/10559881/IMG_5376_20260819152157.jpeg",
+      "stamp": "—",
+      "leather": "Tweed"
+    },
     {
       "goodsNo": "10558091",
       "brand": "Hermès",
@@ -2287,28 +2309,6 @@
       "store": "Busan Seomyeon",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/06/10506578/10506578_1_20260619105638.jpg",
-      "stamp": "—",
-      "leather": "—"
-    },
-    {
-      "goodsNo": "10505361",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 4500000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-06-16T14:25:41",
-      "store": "Cheongdam Black",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/06/10505361/10505361_1_20260616185721.jpg",
       "stamp": "—",
       "leather": "—"
     },
