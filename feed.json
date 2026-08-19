@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T03:33:38+00:00",
+  "generatedAt": "2026-08-19T04:18:50+00:00",
   "fxRate": 0.04381,
   "listings": [
     {
@@ -18,7 +18,7 @@
         false
       ],
       "postedAt": "2026-08-18T11:18:24",
-      "store": "본사센터1",
+      "store": "Cheongdam Black",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10558091/10558091_1_20260818144806.jpg",
       "stamp": "Stamp U",
@@ -40,7 +40,7 @@
         false
       ],
       "postedAt": "2026-08-14T14:58:24",
-      "store": "본사센터1",
+      "store": "Seolleung",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10556262/10556262_1_20260818112934.jpg",
       "stamp": "Stamp D",
@@ -62,7 +62,7 @@
         false
       ],
       "postedAt": "2026-08-14T14:58:24",
-      "store": "본사센터1",
+      "store": "Seolleung",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10556265/10556265_1_20260818114442.jpg",
       "stamp": "Stamp A",
@@ -84,7 +84,7 @@
         false
       ],
       "postedAt": "2026-08-14T14:58:24",
-      "store": "본사센터1",
+      "store": "Seolleung",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10556264/10556264_1_20260818113937.jpg",
       "stamp": "Stamp A",
@@ -1162,7 +1162,7 @@
         false
       ],
       "postedAt": "2026-07-27T15:53:29",
-      "store": "Myeongdong",
+      "store": "Cheongdam Black",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10536953/10536953_1_20260723151123.jpg",
       "stamp": "Stamp C",
