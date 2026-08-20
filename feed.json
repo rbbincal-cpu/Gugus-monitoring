@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T05:18:09+00:00",
+  "generatedAt": "2026-08-20T05:51:39+00:00",
   "fxRate": 0.04445,
   "listings": [
     {
@@ -84,7 +84,7 @@
         false
       ],
       "postedAt": "2026-08-17T16:36:13",
-      "store": "본사센터2",
+      "store": "Busan Seomyeon",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10557842/10557842_1_20260818152307.jpg",
       "stamp": "—",
@@ -260,7 +260,7 @@
         false
       ],
       "postedAt": "2026-08-13T15:03:14",
-      "store": "본사센터1",
+      "store": "Jamsil",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10555171/10555171_1_20260818103752.jpg",
       "stamp": "—",
@@ -2621,6 +2621,28 @@
       "leather": "—"
     },
     {
+      "goodsNo": "10468528",
+      "brand": "Hermès",
+      "model": "Kelly 25",
+      "modelKey": "kelly25",
+      "krw": 26000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Burgundy",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-04-30T15:08:29",
+      "store": "Banpo Shinsegae",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/05/10468528/10468528_1_20260507095028.jpg",
+      "stamp": "Stamp A",
+      "leather": "—"
+    },
+    {
       "goodsNo": "10466634",
       "brand": "Chanel",
       "model": "Boy · Medium",
@@ -2882,28 +2904,6 @@
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/03/10432531/10432531_1_20260326101805.jpg",
       "stamp": "Stamp B",
-      "leather": "—"
-    },
-    {
-      "goodsNo": "10431581",
-      "brand": "Hermès",
-      "model": "Kelly 25",
-      "modelKey": "kelly25",
-      "krw": 45700000,
-      "condition": "Like New",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-03-20T16:49:22",
-      "store": "—",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/03/10431581/구구스-1_20260320164919.jpg",
-      "stamp": "—",
       "leather": "—"
     },
     {
