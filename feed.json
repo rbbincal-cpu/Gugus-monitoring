@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T03:56:45+00:00",
+  "generatedAt": "2026-08-20T04:48:33+00:00",
   "fxRate": 0.04445,
   "listings": [
     {
@@ -282,7 +282,7 @@
         false
       ],
       "postedAt": "2026-08-13T14:51:16",
-      "store": "본사센터1",
+      "store": "Jamsil",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10555148/10555148_1_20260818104218.jpg",
       "stamp": "Stamp D",
@@ -854,7 +854,7 @@
         false
       ],
       "postedAt": "2026-08-04T13:59:28",
-      "store": "Banpo Shinsegae",
+      "store": "Jamsil",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10547122/10547122_1_20260807172443.jpg",
       "stamp": "Stamp Y",
@@ -2460,7 +2460,7 @@
         false
       ],
       "postedAt": "2026-06-04T18:11:13",
-      "store": "Myeongdong",
+      "store": "Cheongdam Black",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/06/10495833/10495833_1_20260605144516.jpg",
       "stamp": "Stamp A",
@@ -3538,7 +3538,7 @@
         false
       ],
       "postedAt": "2025-06-17T16:41:18",
-      "store": "Songdo",
+      "store": "Hannam",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2025/06/10214025/10214025_1_20250620103817.jpg",
       "stamp": "—",
