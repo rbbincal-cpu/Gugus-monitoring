@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T04:48:33+00:00",
+  "generatedAt": "2026-08-20T05:18:09+00:00",
   "fxRate": 0.04445,
   "listings": [
     {
@@ -1147,28 +1147,6 @@
       "leather": "—"
     },
     {
-      "goodsNo": "10543437",
-      "brand": "Chanel",
-      "model": "Classic Flap · Jumbo",
-      "modelKey": "cdf_jumbo",
-      "krw": 5500000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-07-30T15:46:21",
-      "store": "Hannam",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/08/10543437/10543437_1_20260803102940.jpg",
-      "stamp": "—",
-      "leather": "Lambskin"
-    },
-    {
       "goodsNo": "10542423",
       "brand": "Hermès",
       "model": "Kelly 25",
@@ -1649,6 +1627,28 @@
       "store": "—",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10536628/IMG_4545_20260722125102.jpg",
+      "stamp": "—",
+      "leather": "Caviar"
+    },
+    {
+      "goodsNo": "10535753",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 6800000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-07-21T15:22:10",
+      "store": "Bundang Jeongja",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/07/10535753/10535753_1_20260723091914.jpg",
       "stamp": "—",
       "leather": "Caviar"
     },
