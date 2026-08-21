@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T04:59:42+00:00",
+  "generatedAt": "2026-08-21T05:43:13+00:00",
   "fxRate": 0.04429,
   "listings": [
     {
@@ -106,7 +106,7 @@
         false
       ],
       "postedAt": "2026-08-19T14:54:13",
-      "store": "본사센터1",
+      "store": "Banpo Shinsegae",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10559822/10559822_1_20260820140552.jpg",
       "stamp": "Stamp X",
@@ -304,7 +304,7 @@
         false
       ],
       "postedAt": "2026-08-14T17:30:09",
-      "store": "본사센터2",
+      "store": "Gwangju Sangmu",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10556576/10556576_1_20260819104303.jpg",
       "stamp": "—",
@@ -2269,28 +2269,6 @@
       "leather": "—"
     },
     {
-      "goodsNo": "10507987",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 3135000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Pink",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-06-18T20:19:01",
-      "store": "—",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/06/10507987/정면_20260618201858.jpg",
-      "stamp": "Series 14",
-      "leather": "—"
-    },
-    {
       "goodsNo": "10506578",
       "brand": "Chanel",
       "model": "Boy · Medium",
@@ -2951,28 +2929,6 @@
       "leather": "—"
     },
     {
-      "goodsNo": "10401415",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 1634000,
-      "condition": "Very Good",
-      "year": "—",
-      "color": "—",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-02-11T10:18:45",
-      "store": "—",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/02/10401415/698ad3e86f8a3_20260211101837.jpg",
-      "stamp": "—",
-      "leather": "Caviar"
-    },
-    {
       "goodsNo": "10397033",
       "brand": "Chanel",
       "model": "Wallet on Chain",
@@ -3395,7 +3351,7 @@
       "brand": "Chanel",
       "model": "Boy · Medium",
       "modelKey": "boy_med",
-      "krw": 2910000,
+      "krw": 2760000,
       "condition": "Excellent",
       "year": "—",
       "color": "Red",
@@ -3439,7 +3395,7 @@
       "brand": "Chanel",
       "model": "Boy · Medium",
       "modelKey": "boy_med",
-      "krw": 2290000,
+      "krw": 2060000,
       "condition": "Excellent",
       "year": "—",
       "color": "Green",
@@ -3475,6 +3431,28 @@
       "store": "Hannam",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2025/06/10214025/10214025_1_20250620103817.jpg",
+      "stamp": "—",
+      "leather": "—"
+    },
+    {
+      "goodsNo": "10212554",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 2900000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Beige",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-06-16T11:16:18",
+      "store": "Apgujeong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/06/10212554/10212554_1_20250618134112.jpg",
       "stamp": "—",
       "leather": "—"
     },
@@ -3916,28 +3894,6 @@
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/goods/update2/img2024/04/000000000000_1829494_0.jpg",
       "stamp": "Stamp Z",
-      "leather": "—"
-    },
-    {
-      "goodsNo": "9810405",
-      "brand": "Chanel",
-      "model": "Boy · Medium",
-      "modelKey": "boy_med",
-      "krw": 3550000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Navy",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2022-08-09T11:43:28",
-      "store": "Seolleung",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/goods/update2/img2022/08/000000000000_9810405_0.jpg",
-      "stamp": "—",
       "leather": "—"
     },
     {
