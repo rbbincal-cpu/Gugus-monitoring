@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T06:14:58+00:00",
+  "generatedAt": "2026-08-22T07:04:57+00:00",
   "fxRate": 0.04447,
   "listings": [
     {
@@ -40,7 +40,7 @@
         false
       ],
       "postedAt": "2026-08-20T14:49:57",
-      "store": "본사센터1",
+      "store": "Apgujeong",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10561136/10561136_1_20260821091914.jpg",
       "stamp": "—",
@@ -172,7 +172,7 @@
         false
       ],
       "postedAt": "2026-08-19T12:17:50",
-      "store": "본사센터1",
+      "store": "Cheongdam Black",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10559500/10559500_1_20260821113630.jpg",
       "stamp": "—",
@@ -194,7 +194,7 @@
         false
       ],
       "postedAt": "2026-08-19T11:55:34",
-      "store": "본사센터2",
+      "store": "Haeundae Marine",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10559472/IMG_4141_20260820152709.JPG",
       "stamp": "Stamp G",
@@ -2152,7 +2152,7 @@
         false
       ],
       "postedAt": "2026-06-24T16:20:17",
-      "store": "Apgujeong",
+      "store": "Seolleung",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/06/10512717/IMG_9707_20260625174132.JPG",
       "stamp": "Stamp C",
