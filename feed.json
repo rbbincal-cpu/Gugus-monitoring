@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T03:10:30+00:00",
+  "generatedAt": "2026-08-25T04:04:26+00:00",
   "fxRate": 0.04464,
   "listings": [
     {
@@ -744,7 +744,7 @@
         false
       ],
       "postedAt": "2026-08-12T16:35:50",
-      "store": "대구현대점",
+      "store": "Daechi",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10554382/IMG_3927_20260814141829.JPG",
       "stamp": "Stamp T",
@@ -1231,6 +1231,28 @@
       "store": "—",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10547040/Untitled-1_20260804125835.jpg",
+      "stamp": "—",
+      "leather": "Caviar"
+    },
+    {
+      "goodsNo": "10546625",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 3250000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-08-03T17:33:09",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/08/10546625/1_20260803173300.jpg",
       "stamp": "—",
       "leather": "Caviar"
     },
@@ -2291,6 +2313,28 @@
       "leather": "—"
     },
     {
+      "goodsNo": "10507987",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 3135000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Pink",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-18T20:19:01",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10507987/정면_20260618201858.jpg",
+      "stamp": "Series 14",
+      "leather": "—"
+    },
+    {
       "goodsNo": "10506578",
       "brand": "Chanel",
       "model": "Boy · Medium",
@@ -2311,28 +2355,6 @@
       "image": "https://image.gugus.co.kr/gd/2026/06/10506578/10506578_1_20260619105638.jpg",
       "stamp": "—",
       "leather": "—"
-    },
-    {
-      "goodsNo": "10504723",
-      "brand": "Hermès",
-      "model": "Kelly 25",
-      "modelKey": "kelly25",
-      "krw": 33000000,
-      "condition": "New",
-      "year": "—",
-      "color": "Navy",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-06-15T17:36:57",
-      "store": "Apgujeong",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/06/10504723/10486693_1_20260526145639_1000x1000_20260616163521.jpg",
-      "stamp": "Stamp G",
-      "leather": "Epsom"
     },
     {
       "goodsNo": "10503096",
@@ -2599,6 +2621,28 @@
       "leather": "—"
     },
     {
+      "goodsNo": "10455866",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 3500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "White",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-04-16T15:24:36",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/04/10455866/KakaoTalk_20260416_151320743_20260416152412.jpg",
+      "stamp": "—",
+      "leather": "Caviar"
+    },
+    {
       "goodsNo": "10454232",
       "brand": "Chanel",
       "model": "Wallet on Chain",
@@ -2750,6 +2794,28 @@
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/03/10432531/10432531_1_20260326101805.jpg",
       "stamp": "Stamp B",
+      "leather": "—"
+    },
+    {
+      "goodsNo": "10431581",
+      "brand": "Hermès",
+      "model": "Kelly 25",
+      "modelKey": "kelly25",
+      "krw": 47300000,
+      "condition": "Like New",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-03-20T16:49:22",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/03/10431581/구구스-1_20260320164919.jpg",
+      "stamp": "—",
       "leather": "—"
     },
     {
