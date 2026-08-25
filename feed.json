@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T07:54:32+00:00",
+  "generatedAt": "2026-08-25T08:54:40+00:00",
   "fxRate": 0.04464,
   "listings": [
     {
@@ -106,7 +106,7 @@
         false
       ],
       "postedAt": "2026-08-20T16:17:19",
-      "store": "본사센터1",
+      "store": "Apgujeong",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10561387/10561387_1_20260824103623.jpg",
       "stamp": "Stamp Y",
@@ -260,7 +260,7 @@
         false
       ],
       "postedAt": "2026-08-19T13:14:00",
-      "store": "본사센터1",
+      "store": "Apgujeong",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10559606/10559606_1_20260821165522.jpg",
       "stamp": "—",
@@ -1961,28 +1961,6 @@
       "leather": "—"
     },
     {
-      "goodsNo": "10524966",
-      "brand": "Hermès",
-      "model": "Kelly 25",
-      "modelKey": "kelly25",
-      "krw": 26500000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Blue",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-07-08T14:16:26",
-      "store": "—",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/07/10524966/8421_(1)_20260708141622.png",
-      "stamp": "Stamp Z",
-      "leather": "Epsom"
-    },
-    {
       "goodsNo": "10524526",
       "brand": "Hermès",
       "model": "Kelly 25",
@@ -2108,7 +2086,7 @@
         false
       ],
       "postedAt": "2026-07-04T12:23:20",
-      "store": "Myeongdong",
+      "store": "Gwangju Sangmu",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10521828/10521828_1_20260707152709.jpg",
       "stamp": "—",
@@ -2335,6 +2313,28 @@
       "leather": "—"
     },
     {
+      "goodsNo": "10504723",
+      "brand": "Hermès",
+      "model": "Kelly 25",
+      "modelKey": "kelly25",
+      "krw": 33000000,
+      "condition": "New",
+      "year": "—",
+      "color": "Navy",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-15T17:36:57",
+      "store": "Apgujeong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10504723/10486693_1_20260526145639_1000x1000_20260616163521.jpg",
+      "stamp": "Stamp G",
+      "leather": "Epsom"
+    },
+    {
       "goodsNo": "10503096",
       "brand": "Hermès",
       "model": "Kelly 25",
@@ -2376,6 +2376,28 @@
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/06/10501406/10501406_1_20260612111714.jpg",
       "stamp": "—",
+      "leather": "—"
+    },
+    {
+      "goodsNo": "10498954",
+      "brand": "Hermès",
+      "model": "Kelly 25",
+      "modelKey": "kelly25",
+      "krw": 24700000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "#ECE6CC|아이보리",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-09T12:27:23",
+      "store": "대구신세계",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10498954/IMG_5530_20260611113906.JPG",
+      "stamp": "Stamp U",
       "leather": "—"
     },
     {
@@ -3281,28 +3303,6 @@
       "leather": "—"
     },
     {
-      "goodsNo": "10253708",
-      "brand": "Hermès",
-      "model": "Kelly 25",
-      "modelKey": "kelly25",
-      "krw": 18000000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "#FFFFFF|기타컬러",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2025-08-06T14:15:25",
-      "store": "Banpo Shinsegae",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2025/08/10253708/10253708_1_20250806162851.jpg",
-      "stamp": "Stamp Z",
-      "leather": "—"
-    },
-    {
       "goodsNo": "10250818",
       "brand": "Chanel",
       "model": "Boy · Medium",
@@ -3483,7 +3483,7 @@
       "brand": "Chanel",
       "model": "Boy · Medium",
       "modelKey": "boy_med",
-      "krw": 3550000,
+      "krw": 3370000,
       "condition": "Excellent",
       "year": "—",
       "color": "Black",
