@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T10:54:50+00:00",
+  "generatedAt": "2026-08-25T11:37:37+00:00",
   "fxRate": 0.04464,
   "listings": [
     {
@@ -3937,6 +3937,28 @@
       "store": "—",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/goods/updata2/img2022/01/09157826602022017862733971.jpg",
+      "stamp": "—",
+      "leather": "Lambskin"
+    },
+    {
+      "goodsNo": "8351345",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 2100000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2019-07-23T14:31:35",
+      "store": "Daejeon Time World",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/goods/updata2/img2019/07/IMG_5463.jpg",
       "stamp": "—",
       "leather": "Lambskin"
     }
