@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T06:21:46+00:00",
+  "generatedAt": "2026-08-26T07:22:56+00:00",
   "fxRate": 0.04462,
   "listings": [
     {
@@ -421,28 +421,6 @@
       "leather": "—"
     },
     {
-      "goodsNo": "10558169",
-      "brand": "Chanel",
-      "model": "Classic Flap · Jumbo",
-      "modelKey": "cdf_jumbo",
-      "krw": 5300000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-08-18T11:47:52",
-      "store": "Ilsan",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/08/10558169/10558169_1_20260819103659.jpg",
-      "stamp": "—",
-      "leather": "Caviar"
-    },
-    {
       "goodsNo": "10558166",
       "brand": "Hermès",
       "model": "Birkin 30",
@@ -832,7 +810,7 @@
         false
       ],
       "postedAt": "2026-08-12T16:35:50",
-      "store": "Daechi",
+      "store": "Seolleung",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10554382/IMG_3927_20260814141829.JPG",
       "stamp": "Stamp T",
@@ -1565,28 +1543,6 @@
       "leather": "—"
     },
     {
-      "goodsNo": "10541143",
-      "brand": "Hermès",
-      "model": "Birkin 30",
-      "modelKey": "birkin30",
-      "krw": 16000000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Purple",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-07-28T13:15:32",
-      "store": "Apgujeong",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/07/10541143/10541143_1_20260729150251.jpg",
-      "stamp": "Stamp A",
-      "leather": "—"
-    },
-    {
       "goodsNo": "10541101",
       "brand": "Chanel",
       "model": "Classic Flap · Jumbo",
@@ -1651,6 +1607,28 @@
       "image": "https://image.gugus.co.kr/gd/2026/07/10536953/10536953_1_20260723151123.jpg",
       "stamp": "Stamp C",
       "leather": "Epsom"
+    },
+    {
+      "goodsNo": "10540459",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 8800000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-07-27T15:41:09",
+      "store": "Daegu Suseong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/07/10540459/10540459_1_20260729094745.jpg",
+      "stamp": "—",
+      "leather": "Caviar"
     },
     {
       "goodsNo": "10540141",
