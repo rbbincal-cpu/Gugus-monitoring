@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T08:21:06+00:00",
+  "generatedAt": "2026-08-26T09:07:58+00:00",
   "fxRate": 0.04462,
   "listings": [
     {
@@ -84,7 +84,7 @@
         false
       ],
       "postedAt": "2026-08-24T15:39:23",
-      "store": "본사센터1",
+      "store": "Cheongdam Black",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10564430/10564430_1_20260825101123.jpg",
       "stamp": "Stamp K",
@@ -1562,6 +1562,28 @@
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10541317/20260726_084628_20260728142812.png",
       "stamp": "—",
+      "leather": "—"
+    },
+    {
+      "goodsNo": "10541143",
+      "brand": "Hermès",
+      "model": "Birkin 30",
+      "modelKey": "birkin30",
+      "krw": 16000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Purple",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-07-28T13:15:32",
+      "store": "Apgujeong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/07/10541143/10541143_1_20260729150251.jpg",
+      "stamp": "Stamp A",
       "leather": "—"
     },
     {
