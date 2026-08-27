@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-08-27T03:23:50+00:00",
+  "generatedAt": "2026-08-27T14:36:13+00:00",
   "fxRate": 0.04455,
   "listings": [
+    {
+      "goodsNo": "10567343",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 1600000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Blue",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-08-27T12:03:20",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/08/10567343/1000093099_20260827120215.jpg",
+      "stamp": "—",
+      "leather": "—"
+    },
     {
       "goodsNo": "10564980",
       "brand": "Chanel",
@@ -172,7 +194,7 @@
         false
       ],
       "postedAt": "2026-08-20T20:02:07",
-      "store": "본사센터2",
+      "store": "Haeundae Marine",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10561792/10561792_1_20260824152750.jpg",
       "stamp": "—",
@@ -711,7 +733,7 @@
       "brand": "Hermès",
       "model": "Birkin 25",
       "modelKey": "birkin25",
-      "krw": 30200000,
+      "krw": 30000000,
       "condition": "Excellent",
       "year": "—",
       "color": "Black",
@@ -1475,28 +1497,6 @@
       "image": "https://image.gugus.co.kr/gd/2026/07/10544274/10544274_1_20260731170006.jpg",
       "stamp": "Stamp Z",
       "leather": "Epsom"
-    },
-    {
-      "goodsNo": "10544212",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 3300000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-07-31T13:55:39",
-      "store": "Daegu Suseong",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/08/10544212/10544212_1_20260803171714.jpg",
-      "stamp": "—",
-      "leather": "—"
     },
     {
       "goodsNo": "10544136",
@@ -2317,7 +2317,7 @@
       "brand": "Chanel",
       "model": "Boy · Medium",
       "modelKey": "boy_med",
-      "krw": 2500000,
+      "krw": 2300000,
       "condition": "Excellent",
       "year": "—",
       "color": "#A3A2A0|메탈릭",
@@ -3890,7 +3890,7 @@
         false
       ],
       "postedAt": "2024-05-14T11:23:35",
-      "store": "Pangyo",
+      "store": "Daechi",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/goods/update2/img2024/04/000000000000_1829494_0.jpg",
       "stamp": "Stamp Z",
