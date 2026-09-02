@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-09-02T05:59:57+00:00",
+  "generatedAt": "2026-09-02T11:10:53+00:00",
   "fxRate": 0.04552,
   "listings": [
+    {
+      "goodsNo": "10572881",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 3730000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "—",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-09-02T16:24:42",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/09/10572881/1_20260902162426.jpg",
+      "stamp": "—",
+      "leather": "—"
+    },
     {
       "goodsNo": "10569644",
       "brand": "Chanel",
@@ -194,7 +216,7 @@
         false
       ],
       "postedAt": "2026-08-27T13:20:18",
-      "store": "Jamsil",
+      "store": "Apgujeong",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10567447/10567447_1_20260828172132.jpg",
       "stamp": "—",
@@ -2907,28 +2929,6 @@
       "leather": "—"
     },
     {
-      "goodsNo": "10401415",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 1634000,
-      "condition": "Very Good",
-      "year": "—",
-      "color": "—",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-02-11T10:18:45",
-      "store": "—",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/02/10401415/698ad3e86f8a3_20260211101837.jpg",
-      "stamp": "—",
-      "leather": "Caviar"
-    },
-    {
       "goodsNo": "10397033",
       "brand": "Chanel",
       "model": "Wallet on Chain",
@@ -3391,28 +3391,6 @@
       "leather": "—"
     },
     {
-      "goodsNo": "10212554",
-      "brand": "Chanel",
-      "model": "Boy · Medium",
-      "modelKey": "boy_med",
-      "krw": 2800000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Beige",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2025-06-16T11:16:18",
-      "store": "Apgujeong",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2025/06/10212554/10212554_1_20250618134112.jpg",
-      "stamp": "—",
-      "leather": "—"
-    },
-    {
       "goodsNo": "10205385",
       "brand": "Chanel",
       "model": "Wallet on Chain",
@@ -3439,7 +3417,7 @@
       "brand": "Chanel",
       "model": "Wallet on Chain",
       "modelKey": "woc",
-      "krw": 900000,
+      "krw": 800000,
       "condition": "Very Good",
       "year": "—",
       "color": "Navy",
