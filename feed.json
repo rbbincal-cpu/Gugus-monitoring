@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-05T00:25:53+00:00",
-  "fxRate": 0.04608,
+  "generatedAt": "2026-09-05T04:54:31+00:00",
+  "fxRate": 0.04648,
   "listings": [
     {
       "goodsNo": "10575703",
@@ -67,6 +67,28 @@
       "image": "https://image.gugus.co.kr/gd/2026/09/10573841/자사(10)_20260903151124.jpg",
       "stamp": "Series 20",
       "leather": "—"
+    },
+    {
+      "goodsNo": "10573498",
+      "brand": "Hermès",
+      "model": "Birkin 25",
+      "modelKey": "birkin25",
+      "krw": 37500000,
+      "condition": "Like New",
+      "year": "—",
+      "color": "—",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-09-03T12:35:58",
+      "store": "본사센터1",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/09/10573498/10573498_1_20260904095406.jpg",
+      "stamp": "Stamp W",
+      "leather": "Togo"
     },
     {
       "goodsNo": "10572881",
@@ -1364,28 +1386,6 @@
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10554591/20260811_171843-Photoroom_20260813141131.png",
       "stamp": "Stamp W",
-      "leather": "—"
-    },
-    {
-      "goodsNo": "10554382",
-      "brand": "Hermès",
-      "model": "Birkin 30",
-      "modelKey": "birkin30",
-      "krw": 19300000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-08-12T16:35:50",
-      "store": "대구현대점",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/08/10554382/IMG_3927_20260814141829.JPG",
-      "stamp": "Stamp T",
       "leather": "—"
     },
     {
