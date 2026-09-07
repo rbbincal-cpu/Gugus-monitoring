@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-07T00:18:39+00:00",
-  "fxRate": 0.04646,
+  "generatedAt": "2026-09-07T04:56:17+00:00",
+  "fxRate": 0.04658,
   "listings": [
     {
       "goodsNo": "10575703",
@@ -2361,7 +2361,7 @@
       "brand": "Hermès",
       "model": "Kelly 25",
       "modelKey": "kelly25",
-      "krw": 8120000,
+      "krw": 7710000,
       "condition": "Excellent",
       "year": "—",
       "color": "Camel",
@@ -3098,7 +3098,7 @@
         false
       ],
       "postedAt": "2025-11-18T15:54:04",
-      "store": "Myeongdong",
+      "store": "Hannam",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2025/11/10334986/10334986_1_20251119145051.jpg",
       "stamp": "—",
