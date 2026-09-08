@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T05:22:35+00:00",
+  "generatedAt": "2026-09-08T09:54:22+00:00",
   "fxRate": 0.04661,
   "listings": [
     {
@@ -40,7 +40,7 @@
         false
       ],
       "postedAt": "2026-09-05T12:52:41",
-      "store": "본사센터1",
+      "store": "Cheongdam Black",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/09/10576023/10576023_1_20260907153250.jpg",
       "stamp": "Stamp D",
@@ -84,7 +84,7 @@
         false
       ],
       "postedAt": "2026-09-03T17:50:58",
-      "store": "본사센터1",
+      "store": "Daechi",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/09/10574358/10574358_1_20260904163741.jpg",
       "stamp": "Stamp T",
@@ -194,7 +194,7 @@
         false
       ],
       "postedAt": "2026-09-03T14:14:47",
-      "store": "본사센터1",
+      "store": "Banpo Shinsegae",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/09/10573685/10573685_1_20260907091253.jpg",
       "stamp": "Stamp Z",
