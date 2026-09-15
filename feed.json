@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T05:16:17+00:00",
+  "generatedAt": "2026-09-15T10:10:56+00:00",
   "fxRate": 0.04675,
   "listings": [
     {
@@ -238,9 +238,9 @@
         false
       ],
       "postedAt": "2026-09-08T15:14:27",
-      "store": "Haeundae Marine",
+      "store": "본사센터2",
       "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/09/10578372/IMG_6326_20260910150922.JPG",
+      "image": "https://image.gugus.co.kr/gd/2026/09/10578372/IMG_6502_20260915174730.JPG",
       "stamp": "Stamp Y",
       "leather": "Togo"
     },
@@ -678,7 +678,7 @@
         false
       ],
       "postedAt": "2026-09-02T12:42:32",
-      "store": "Cheongdam Black",
+      "store": "Daechi",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/09/10572339/10572339_1_20260903095424.jpg",
       "stamp": "Stamp O",
@@ -953,7 +953,7 @@
       "brand": "Chanel",
       "model": "Boy · Medium",
       "modelKey": "boy_med",
-      "krw": 6500000,
+      "krw": 6480000,
       "condition": "Excellent",
       "year": "—",
       "color": "Silver",
@@ -1668,7 +1668,7 @@
         false
       ],
       "postedAt": "2026-07-31T14:37:55",
-      "store": "Banpo Shinsegae",
+      "store": "Cheongdam Black",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10544274/10544274_1_20260731170006.jpg",
       "stamp": "Stamp Z",
@@ -2449,7 +2449,7 @@
       "brand": "Chanel",
       "model": "Boy · Medium",
       "modelKey": "boy_med",
-      "krw": 600000,
+      "krw": 550000,
       "condition": "Excellent",
       "year": "—",
       "color": "Green",
@@ -3593,7 +3593,7 @@
       "brand": "Chanel",
       "model": "Boy · Medium",
       "modelKey": "boy_med",
-      "krw": 1950000,
+      "krw": 1850000,
       "condition": "Excellent",
       "year": "—",
       "color": "Grey",
