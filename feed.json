@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T04:45:28+00:00",
+  "generatedAt": "2026-09-17T09:41:10+00:00",
   "fxRate": 0.04582,
   "listings": [
     {
@@ -62,7 +62,7 @@
         false
       ],
       "postedAt": "2026-09-14T16:48:06",
-      "store": "본사센터1",
+      "store": "Banpo Shinsegae",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/09/10584720/10584720_1_20260916101315.jpg",
       "stamp": "Stamp Z",
@@ -84,7 +84,7 @@
         false
       ],
       "postedAt": "2026-09-14T13:18:18",
-      "store": "본사센터2",
+      "store": "Daegu Suseong",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/09/10584198/IMG_6430_20260915162349.JPG",
       "stamp": "Stamp K",
@@ -729,28 +729,6 @@
       "leather": "Lambskin"
     },
     {
-      "goodsNo": "10573498",
-      "brand": "Hermès",
-      "model": "Birkin 25",
-      "modelKey": "birkin25",
-      "krw": 37500000,
-      "condition": "Like New",
-      "year": "—",
-      "color": "—",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-09-03T12:35:58",
-      "store": "Apgujeong",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/09/10573498/10573498_1_20260904095406.jpg",
-      "stamp": "Stamp W",
-      "leather": "Togo"
-    },
-    {
       "goodsNo": "10572881",
       "brand": "Chanel",
       "model": "Wallet on Chain",
@@ -1099,28 +1077,6 @@
       "store": "Apgujeong",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10566431/10566431_1_20260827110803.jpg",
-      "stamp": "—",
-      "leather": "—"
-    },
-    {
-      "goodsNo": "10565965",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 2000000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-08-25T18:27:19",
-      "store": "Myeongdong",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/08/10565965/10565965_1_20260831111043.jpg",
       "stamp": "—",
       "leather": "—"
     },
@@ -1719,28 +1675,6 @@
       "leather": "Lambskin"
     },
     {
-      "goodsNo": "10544274",
-      "brand": "Hermès",
-      "model": "Kelly 25",
-      "modelKey": "kelly25",
-      "krw": 29000000,
-      "condition": "Like New",
-      "year": "—",
-      "color": "Brown",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-07-31T14:37:55",
-      "store": "Cheongdam Black",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/07/10544274/10544274_1_20260731170006.jpg",
-      "stamp": "Stamp Z",
-      "leather": "Epsom"
-    },
-    {
       "goodsNo": "10543481",
       "brand": "Hermès",
       "model": "Kelly 25",
@@ -2115,6 +2049,28 @@
       "leather": "—"
     },
     {
+      "goodsNo": "10524526",
+      "brand": "Hermès",
+      "model": "Kelly 25",
+      "modelKey": "kelly25",
+      "krw": 27470000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-07-07T18:46:51",
+      "store": "Daechi",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/07/10524526/10524526_1_20260709155747.jpg",
+      "stamp": "Stamp B",
+      "leather": "—"
+    },
+    {
       "goodsNo": "10523784",
       "brand": "Hermès",
       "model": "Kelly 25",
@@ -2273,7 +2229,7 @@
       "brand": "Chanel",
       "model": "Classic Flap · Medium",
       "modelKey": "cdf_medium",
-      "krw": 4270000,
+      "krw": 3900000,
       "condition": "Very Good",
       "year": "—",
       "color": "Beige",
@@ -2951,28 +2907,6 @@
       "leather": "—"
     },
     {
-      "goodsNo": "10401415",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 1634000,
-      "condition": "Very Good",
-      "year": "—",
-      "color": "—",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-02-11T10:18:45",
-      "store": "—",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/02/10401415/698ad3e86f8a3_20260211101837.jpg",
-      "stamp": "—",
-      "leather": "Caviar"
-    },
-    {
       "goodsNo": "10397033",
       "brand": "Chanel",
       "model": "Wallet on Chain",
@@ -3171,28 +3105,6 @@
       "leather": "—"
     },
     {
-      "goodsNo": "10332424",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 2800000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "—",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2025-11-14T17:25:56",
-      "store": "—",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2025/11/10332424/B613_0000_IMG_9587_20251114172550.jpg",
-      "stamp": "Series 25",
-      "leather": "Caviar"
-    },
-    {
       "goodsNo": "10328306",
       "brand": "Chanel",
       "model": "Boy · Medium",
@@ -3277,6 +3189,28 @@
       "store": "영등포신세계점",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2025/10/10304193/10304193_1_20251020102455.jpg",
+      "stamp": "—",
+      "leather": "—"
+    },
+    {
+      "goodsNo": "10300069",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 2400000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "#FFFFFF|멀티컬러",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-10-09T16:38:21",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/10/10300069/IMG_4640복사_20251009163819.jpg",
       "stamp": "—",
       "leather": "—"
     },
