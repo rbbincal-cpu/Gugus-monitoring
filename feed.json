@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T01:37:29+00:00",
+  "generatedAt": "2026-09-18T06:38:56+00:00",
   "fxRate": 0.04543,
   "listings": [
     {
@@ -18,7 +18,7 @@
         false
       ],
       "postedAt": "2026-09-15T12:47:56",
-      "store": "Seolleung",
+      "store": "Ilsan",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/09/10585613/10585613_1_20260915150105.jpg",
       "stamp": "—",
@@ -111,6 +111,28 @@
       "image": "https://image.gugus.co.kr/gd/2026/09/10583795/KakaoTalk_20260913_090441249_20260914150950.jpg",
       "stamp": "Series 29",
       "leather": "—"
+    },
+    {
+      "goodsNo": "10582592",
+      "brand": "Chanel",
+      "model": "Classic Flap · Small",
+      "modelKey": "cdf_small",
+      "krw": 8000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "White",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-09-11T15:57:38",
+      "store": "본사센터2",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/09/10582592/10582592_1_20260917102433.jpg",
+      "stamp": "—",
+      "leather": "Caviar"
     },
     {
       "goodsNo": "10582430",
@@ -1477,28 +1499,6 @@
       "leather": "—"
     },
     {
-      "goodsNo": "10558119",
-      "brand": "Chanel",
-      "model": "Classic Flap · Jumbo",
-      "modelKey": "cdf_jumbo",
-      "krw": 8000000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-08-18T11:22:31",
-      "store": "Myeongdong",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/08/10558119/10558119_1_20260820145818.jpg",
-      "stamp": "—",
-      "leather": "Caviar"
-    },
-    {
       "goodsNo": "10556265",
       "brand": "Hermès",
       "model": "Kelly 25",
@@ -2548,7 +2548,7 @@
         false
       ],
       "postedAt": "2026-04-18T11:53:12",
-      "store": "대구현대점",
+      "store": "Apgujeong",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/04/10457645/IMG_9910_20260421150531.JPG",
       "stamp": "Stamp Z",
