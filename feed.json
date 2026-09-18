@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T06:38:56+00:00",
+  "generatedAt": "2026-09-18T11:53:48+00:00",
   "fxRate": 0.04543,
   "listings": [
     {
@@ -128,7 +128,7 @@
         false
       ],
       "postedAt": "2026-09-11T15:57:38",
-      "store": "본사센터2",
+      "store": "Daegu Suseong",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/09/10582592/10582592_1_20260917102433.jpg",
       "stamp": "—",
@@ -2115,6 +2115,28 @@
       "leather": "Caviar"
     },
     {
+      "goodsNo": "10523461",
+      "brand": "Hermès",
+      "model": "Kelly 25",
+      "modelKey": "kelly25",
+      "krw": 27000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Yellow",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-07-06T19:03:33",
+      "store": "Apgujeong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/07/10523461/10523461_1_20260708154342.jpg",
+      "stamp": "Stamp Z",
+      "leather": "—"
+    },
+    {
       "goodsNo": "10522972",
       "brand": "Chanel",
       "model": "Boy · Medium",
@@ -2530,28 +2552,6 @@
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/04/10464843/KakaoTalk_20260427_105056423_20260427110506.jpg",
       "stamp": "Series 29",
-      "leather": "—"
-    },
-    {
-      "goodsNo": "10457645",
-      "brand": "Hermès",
-      "model": "Kelly 25",
-      "modelKey": "kelly25",
-      "krw": 25000000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Brown",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-04-18T11:53:12",
-      "store": "Apgujeong",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/04/10457645/IMG_9910_20260421150531.JPG",
-      "stamp": "Stamp Z",
       "leather": "—"
     },
     {
@@ -3589,28 +3589,6 @@
       "leather": "—"
     },
     {
-      "goodsNo": "10019070",
-      "brand": "Chanel",
-      "model": "Boy · Medium",
-      "modelKey": "boy_med",
-      "krw": 1850000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Grey",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2024-10-07T14:14:21",
-      "store": "Ilsan",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2024/10/10019070/10019070_1_20241010173308.jpg",
-      "stamp": "—",
-      "leather": "—"
-    },
-    {
       "goodsNo": "10014916",
       "brand": "Chanel",
       "model": "Boy · Medium",
@@ -3719,6 +3697,28 @@
       "image": "https://image.gugus.co.kr/goods/updata2/img2024/06/13183773932024060848103372.jpg",
       "stamp": "—",
       "leather": "—"
+    },
+    {
+      "goodsNo": "9763446",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 5900000,
+      "condition": "Like New",
+      "year": "—",
+      "color": "Green",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2024-05-31T12:03:51",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/goods/updata2/img2024/05/64436507802024059588234851.jpg",
+      "stamp": "—",
+      "leather": "Lambskin"
     },
     {
       "goodsNo": "1829494",
