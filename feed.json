@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T01:34:47+00:00",
+  "generatedAt": "2026-09-21T07:06:55+00:00",
   "fxRate": 0.04537,
   "listings": [
     {
@@ -414,7 +414,7 @@
         false
       ],
       "postedAt": "2026-09-09T16:15:01",
-      "store": "Ilsan",
+      "store": "Hannam",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/09/10579917/10579917_1_20260910134104.jpg",
       "stamp": "Stamp X",
@@ -1189,28 +1189,6 @@
       "image": "https://image.gugus.co.kr/gd/2026/08/10567232/IMG_4532_20260831164909.JPG",
       "stamp": "Stamp D",
       "leather": "Togo"
-    },
-    {
-      "goodsNo": "10567081",
-      "brand": "Hermès",
-      "model": "Birkin 25",
-      "modelKey": "birkin25",
-      "krw": 30000000,
-      "condition": "Like New",
-      "year": "—",
-      "color": "#ECE6CC|아이보리",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-08-26T18:18:49",
-      "store": "대구현대점",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/08/10567081/IMG_4428_20260828153720.JPG",
-      "stamp": "Stamp Y",
-      "leather": "—"
     },
     {
       "goodsNo": "10566786",
@@ -2339,7 +2317,7 @@
       "brand": "Chanel",
       "model": "Wallet on Chain",
       "modelKey": "woc",
-      "krw": 2840000,
+      "krw": 2850000,
       "condition": "Like New",
       "year": "—",
       "color": "—",
