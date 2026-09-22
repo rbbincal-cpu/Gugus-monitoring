@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T06:21:54+00:00",
+  "generatedAt": "2026-09-22T11:54:35+00:00",
   "fxRate": 0.04573,
   "listings": [
     {
@@ -62,7 +62,7 @@
         false
       ],
       "postedAt": "2026-09-19T12:14:57",
-      "store": "본사센터1",
+      "store": "Jamsil",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/09/10591107/10591107_1_20260921161238.jpg",
       "stamp": "Stamp K",
@@ -84,7 +84,7 @@
         false
       ],
       "postedAt": "2026-09-19T12:02:52",
-      "store": "본사센터1",
+      "store": "Jamsil",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/09/10591082/10591082_1_20260921141948.jpg",
       "stamp": "Stamp B",
@@ -249,7 +249,7 @@
       "brand": "Hermès",
       "model": "Birkin 30",
       "modelKey": "birkin30",
-      "krw": 29500000,
+      "krw": 28900000,
       "condition": "Excellent",
       "year": "—",
       "color": "Brown",
