@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T01:21:31+00:00",
+  "generatedAt": "2026-09-24T06:20:36+00:00",
   "fxRate": 0.04594,
   "listings": [
     {
@@ -45,6 +45,28 @@
       "image": "https://image.gugus.co.kr/gd/2026/09/10592797/IMG_9366_20260921200108.JPEG",
       "stamp": "—",
       "leather": "Caviar"
+    },
+    {
+      "goodsNo": "10592663",
+      "brand": "Hermès",
+      "model": "Kelly 25",
+      "modelKey": "kelly25",
+      "krw": 42000000,
+      "condition": "New",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-09-21T18:28:27",
+      "store": "본사센터1",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/09/10592663/10592663_1_20260922172517.jpg",
+      "stamp": "Stamp K",
+      "leather": "Epsom"
     },
     {
       "goodsNo": "10592596",
@@ -177,6 +199,28 @@
       "image": "https://image.gugus.co.kr/gd/2026/08/10558201/10558201_1_20260819172315.jpg",
       "stamp": "Stamp G",
       "leather": "—"
+    },
+    {
+      "goodsNo": "10590090",
+      "brand": "Hermès",
+      "model": "Birkin 30",
+      "modelKey": "birkin30",
+      "krw": 24500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Grey",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-09-18T13:08:57",
+      "store": "Daegu Suseong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/09/10590090/IMG_7954_20260922143335.JPG",
+      "stamp": "Stamp D",
+      "leather": "Togo"
     },
     {
       "goodsNo": "10589347",
@@ -419,6 +463,28 @@
       "image": "https://image.gugus.co.kr/gd/2026/09/10587229/10587229_1_20260917154737.jpg",
       "stamp": "—",
       "leather": "—"
+    },
+    {
+      "goodsNo": "10586528",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 7000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "—",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-09-15T18:00:18",
+      "store": "본사센터2",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/09/10586528/10586528_1_20260921105753.jpg",
+      "stamp": "—",
+      "leather": "Caviar"
     },
     {
       "goodsNo": "10584900",
@@ -1235,28 +1301,6 @@
       "leather": "—"
     },
     {
-      "goodsNo": "10570692",
-      "brand": "Hermès",
-      "model": "Birkin 25",
-      "modelKey": "birkin25",
-      "krw": 40000000,
-      "condition": "New",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-08-31T17:25:30",
-      "store": "대구현대점",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/09/10570692/IMG_4942_20260902150905.JPG",
-      "stamp": "Stamp K",
-      "leather": "Togo"
-    },
-    {
       "goodsNo": "10569576",
       "brand": "Chanel",
       "model": "Classic Flap · Jumbo",
@@ -1717,28 +1761,6 @@
       "image": "https://image.gugus.co.kr/gd/2026/08/10559775/10559775_1_20260821093540.jpg",
       "stamp": "—",
       "leather": "Lambskin"
-    },
-    {
-      "goodsNo": "10559606",
-      "brand": "Chanel",
-      "model": "Classic Flap · Small",
-      "modelKey": "cdf_small",
-      "krw": 10900000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-08-19T13:14:00",
-      "store": "Apgujeong",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/08/10559606/10559606_1_20260821165522.jpg",
-      "stamp": "—",
-      "leather": "Caviar"
     },
     {
       "goodsNo": "10556265",
@@ -2357,28 +2379,6 @@
       "leather": "Caviar"
     },
     {
-      "goodsNo": "10523461",
-      "brand": "Hermès",
-      "model": "Kelly 25",
-      "modelKey": "kelly25",
-      "krw": 27000000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Yellow",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-07-06T19:03:33",
-      "store": "Apgujeong",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/07/10523461/10523461_1_20260708154342.jpg",
-      "stamp": "Stamp Z",
-      "leather": "—"
-    },
-    {
       "goodsNo": "10522972",
       "brand": "Chanel",
       "model": "Boy · Medium",
@@ -2530,28 +2530,6 @@
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/06/10508944/10508944_1_20260622091542.jpg",
       "stamp": "—",
-      "leather": "—"
-    },
-    {
-      "goodsNo": "10507987",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 3135000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Pink",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-06-18T20:19:01",
-      "store": "—",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/06/10507987/정면_20260618201858.jpg",
-      "stamp": "Series 14",
       "leather": "—"
     },
     {
