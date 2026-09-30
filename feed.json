@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T08:33:15+00:00",
+  "generatedAt": "2026-09-30T08:53:09+00:00",
   "fxRate": 0.04627,
   "listings": [
     {
@@ -2313,6 +2313,28 @@
       "leather": "—"
     },
     {
+      "goodsNo": "10524526",
+      "brand": "Hermès",
+      "model": "Kelly 25",
+      "modelKey": "kelly25",
+      "krw": 26640000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-07-07T18:46:51",
+      "store": "Seolleung",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/07/10524526/10524526_1_20260709155747.jpg",
+      "stamp": "Stamp B",
+      "leather": "—"
+    },
+    {
       "goodsNo": "10523784",
       "brand": "Hermès",
       "model": "Kelly 25",
@@ -3762,28 +3784,6 @@
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2024/10/10014916/10014916_1_20241011115211.jpg",
       "stamp": "—",
-      "leather": "—"
-    },
-    {
-      "goodsNo": "10005726",
-      "brand": "Hermès",
-      "model": "Kelly 25",
-      "modelKey": "kelly25",
-      "krw": 10500000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2024-09-19T16:51:39",
-      "store": "대구센터점",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2024/09/10005726/10005726_1_20240920135649.jpg",
-      "stamp": "Stamp B",
       "leather": "—"
     },
     {
