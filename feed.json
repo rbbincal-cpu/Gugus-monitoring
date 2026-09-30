@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T05:25:15+00:00",
+  "generatedAt": "2026-09-30T05:46:25+00:00",
   "fxRate": 0.04627,
   "listings": [
     {
@@ -2533,11 +2533,33 @@
       "leather": "—"
     },
     {
+      "goodsNo": "10507987",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 3135000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Pink",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-06-18T20:19:01",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/06/10507987/정면_20260618201858.jpg",
+      "stamp": "Series 14",
+      "leather": "—"
+    },
+    {
       "goodsNo": "10506578",
       "brand": "Chanel",
       "model": "Boy · Medium",
       "modelKey": "boy_med",
-      "krw": 2300000,
+      "krw": 2050000,
       "condition": "Excellent",
       "year": "—",
       "color": "#A3A2A0|메탈릭",
