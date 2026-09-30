@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T02:07:26+00:00",
+  "generatedAt": "2026-09-30T02:38:08+00:00",
   "fxRate": 0.04627,
   "listings": [
     {
@@ -150,7 +150,7 @@
         false
       ],
       "postedAt": "2026-09-23T12:08:53",
-      "store": "본사센터2",
+      "store": "대구현대점",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/09/10594510/IMG_8014_20260929133837.JPG",
       "stamp": "Stamp K",
@@ -3127,28 +3127,6 @@
       "leather": "—"
     },
     {
-      "goodsNo": "10397033",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 2500000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "—",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-02-05T16:47:43",
-      "store": "—",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/02/10397033/KakaoTalk_20260205_145209765_08_20260205164742.jpg",
-      "stamp": "—",
-      "leather": "Caviar"
-    },
-    {
       "goodsNo": "10391768",
       "brand": "Chanel",
       "model": "Boy · Medium",
@@ -3233,6 +3211,28 @@
       "store": "—",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2025/11/10343599/구구스-1_20251127182139.jpg",
+      "stamp": "—",
+      "leather": "—"
+    },
+    {
+      "goodsNo": "10341088",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 3000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-11-25T14:10:07",
+      "store": "Daechi",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/11/10341088/10341088_1_20251127134940.jpg",
       "stamp": "—",
       "leather": "—"
     },
