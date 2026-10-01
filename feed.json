@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-30T23:55:18+00:00",
-  "fxRate": 0.04627,
+  "generatedAt": "2026-10-01T01:09:29+00:00",
+  "fxRate": 0.04629,
   "listings": [
     {
       "goodsNo": "10597621",
@@ -23,28 +23,6 @@
       "image": "https://image.gugus.co.kr/gd/2026/09/10597621/1_20260929141624.jpg",
       "stamp": "—",
       "leather": "—"
-    },
-    {
-      "goodsNo": "10597116",
-      "brand": "Chanel",
-      "model": "Classic Flap · Jumbo",
-      "modelKey": "cdf_jumbo",
-      "krw": 6250000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-09-29T10:23:24",
-      "store": "—",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/09/10597116/1-1_20260929102321.jpg",
-      "stamp": "—",
-      "leather": "Caviar"
     },
     {
       "goodsNo": "10596640",
@@ -1761,6 +1739,28 @@
       "image": "https://image.gugus.co.kr/gd/2026/08/10559822/10559822_1_20260820140552.jpg",
       "stamp": "Stamp X",
       "leather": "Epsom"
+    },
+    {
+      "goodsNo": "10559775",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 4500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-08-19T14:29:02",
+      "store": "대구현대점",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/08/10559775/10559775_1_20260821093540.jpg",
+      "stamp": "—",
+      "leather": "Lambskin"
     },
     {
       "goodsNo": "10556265",
