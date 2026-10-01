@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T03:33:36+00:00",
+  "generatedAt": "2026-10-01T03:54:29+00:00",
   "fxRate": 0.04629,
   "listings": [
     {
@@ -722,7 +722,7 @@
         false
       ],
       "postedAt": "2026-09-15T18:00:18",
-      "store": "본사센터2",
+      "store": "대구현대점",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/09/10586540/10586540_1_20260928101740.jpg",
       "stamp": "—",
@@ -1536,7 +1536,7 @@
         false
       ],
       "postedAt": "2026-08-25T13:59:25",
-      "store": "영등포신세계점",
+      "store": "Hannam",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10565315/10565315_1_20260828102301.jpg",
       "stamp": "—",
