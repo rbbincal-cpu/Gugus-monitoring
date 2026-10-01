@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T05:24:46+00:00",
+  "generatedAt": "2026-10-01T05:46:27+00:00",
   "fxRate": 0.04629,
   "listings": [
     {
@@ -1211,28 +1211,6 @@
       "image": "https://image.gugus.co.kr/gd/2026/09/10577575/10577575_1_20260908150305.jpg",
       "stamp": "—",
       "leather": "Caviar"
-    },
-    {
-      "goodsNo": "10577035",
-      "brand": "Hermès",
-      "model": "Birkin 30",
-      "modelKey": "birkin30",
-      "krw": 15500000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Purple",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-09-07T14:56:40",
-      "store": "Hannam",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/07/10541143/10541143_1_20260729150251.jpg",
-      "stamp": "Stamp A",
-      "leather": "—"
     },
     {
       "goodsNo": "10576826",
