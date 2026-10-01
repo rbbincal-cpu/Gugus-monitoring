@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T05:58:08+00:00",
+  "generatedAt": "2026-10-01T06:40:29+00:00",
   "fxRate": 0.04629,
   "listings": [
     {
@@ -18,7 +18,7 @@
         false
       ],
       "postedAt": "2026-09-29T15:23:45",
-      "store": "본사센터1",
+      "store": "Daechi",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/09/10597775/10597775_1_20260930110350.jpg",
       "stamp": "Stamp W",
@@ -843,7 +843,7 @@
       "brand": "Chanel",
       "model": "Wallet on Chain",
       "modelKey": "woc",
-      "krw": 2500000,
+      "krw": 2490000,
       "condition": "Excellent",
       "year": "—",
       "color": "Black",
