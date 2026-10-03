@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T07:06:00+00:00",
+  "generatedAt": "2026-10-03T07:30:49+00:00",
   "fxRate": 0.0465,
   "listings": [
     {
@@ -84,7 +84,7 @@
         false
       ],
       "postedAt": "2026-09-30T15:26:22",
-      "store": "본사센터1",
+      "store": "Apgujeong",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/10/10598978/10598978_1_20261001165334.jpg",
       "stamp": "Stamp B",
@@ -2530,28 +2530,6 @@
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/06/10508944/10508944_1_20260622091542.jpg",
       "stamp": "—",
-      "leather": "—"
-    },
-    {
-      "goodsNo": "10507987",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 3135000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Pink",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-06-18T20:19:01",
-      "store": "—",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/06/10507987/정면_20260618201858.jpg",
-      "stamp": "Series 14",
       "leather": "—"
     },
     {
