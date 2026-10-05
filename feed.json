@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T08:07:58+00:00",
+  "generatedAt": "2026-10-05T08:52:18+00:00",
   "fxRate": 0.04662,
   "listings": [
     {
@@ -3505,7 +3505,7 @@
       "brand": "Chanel",
       "model": "Classic Flap · Small",
       "modelKey": "cdf_small",
-      "krw": 4300000,
+      "krw": 4100000,
       "condition": "Very Good",
       "year": "—",
       "color": "Purple",
@@ -3725,7 +3725,7 @@
       "brand": "Chanel",
       "model": "Classic Flap · Medium",
       "modelKey": "cdf_medium",
-      "krw": 5500000,
+      "krw": 5000000,
       "condition": "Excellent",
       "year": "—",
       "color": "Purple",
