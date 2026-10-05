@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T09:40:28+00:00",
+  "generatedAt": "2026-10-05T10:02:54+00:00",
   "fxRate": 0.04662,
   "listings": [
     {
@@ -62,7 +62,7 @@
         false
       ],
       "postedAt": "2026-10-01T12:00:58",
-      "store": "본사센터1",
+      "store": "아크로삼성점",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/10/10599935/10599935_1_20261001152848.jpg",
       "stamp": "Stamp G",
