@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T05:24:48+00:00",
+  "generatedAt": "2026-10-06T05:46:55+00:00",
   "fxRate": 0.04667,
   "listings": [
     {
@@ -1169,28 +1169,6 @@
       "leather": "Caviar"
     },
     {
-      "goodsNo": "10578912",
-      "brand": "Hermès",
-      "model": "Birkin 25",
-      "modelKey": "birkin25",
-      "krw": 23500000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Beige",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-09-08T18:33:18",
-      "store": "Apgujeong",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/09/10578912/10578912_1_20260911163641.jpg",
-      "stamp": "Stamp X",
-      "leather": "—"
-    },
-    {
       "goodsNo": "10578914",
       "brand": "Hermès",
       "model": "Kelly 25",
@@ -1745,7 +1723,7 @@
       "brand": "Chanel",
       "model": "Wallet on Chain",
       "modelKey": "woc",
-      "krw": 3380000,
+      "krw": 3330000,
       "condition": "Excellent",
       "year": "—",
       "color": "Purple",
