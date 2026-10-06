@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T07:33:32+00:00",
+  "generatedAt": "2026-10-06T07:52:14+00:00",
   "fxRate": 0.04667,
   "listings": [
     {
@@ -84,7 +84,7 @@
         false
       ],
       "postedAt": "2026-10-01T12:00:58",
-      "store": "아크로삼성점",
+      "store": "Cheongdam Black",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/10/10599935/10599935_1_20261001152848.jpg",
       "stamp": "Stamp G",
@@ -2504,7 +2504,7 @@
         false
       ],
       "postedAt": "2026-06-23T16:16:13",
-      "store": "영등포신세계점",
+      "store": "Bundang Jeongja",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/06/10511467/10511467_1_20260625133857.jpg",
       "stamp": "—",
