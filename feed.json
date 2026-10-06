@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T08:52:09+00:00",
+  "generatedAt": "2026-10-06T09:00:56+00:00",
   "fxRate": 0.04667,
   "listings": [
     {
@@ -1587,6 +1587,28 @@
       "leather": "Caviar"
     },
     {
+      "goodsNo": "10565087",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 5500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-08-25T12:07:44",
+      "store": "Ilsan",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/08/10565087/10565087_1_20260826162433.jpg",
+      "stamp": "—",
+      "leather": "Caviar"
+    },
+    {
       "goodsNo": "10564980",
       "brand": "Chanel",
       "model": "Wallet on Chain",
@@ -1651,6 +1673,28 @@
       "image": "https://image.gugus.co.kr/gd/2026/08/10564430/10564430_1_20260825101123.jpg",
       "stamp": "Stamp K",
       "leather": "Togo"
+    },
+    {
+      "goodsNo": "10562526",
+      "brand": "Chanel",
+      "model": "Classic Flap · Jumbo",
+      "modelKey": "cdf_jumbo",
+      "krw": 7300000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-08-21T15:54:21",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/08/10562526/01_20260821155415.jpg",
+      "stamp": "—",
+      "leather": "Caviar"
     },
     {
       "goodsNo": "10561387",
@@ -2222,28 +2266,6 @@
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10531126/IM637RRTOJML_20260715181357.jpg",
       "stamp": "Series 25",
-      "leather": "—"
-    },
-    {
-      "goodsNo": "10530154",
-      "brand": "Chanel",
-      "model": "Classic Flap · Jumbo",
-      "modelKey": "cdf_jumbo",
-      "krw": 5050000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-07-14T19:16:11",
-      "store": "Pangyo",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/07/10530154/10530154_1_20260716094801.jpg",
-      "stamp": "—",
       "leather": "—"
     },
     {
@@ -3475,28 +3497,6 @@
       "store": "Haeundae Marine",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2025/06/10222714/10222714_1_20250630145214.jpg",
-      "stamp": "—",
-      "leather": "—"
-    },
-    {
-      "goodsNo": "10214025",
-      "brand": "Chanel",
-      "model": "Classic Flap · Small",
-      "modelKey": "cdf_small",
-      "krw": 4100000,
-      "condition": "Very Good",
-      "year": "—",
-      "color": "Purple",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2025-06-17T16:41:18",
-      "store": "Hannam",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2025/06/10214025/10214025_1_20250620103817.jpg",
       "stamp": "—",
       "leather": "—"
     },
