@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T09:00:56+00:00",
+  "generatedAt": "2026-10-06T09:27:36+00:00",
   "fxRate": 0.04667,
   "listings": [
     {
@@ -1167,6 +1167,28 @@
       "image": "https://image.gugus.co.kr/gd/2026/09/10579221/10579221_1_20260911091640.jpg",
       "stamp": "—",
       "leather": "Caviar"
+    },
+    {
+      "goodsNo": "10578912",
+      "brand": "Hermès",
+      "model": "Birkin 25",
+      "modelKey": "birkin25",
+      "krw": 23500000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Beige",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-09-08T18:33:18",
+      "store": "Apgujeong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/09/10578912/10578912_1_20260911163641.jpg",
+      "stamp": "Stamp X",
+      "leather": "—"
     },
     {
       "goodsNo": "10578914",
