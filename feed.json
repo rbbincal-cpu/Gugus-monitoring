@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T03:04:22+00:00",
+  "generatedAt": "2026-10-07T03:31:58+00:00",
   "fxRate": 0.04691,
   "listings": [
     {
@@ -18,7 +18,7 @@
         false
       ],
       "postedAt": "2026-10-05T18:32:13",
-      "store": "본사센터1",
+      "store": "Pangyo",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/10/10603526/10603526_1_20261006164456.jpg",
       "stamp": "Stamp Z",
