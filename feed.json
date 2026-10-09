@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T07:10:02+00:00",
+  "generatedAt": "2026-10-09T07:44:16+00:00",
   "fxRate": 0.04694,
   "listings": [
     {
@@ -18,7 +18,7 @@
         false
       ],
       "postedAt": "2026-10-06T15:43:12",
-      "store": "본사센터1",
+      "store": "Banpo Shinsegae",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/10/10604230/10604230_1_20261007204843.jpg",
       "stamp": "Stamp Y",
