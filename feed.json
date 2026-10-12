@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T06:01:43+00:00",
+  "generatedAt": "2026-10-12T06:56:44+00:00",
   "fxRate": 0.04692,
   "listings": [
     {
@@ -260,7 +260,7 @@
         false
       ],
       "postedAt": "2026-10-01T12:00:58",
-      "store": "Cheongdam Black",
+      "store": "Hannam",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/10/10599935/10599935_1_20261001152848.jpg",
       "stamp": "Stamp G",
@@ -1910,7 +1910,7 @@
         false
       ],
       "postedAt": "2026-08-07T16:16:34",
-      "store": "Cheongdam Black",
+      "store": "Songdo",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10550483/10550483_1_20260807172149.jpg",
       "stamp": "Stamp G",
