@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-10-12T08:14:16+00:00",
+  "generatedAt": "2026-10-12T08:58:53+00:00",
   "fxRate": 0.04692,
   "listings": [
+    {
+      "goodsNo": "10606157",
+      "brand": "Chanel",
+      "model": "Boy · Medium",
+      "modelKey": "boy_med",
+      "krw": 850000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-10-08T12:12:23",
+      "store": "Ilsan",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/10/10606157/10606157_1_20261008132010.jpg",
+      "stamp": "—",
+      "leather": "—"
+    },
     {
       "goodsNo": "10604230",
       "brand": "Hermès",
@@ -617,28 +639,6 @@
       "image": "https://image.gugus.co.kr/gd/2026/09/10592663/10592663_1_20260922172517.jpg",
       "stamp": "Stamp K",
       "leather": "Epsom"
-    },
-    {
-      "goodsNo": "10592596",
-      "brand": "Hermès",
-      "model": "Birkin 30",
-      "modelKey": "birkin30",
-      "krw": 26300000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Camel",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-09-21T17:33:04",
-      "store": "Jamsil",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/09/10592596/10592596_1_20260922145502.jpg",
-      "stamp": "Stamp Z",
-      "leather": "—"
     },
     {
       "goodsNo": "10592391",
@@ -3367,28 +3367,6 @@
       "image": "https://image.gugus.co.kr/gd/2025/11/10332424/B613_0000_IMG_9587_20251114172550.jpg",
       "stamp": "Series 25",
       "leather": "Caviar"
-    },
-    {
-      "goodsNo": "10328306",
-      "brand": "Chanel",
-      "model": "Boy · Medium",
-      "modelKey": "boy_med",
-      "krw": 2800000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2025-11-10T19:22:15",
-      "store": "Cheongdam Black",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2025/11/10328306/10328306_1_20251113132115.jpg",
-      "stamp": "—",
-      "leather": "—"
     },
     {
       "goodsNo": "10325853",
