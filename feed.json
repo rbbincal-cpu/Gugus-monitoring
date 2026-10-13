@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T06:43:30+00:00",
+  "generatedAt": "2026-10-13T07:13:24+00:00",
   "fxRate": 0.04712,
   "listings": [
     {
@@ -128,7 +128,7 @@
         false
       ],
       "postedAt": "2026-10-08T10:47:53",
-      "store": "본사센터1",
+      "store": "Banpo Shinsegae",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/10/10606025/10606025_1_20261012095824.jpg",
       "stamp": "—",
@@ -3087,7 +3087,7 @@
       "brand": "Chanel",
       "model": "Boy · Medium",
       "modelKey": "boy_med",
-      "krw": 3000000,
+      "krw": 2850000,
       "condition": "Excellent",
       "year": "—",
       "color": "Black",
