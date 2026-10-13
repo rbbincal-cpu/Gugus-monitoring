@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T02:12:59+00:00",
+  "generatedAt": "2026-10-13T02:54:29+00:00",
   "fxRate": 0.04712,
   "listings": [
     {
@@ -524,7 +524,7 @@
         false
       ],
       "postedAt": "2026-09-29T11:38:54",
-      "store": "Cheongdam Black",
+      "store": "Bundang Jeongja",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/10/10597257/10597257_1_20261001111431.jpg",
       "stamp": "Stamp T",
@@ -1107,7 +1107,7 @@
       "brand": "Chanel",
       "model": "Wallet on Chain",
       "modelKey": "woc",
-      "krw": 3000000,
+      "krw": 2700000,
       "condition": "Excellent",
       "year": "—",
       "color": "Black",
