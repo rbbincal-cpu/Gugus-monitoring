@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T05:35:02+00:00",
+  "generatedAt": "2026-10-14T05:47:19+00:00",
   "fxRate": 0.04685,
   "listings": [
     {
@@ -2357,28 +2357,6 @@
       "leather": "—"
     },
     {
-      "goodsNo": "10524526",
-      "brand": "Hermès",
-      "model": "Kelly 25",
-      "modelKey": "kelly25",
-      "krw": 25840000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-07-07T18:46:51",
-      "store": "Apgujeong",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/07/10524526/10524526_1_20260709155747.jpg",
-      "stamp": "Stamp B",
-      "leather": "—"
-    },
-    {
       "goodsNo": "10523706",
       "brand": "Chanel",
       "model": "Wallet on Chain",
@@ -2441,6 +2419,28 @@
       "store": "Myeongdong",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/07/10521828/10521828_1_20260707152709.jpg",
+      "stamp": "—",
+      "leather": "—"
+    },
+    {
+      "goodsNo": "10521716",
+      "brand": "Hermès",
+      "model": "Kelly 25",
+      "modelKey": "kelly25",
+      "krw": 23900000,
+      "condition": "Like New",
+      "year": "—",
+      "color": "#ECE6CC|아이보리",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-07-04T02:11:05",
+      "store": "—",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/07/10521716/IMG_2916_20260704020603.jpeg",
       "stamp": "—",
       "leather": "—"
     },
