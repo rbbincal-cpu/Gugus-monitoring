@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T03:56:55+00:00",
+  "generatedAt": "2026-10-14T04:26:27+00:00",
   "fxRate": 0.04685,
   "listings": [
     {
@@ -18,7 +18,7 @@
         false
       ],
       "postedAt": "2026-10-12T13:08:43",
-      "store": "본사센터1",
+      "store": "Hannam",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/10/10608971/10608971_1_20261013110721.jpg",
       "stamp": "Stamp D",
