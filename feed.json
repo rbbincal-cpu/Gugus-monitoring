@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T23:29:24+00:00",
+  "generatedAt": "2026-10-14T23:40:31+00:00",
   "fxRate": 0.04685,
   "listings": [
     {
@@ -1188,28 +1188,6 @@
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/09/10584154/10584154_1_20260917093057.jpg",
       "stamp": "—",
-      "leather": "—"
-    },
-    {
-      "goodsNo": "10583795",
-      "brand": "Chanel",
-      "model": "Wallet on Chain",
-      "modelKey": "woc",
-      "krw": 2490000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-09-13T09:29:23",
-      "store": "—",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/09/10583795/KakaoTalk_20260921_213748465_20260921214126.jpg",
-      "stamp": "Series 29",
       "leather": "—"
     },
     {
@@ -3233,6 +3211,28 @@
       "store": "—",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2025/11/10343599/구구스-1_20251127182139.jpg",
+      "stamp": "—",
+      "leather": "—"
+    },
+    {
+      "goodsNo": "10341088",
+      "brand": "Chanel",
+      "model": "Wallet on Chain",
+      "modelKey": "woc",
+      "krw": 3000000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2025-11-25T14:10:07",
+      "store": "Daegu Suseong",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2025/11/10341088/10341088_1_20251127134940.jpg",
       "stamp": "—",
       "leather": "—"
     },
