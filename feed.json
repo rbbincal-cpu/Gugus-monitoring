@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T00:51:24+00:00",
+  "generatedAt": "2026-10-14T01:13:13+00:00",
   "fxRate": 0.04685,
   "listings": [
     {
@@ -1587,28 +1587,6 @@
       "leather": "Togo"
     },
     {
-      "goodsNo": "10566786",
-      "brand": "Chanel",
-      "model": "Classic Flap · Jumbo",
-      "modelKey": "cdf_jumbo",
-      "krw": 4800000,
-      "condition": "Excellent",
-      "year": "—",
-      "color": "Black",
-      "inclusions": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "postedAt": "2026-08-26T15:50:34",
-      "store": "Apgujeong",
-      "resalePHP": null,
-      "image": "https://image.gugus.co.kr/gd/2026/08/10566786/10566786_1_20260828143037.jpg",
-      "stamp": "—",
-      "leather": "Lambskin"
-    },
-    {
       "goodsNo": "10566431",
       "brand": "Chanel",
       "model": "Boy · Medium",
@@ -1649,6 +1627,28 @@
       "store": "Hannam",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/08/10565354/10565354_1_20260826151334.jpg",
+      "stamp": "—",
+      "leather": "Caviar"
+    },
+    {
+      "goodsNo": "10565315",
+      "brand": "Chanel",
+      "model": "Classic Flap · Small",
+      "modelKey": "cdf_small",
+      "krw": 8430000,
+      "condition": "Excellent",
+      "year": "—",
+      "color": "Black",
+      "inclusions": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "postedAt": "2026-08-25T13:59:25",
+      "store": "Daechi",
+      "resalePHP": null,
+      "image": "https://image.gugus.co.kr/gd/2026/08/10565315/10565315_1_20260828102301.jpg",
       "stamp": "—",
       "leather": "Caviar"
     },
