@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T04:24:33+00:00",
+  "generatedAt": "2026-10-15T04:46:03+00:00",
   "fxRate": 0.04699,
   "listings": [
     {
@@ -194,7 +194,7 @@
         false
       ],
       "postedAt": "2026-10-09T13:36:20",
-      "store": "본사센터1",
+      "store": "Pangyo",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/10/10607245/10607245_1_20261013105941.jpg",
       "stamp": "—",
@@ -216,7 +216,7 @@
         false
       ],
       "postedAt": "2026-10-08T14:38:12",
-      "store": "Haeundae Marine",
+      "store": "Daechi",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/06/10509465/10509465_1_20260623103402.jpg",
       "stamp": "—",
@@ -370,7 +370,7 @@
         false
       ],
       "postedAt": "2026-10-06T15:15:09",
-      "store": "Haeundae Marine",
+      "store": "Daechi",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/10/10604168/10604168_1_20261008112921.jpg",
       "stamp": "—",
