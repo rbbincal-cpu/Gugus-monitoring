@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T05:35:03+00:00",
+  "generatedAt": "2026-10-16T05:47:04+00:00",
   "fxRate": 0.04702,
   "listings": [
     {
@@ -194,7 +194,7 @@
         false
       ],
       "postedAt": "2026-10-10T13:12:11",
-      "store": "본사센터1",
+      "store": "Songdo",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/10/10607966/10607966_1_20261014154251.jpg",
       "stamp": "—",
