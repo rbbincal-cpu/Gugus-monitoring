@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T04:47:02+00:00",
+  "generatedAt": "2026-10-16T04:56:22+00:00",
   "fxRate": 0.04702,
   "listings": [
     {
@@ -18,7 +18,7 @@
         false
       ],
       "postedAt": "2026-10-14T16:33:07",
-      "store": "본사센터1",
+      "store": "Apgujeong",
       "resalePHP": null,
       "image": "https://image.gugus.co.kr/gd/2026/10/10612102/10612102_1_20261015152510.jpg",
       "stamp": "Stamp W",
